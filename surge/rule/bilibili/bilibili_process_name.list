@@ -1,0 +1,12 @@
+#########################################
+# DreamyTZK's Process Name Rule
+# Last Updated: 2024-04-27T10:24:24.473Z
+# Size: 6
+# Only available on macOS
+#########################################
+PROCESS-NAME,com.bilibili.app.blue
+PROCESS-NAME,com.bilibili.app.in
+PROCESS-NAME,com.bilibili.comic
+PROCESS-NAME,com.bilibili.comic.intl
+PROCESS-NAME,tv.danmaku.bili
+PROCESS-NAME,tv.danmaku.bilibilihd

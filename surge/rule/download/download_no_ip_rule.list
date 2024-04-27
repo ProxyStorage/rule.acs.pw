@@ -1,0 +1,10 @@
+#########################################
+# DreamyTZK's No IP Rule
+# Last Updated: 2024-04-27T10:24:24.461Z
+# Size: 4
+# 
+#########################################
+DOMAIN-WILDCARD,download*.mediafire.com
+DOMAIN-WILDCARD,ftp.*.debian.org
+DOMAIN-WILDCARD,edgedl.me.gvt?.com
+URL-REGEX,^http://(.+)\.gvt\d\.com/edgedl

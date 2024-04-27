@@ -1,0 +1,11 @@
+#########################################
+# DreamyTZK's IP Rule
+# Last Updated: 2024-04-27T10:24:24.460Z
+# Size: 5
+# No Resolve
+#########################################
+IP-ASN,211157,no-resolve
+IP-ASN,44907,no-resolve
+IP-ASN,59930,no-resolve
+IP-ASN,62014,no-resolve
+IP-ASN,62041,no-resolve

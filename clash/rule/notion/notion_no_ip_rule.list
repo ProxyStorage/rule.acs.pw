@@ -1,0 +1,11 @@
+#########################################
+# DreamyTZK's No IP RuleSet
+# Last Updated: 2024-04-27T10:24:24.472Z
+# Size: 5
+# 
+#########################################
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so

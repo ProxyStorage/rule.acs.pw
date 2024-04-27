@@ -1,0 +1,12 @@
+#########################################
+# DreamyTZK's No IP RuleSet
+# Last Updated: 2024-04-27T10:24:24.449Z
+# Size: 6
+# 
+#########################################
+DOMAIN-SUFFIX,itv.com
+DOMAIN-SUFFIX,itvstatic.com
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-KEYWORD,bbcfmt
+DOMAIN-KEYWORD,uk-live

@@ -1,0 +1,11 @@
+#########################################
+# DreamyTZK's No IP RuleSet
+# Last Updated: 2024-04-27T10:24:24.474Z
+# Size: 5
+# 
+#########################################
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,speed.dler.io
+DOMAIN-KEYWORD,speedtest

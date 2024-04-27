@@ -1,0 +1,8 @@
+#########################################
+# DreamyTZK's Process Name Rule
+# Last Updated: 2024-04-27T10:24:24.467Z
+# Size: 2
+# Only available on macOS
+#########################################
+PROCESS-NAME,OneDrive
+PROCESS-NAME,OneDriveUpdater
