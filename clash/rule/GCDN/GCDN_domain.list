@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-04-27T14:06:59.120Z
-# Size: 2352
+# Last Updated: 2024-04-27T16:14:13.915Z
+# Size: 2353
 # 
 #########################################
 pic.skk.moe
@@ -896,6 +896,7 @@ files.mastodon.ktachibana.party
 assets.mozilla.social
 assets.chaos.social
 +.pixelcdn.net
+media.masto.nu
 +.misskeyusercontent.com
 +.misskeyusercontent.jp
 o.n1mp.org
