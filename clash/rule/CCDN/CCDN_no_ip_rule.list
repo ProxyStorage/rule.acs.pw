@@ -1,9 +1,10 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-04-28T05:55:22.900Z
-# Size: 224
+# Last Updated: 2024-04-28T06:12:59.388Z
+# Size: 225
 # 
 #########################################
+DOMAIN,res.cdn.office.net
 DOMAIN-SUFFIX,a1.mzstatic.com
 DOMAIN-SUFFIX,a2.mzstatic.com
 DOMAIN-SUFFIX,a3.mzstatic.com

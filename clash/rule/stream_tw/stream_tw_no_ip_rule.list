@@ -1,9 +1,36 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-04-28T05:55:22.882Z
-# Size: 15
+# Last Updated: 2024-04-28T06:12:59.375Z
+# Size: 42
 # 
 #########################################
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+DOMAIN,4gtvfreepcvod-cds.cdn.hinet.net
+DOMAIN,d3c7rimkq79yfu.cloudfront.net
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+DOMAIN,bcbolthboa-a.akamaihd.net
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
+DOMAIN,dai3fd1oh325y.cloudfront.net
+DOMAIN,hboasia1-i.akamaihd.net
+DOMAIN,hboasia2-i.akamaihd.net
+DOMAIN,hboasia3-i.akamaihd.net
+DOMAIN,hboasia4-i.akamaihd.net
+DOMAIN,hboasia5-i.akamaihd.net
+DOMAIN,hbogoprod-vod.akamaized.net
+DOMAIN,manifest.prod.boltdns.net
+DOMAIN,players.brightcove.net
+DOMAIN,s3-ap-southeast-1.amazonaws.com
+DOMAIN,hboasialive.akamaized.net
+DOMAIN,hbounify-prod.evergent.com
+DOMAIN,hbolb.onwardsmg.com
+DOMAIN,bahamut.akamaized.net
+DOMAIN,gamer-cds.cdn.hinet.net
+DOMAIN,gamer2-cds.cdn.hinet.net
+DOMAIN,apm-misaka.biliapi.net
+DOMAIN,p.bstarstatic.com
+DOMAIN,p-bstarstatic.akamaized.net
+DOMAIN,upos-bstar-mirrorakam.akamaized.net
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me

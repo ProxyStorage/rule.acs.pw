@@ -1,9 +1,10 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-04-28T05:55:22.913Z
-# Size: 713
+# Last Updated: 2024-04-28T06:12:59.403Z
+# Size: 714
 # 
 #########################################
+DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com

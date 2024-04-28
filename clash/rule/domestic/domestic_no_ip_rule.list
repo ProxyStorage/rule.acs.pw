@@ -1,9 +1,17 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-04-28T05:55:22.867Z
-# Size: 728
+# Last Updated: 2024-04-28T06:12:59.363Z
+# Size: 736
 # 
 #########################################
+DOMAIN,gs-loc-cn.apple.com
+DOMAIN,cdn.bootcdn.net
+DOMAIN,cdn.bootcss.com
+DOMAIN,www.layuicdn.com
+DOMAIN,xboxlive.cn
+DOMAIN,lv.queniujq.cn
+DOMAIN,cn.download.nvidia.com
+DOMAIN,www.intel.cn
 DOMAIN-SUFFIX,vivo.com
 DOMAIN-SUFFIX,vivo.com.cn
 DOMAIN-SUFFIX,coloros.com

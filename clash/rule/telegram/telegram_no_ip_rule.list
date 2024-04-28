@@ -1,9 +1,11 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-04-28T05:55:22.903Z
-# Size: 23
+# Last Updated: 2024-04-28T06:12:59.391Z
+# Size: 25
 # 
 #########################################
+DOMAIN,api.imem.app
+DOMAIN,api.swiftgram.app
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app
 DOMAIN-SUFFIX,contest.com

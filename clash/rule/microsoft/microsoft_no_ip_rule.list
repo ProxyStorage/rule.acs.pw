@@ -1,9 +1,10 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-04-28T05:55:22.909Z
-# Size: 666
+# Last Updated: 2024-04-28T06:12:59.398Z
+# Size: 667
 # 
 #########################################
+DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com

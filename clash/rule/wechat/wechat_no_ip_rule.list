@@ -1,9 +1,16 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-04-28T05:55:22.919Z
-# Size: 255
+# Last Updated: 2024-04-28T06:12:59.408Z
+# Size: 262
 # 
 #########################################
+DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
+DOMAIN,dldir1.qq.com
+DOMAIN,slife.xy-asia.com
+DOMAIN,soup.v.qq.com
+DOMAIN,vweixinf.tc.qq.com
+DOMAIN,weixin110.qq.com
+DOMAIN,wup.imtt.qq.com
 DOMAIN-SUFFIX,iot-tencent.com
 DOMAIN-SUFFIX,lbs.gtimg.com
 DOMAIN-SUFFIX,map.qq.com

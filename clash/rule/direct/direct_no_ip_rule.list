@@ -1,9 +1,11 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-04-28T05:55:22.871Z
-# Size: 128
+# Last Updated: 2024-04-28T06:12:59.366Z
+# Size: 130
 # 
 #########################################
+DOMAIN,injections.adguard.org
+DOMAIN,local.adguard.org
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,acg.rip
