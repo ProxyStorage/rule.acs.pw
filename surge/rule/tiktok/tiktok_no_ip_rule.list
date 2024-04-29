@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-04-29T04:23:49.238Z
-# Size: 28
+# Last Updated: 2024-04-29T07:05:31.826Z
+# Size: 27
 # 
 #########################################
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
@@ -9,7 +9,6 @@ DOMAIN,lf16-pkgcdn.pitaya-clientai.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,bytegecko-i18n.com
-DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,capcut.com
 DOMAIN-SUFFIX,ibytedtos.com
