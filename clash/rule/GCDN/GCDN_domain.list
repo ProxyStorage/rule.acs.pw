@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-04-29T07:05:31.816Z
+# Last Updated: 2024-04-29T08:17:42.883Z
 # Size: 2352
 # 
 #########################################
@@ -99,8 +99,6 @@ packages.argotunnel.com
 pkg.cloudflareclient.com
 binaries.prisma.sh
 +.schemastore.org
-playwright.azureedge.net
-+.kali.download
 +.exp-tas.com
 +.vscode-cdn.net
 vscode-sync.trafficmanager.net
@@ -2078,6 +2076,8 @@ assets.ontrack.com
 img.applealmond.com
 img.hentaihaven.xxx
 +.cdn-one.com
+assets.dwncdn.net
++.scribdassets.com
 +.s3-website.ap-southeast-4.amazonaws.com
 +.s3-object-lambda.ap-southeast-4.amazonaws.com
 +.s3-accesspoint.ap-southeast-4.amazonaws.com

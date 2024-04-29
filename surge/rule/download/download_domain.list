@@ -1,27 +1,20 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-04-29T07:05:31.824Z
-# Size: 214
+# Last Updated: 2024-04-29T08:17:42.891Z
+# Size: 212
 # 
 #########################################
 dl-cdn.alpinelinux.org
 downloads.openwrt.org
+playwright.azureedge.net
+cdimage.kali.org
+.kali.download
 ppa.launchpad.net
 .deb.debian.org
 .archive.debian.org
 .ftp.debian.org
 .ftp-master.debian.org
 .debian.map.fastlydns.net
-ftp.cn.debian.org
-ftp.hk.debian.org
-ftp.tw.debian.org
-ftp.jp.debian.org
-ftp.us.debian.org
-ftp.uk.debian.org
-ftp.de.debian.org
-ftp.ru.debian.org
-ftp.au.debian.org
-ftp.kr.debian.org
 security.debian.org
 .archive.ubuntu.com
 security.ubuntu.com
@@ -170,6 +163,8 @@ repo.powerdns.com
 store1.gofile.io
 dlcdnets.asus.com
 download.cpuid.com
+desktop.wifiman.com
+dl.ubnt.com
 .steamcontent.com
 .steamserver.net
 .content.steampowered.com
@@ -208,6 +203,7 @@ gog-cdn-lumen.secure2.footprint.net
 pf-cdn-content-prod.azureedge.net
 xvcf1.xboxlive.com
 xvcf2.xboxlive.com
+packagespc.xboxlive.com
 download.xbox.com
 .cdn.ubi.com
 download.dm.origin.com
@@ -217,4 +213,6 @@ dlgarenanow-a.akamaihd.net
 .dyn.riotcdn.net
 .content.cdp.bethesda.net
 .download.cdp.bethesda.net
+client.hikarifield.co.jp
 download.hikarifield.co.jp
+gamedownloads-rockstargames-com.akamaized.net

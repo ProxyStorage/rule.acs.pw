@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-04-29T07:05:31.790Z
-# Size: 741
+# Last Updated: 2024-04-29T08:17:42.857Z
+# Size: 742
 # 
 #########################################
 DOMAIN,gs-loc-cn.apple.com
@@ -271,6 +271,7 @@ DOMAIN-SUFFIX,6600.org
 DOMAIN-SUFFIX,x3322.net
 DOMAIN-SUFFIX,webok.net
 DOMAIN-SUFFIX,eatuo.com
+DOMAIN-SUFFIX,ui.com.cn
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,jetbrains.com.cn
