@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-04-29T13:41:15.357Z
+# Last Updated: 2024-04-29T16:15:58.155Z
 # Size: 2352
 # 
 #########################################
@@ -1285,7 +1285,6 @@ cdn1.unrealengine.com
 cdn2.unrealengine.com
 cdn3.unrealengine.com
 userpic.redgifs.com
-thumbs44.redgifs.com
 cdn.filen.io
 cdn.search.brave.com
 imgs.search.brave.com
@@ -1490,6 +1489,7 @@ images.now-tv.com
 +.pplusstatic.com
 i.mt.lv
 secure-uploads.ui.com
+account-cdn.svc.ui.com
 +.sftcdn.net
 img.apponic.com
 cdn.apponic.com
