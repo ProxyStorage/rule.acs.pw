@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-04-30T16:16:48.209Z
-# Size: 2352
+# Last Updated: 2024-04-30T20:13:08.872Z
+# Size: 2353
 # 
 #########################################
 pic.skk.moe
@@ -1490,6 +1490,7 @@ images.now-tv.com
 i.mt.lv
 secure-uploads.ui.com
 account-cdn.svc.ui.com
+net-fe-static-assets.network-controller.svc.ui.com
 +.sftcdn.net
 img.apponic.com
 cdn.apponic.com
