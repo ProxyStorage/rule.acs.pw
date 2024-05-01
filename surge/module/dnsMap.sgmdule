@@ -2,7 +2,7 @@
 #!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析
 #!author=DreamyTZK
 #!category=DreamyTZK
-#!update:2024-05-01T12:24:44.267Z
+#!update:2024-05-01T13:30:08.810Z
 
 [General]
 # ---(DNS 服务器)---
@@ -98,6 +98,7 @@ so.com = server:https://doh.360.cn/dns-query
 *.yunpan.cn = server:https://doh.360.cn/dns-query
 *.yunpan.com = server:https://doh.360.cn/dns-query
 *.yunpan.com.cn = server:https://doh.360.cn/dns-query
+*.googleapis.com = server:dns.google
 blog.google = server:https://doh.pub/dns-query
 googletraveladservices.com = server:https://doh.pub/dns-query
 dl.google.com = server:https://doh.pub/dns-query
