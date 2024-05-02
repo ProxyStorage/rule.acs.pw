@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-05-02T18:22:55.830Z
-# Size: 2354
+# Last Updated: 2024-05-02T21:15:55.959Z
+# Size: 2358
 # 
 #########################################
 pic.skk.moe
@@ -501,6 +501,7 @@ images.pexels.com
 image.nmb.best
 img.urlnode.com
 pomf2.lain.la
+img.xhacgn.com
 cdn.shopify.com
 +.shopifycdn.com
 eep.io
@@ -2080,6 +2081,9 @@ img.hentaihaven.xxx
 +.cdn-one.com
 assets.dwncdn.net
 +.scribdassets.com
+cdn.reimu.net
+img.reimu.net
+re.reimu.net
 +.s3-website.ap-southeast-4.amazonaws.com
 +.s3-object-lambda.ap-southeast-4.amazonaws.com
 +.s3-accesspoint.ap-southeast-4.amazonaws.com
