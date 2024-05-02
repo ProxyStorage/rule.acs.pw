@@ -2,7 +2,7 @@
 #!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析
 #!author=DreamyTZK
 #!category=DreamyTZK
-#!update:2024-05-01T20:16:16.385Z
+#!update:2024-05-02T00:57:21.620Z
 
 [General]
 # ---(DNS 服务器)---
