@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-05-02T15:39:18.528Z
-# Size: 744
+# Last Updated: 2024-05-02T18:22:55.805Z
+# Size: 745
 # 
 #########################################
 DOMAIN,gs-loc-cn.apple.com
@@ -483,6 +483,7 @@ DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xinhuanet.com
+DOMAIN-SUFFIX,xiniu.com
 DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,xunyou.mobi

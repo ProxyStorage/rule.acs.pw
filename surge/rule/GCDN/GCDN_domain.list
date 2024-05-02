@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-05-02T15:39:18.551Z
-# Size: 2353
+# Last Updated: 2024-05-02T18:22:55.829Z
+# Size: 2354
 # 
 #########################################
 pic.skk.moe
@@ -1506,6 +1506,7 @@ cdn-static.kwai.net
 g-static.ap4r.com
 .stripcdn.com
 .doppiocdn.net
+.doppiocdn.live
 asset.mansionglobal.com
 images.wsj.net
 m.wsj.net
