@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-05-02T10:17:52.904Z
-# Size: 737
+# Last Updated: 2024-05-02T12:24:38.976Z
+# Size: 739
 # 
 #########################################
 DOMAIN,gs-loc-cn.apple.com
@@ -230,6 +230,7 @@ DOMAIN-SUFFIX,staticdn.net
 DOMAIN-SUFFIX,sevencdn.com
 DOMAIN-SUFFIX,wangsu.com
 DOMAIN-SUFFIX,staticfile.org
+DOMAIN-SUFFIX,staticfile.net
 DOMAIN-SUFFIX,steam.clngaa.com
 DOMAIN-SUFFIX,steam.ksyna.com
 DOMAIN-SUFFIX,dl.bscstorage.net
@@ -447,6 +448,7 @@ DOMAIN-SUFFIX,qiniu.com
 DOMAIN-SUFFIX,qingcdn.com
 DOMAIN-SUFFIX,qyer.com
 DOMAIN-SUFFIX,qyerstatic.com
+DOMAIN-SUFFIX,right.com.cn
 DOMAIN-SUFFIX,ronghub.com
 DOMAIN-SUFFIX,rsproxy.cn
 DOMAIN-SUFFIX,ruanmei.com
