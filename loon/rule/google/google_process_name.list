@@ -1,0 +1,11 @@
+#########################################
+# DreamyTZK's Process Name Rule
+# Last Updated: 2024-05-03T11:01:10.674Z
+# Size: 5
+# Only available on macOS
+#########################################
+PROCESS-NAME,com.android.vending
+PROCESS-NAME,com.google.android.gms
+PROCESS-NAME,com.google.android.gsf
+PROCESS-NAME,com.google.android.play.games
+PROCESS-NAME,BackupandSync

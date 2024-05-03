@@ -1,0 +1,11 @@
+#########################################
+# DreamyTZK's Process Name Rule
+# Last Updated: 2024-05-03T11:01:09.803Z
+# Size: 5
+# Only available on macOS
+#########################################
+PROCESS-NAME,Tencent Lemon
+PROCESS-NAME,LemonMonitor
+PROCESS-NAME,LemonDaemon
+PROCESS-NAME,LemonAgent
+PROCESS-NAME,LemonService

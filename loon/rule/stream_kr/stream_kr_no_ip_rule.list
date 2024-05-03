@@ -1,0 +1,9 @@
+#########################################
+# DreamyTZK's No IP Rule
+# Last Updated: 2024-05-03T11:01:10.641Z
+# Size: 3
+# 
+#########################################
+DOMAIN-SUFFIX,tv.naver.com
+DOMAIN-SUFFIX,smartmediarep.com
+USER-AGENT,Naver TV*

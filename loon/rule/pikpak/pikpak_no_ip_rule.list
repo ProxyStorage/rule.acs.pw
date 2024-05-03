@@ -1,0 +1,15 @@
+#########################################
+# DreamyTZK's No IP Rule
+# Last Updated: 2024-05-03T11:01:10.676Z
+# Size: 9
+# 
+#########################################
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+DOMAIN-SUFFIX,hub5pnc.sandai.net
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+DOMAIN-SUFFIX,hubciddata.sandai.net
+DOMAIN-SUFFIX,pikpak.me
+DOMAIN-SUFFIX,pikpakdrive.com
+DOMAIN-KEYWORD,mypikpak
