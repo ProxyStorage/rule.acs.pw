@@ -1,16 +1,10 @@
 #!name=DNS映射
-#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-05-03T11:24:23.707Z
+#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-05-03T12:09:46.464Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
 [General]
-# ---(DNS 服务器)---
-# > 通过代理请求使用本地DNS映射结果
-use-local-host-item-for-proxy = true
 
-# > 加密DNS服务器
-# 使加密DNS请求通过代理策略执行
-encrypted-dns-follow-outbound-mode = false
 
 [Host]
 dns.google = 8.8.8.8, 8.8.4.4, 2001:4860:4860::8888, 2001:4860:4860::8844
