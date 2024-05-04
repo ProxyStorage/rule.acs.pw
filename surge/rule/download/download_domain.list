@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-05-04T15:17:17.345Z
-# Size: 212
+# Last Updated: 2024-05-04T18:20:51.942Z
+# Size: 213
 # 
 #########################################
 dl-cdn.alpinelinux.org
@@ -24,6 +24,7 @@ enterprise.proxmox.com
 repo.carbon.sh
 binary-factory.kde.org
 invent.kde.org
+downloads.raspberrypi.com
 mirror.navercorp.com
 fedorapeople.org
 .cloudflaremirrors.com

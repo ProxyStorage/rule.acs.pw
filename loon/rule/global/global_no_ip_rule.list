@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-05-04T15:17:17.317Z
-# Size: 548
+# Last Updated: 2024-05-04T18:20:51.914Z
+# Size: 549
 # 
 #########################################
 DOMAIN,pki.goog
@@ -276,6 +276,7 @@ DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,castbox.fm
 DOMAIN-SUFFIX,cbc.ca
+DOMAIN-SUFFIX,cdpn.io
 DOMAIN-SUFFIX,change.org
 DOMAIN-SUFFIX,character.ai
 DOMAIN-SUFFIX,cloudfront.net

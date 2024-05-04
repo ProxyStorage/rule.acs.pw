@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-05-04T15:17:17.336Z
-# Size: 2360
+# Last Updated: 2024-05-04T18:20:51.933Z
+# Size: 2365
 # 
 #########################################
 pic.skk.moe
@@ -1492,6 +1492,7 @@ i.mt.lv
 secure-uploads.ui.com
 account-cdn.svc.ui.com
 net-fe-static-assets.network-controller.svc.ui.com
+images.svc.ui.com
 static.ui.com
 .sftcdn.net
 img.apponic.com
@@ -2086,6 +2087,10 @@ cdn.reimu.net
 img.reimu.net
 re.reimu.net
 useruploads.socratic.org
+static.socratic.org
+assets.vogue.com
+.kuaikan-cdn4.com
+.surrit.com
 .s3-website.ap-southeast-4.amazonaws.com
 .s3-object-lambda.ap-southeast-4.amazonaws.com
 .s3-accesspoint.ap-southeast-4.amazonaws.com

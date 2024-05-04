@@ -1,9 +1,10 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-05-04T15:17:17.339Z
-# Size: 225
+# Last Updated: 2024-05-04T18:20:51.936Z
+# Size: 227
 # 
 #########################################
+DOMAIN,api.smoot.apple.cn
 DOMAIN,res.cdn.office.net
 DOMAIN-SUFFIX,a1.mzstatic.com
 DOMAIN-SUFFIX,a2.mzstatic.com
@@ -172,6 +173,7 @@ DOMAIN-SUFFIX,www.apple.com.edgekey.net
 DOMAIN-SUFFIX,www.apple.com
 DOMAIN-SUFFIX,xp.apple.com
 DOMAIN-SUFFIX,cn.apple.com
+DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,cn.ls.apple.com
 DOMAIN-SUFFIX,cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,www.microsoft.com
