@@ -1,5 +1,5 @@
 #!name=DNS映射
-#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-05-04T09:17:49.899Z
+#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-05-04T12:12:03.719Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -98,6 +98,7 @@ so.com = server:https://doh.360.cn/dns-query
 *.yunpan.com = server:https://doh.360.cn/dns-query
 *.yunpan.com.cn = server:https://doh.360.cn/dns-query
 *.googleapis.com = server:https://dns.google
+*.acs.pw = server:https://cloudflare-dns.com
 blog.google = server:https://doh.pub/dns-query
 googletraveladservices.com = server:https://doh.pub/dns-query
 dl.google.com = server:https://doh.pub/dns-query
