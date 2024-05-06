@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-05-06T12:33:49.317Z
-# Size: 2365
+# Last Updated: 2024-05-06T15:18:27.569Z
+# Size: 2367
 # 
 #########################################
 pic.skk.moe
@@ -104,6 +104,7 @@ binaries.prisma.sh
 vscode-sync.trafficmanager.net
 vscode-sync-insiders.trafficmanager.net
 az700632.vo.msecnd.net
+open-vsx.org
 registry.npmjs.org
 replicate.npmjs.com
 static.npmjs.com
@@ -711,6 +712,7 @@ wac-cdn.atlassian.com
 wac-cdn-2.atlassian.com
 +.prod.public.atl-paas.net
 confluence-v1.prod.atl-paas.net
+jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 +.trackerslist.com
 assets.swoogo.com
 cdn.sanity.io
