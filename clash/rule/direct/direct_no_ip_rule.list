@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-05-08T01:03:52.462Z
-# Size: 130
+# Last Updated: 2024-05-08T02:21:37.706Z
+# Size: 131
 # 
 #########################################
 DOMAIN,injections.adguard.org
@@ -124,6 +124,7 @@ DOMAIN-SUFFIX,torrentmac.net
 DOMAIN-SUFFIX,download.555mac.com
 DOMAIN-SUFFIX,engage.cloudflareclient.com
 DOMAIN-SUFFIX,ec2-reachability.amazonaws.com
+DOMAIN-SUFFIX,umeng.com
 DOMAIN-KEYWORD,cnki.net
 DOMAIN-KEYWORD,wanfangdata
 DOMAIN-KEYWORD,pkulaw
