@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-05-09T01:16:45.535Z
-# Size: 2368
+# Last Updated: 2024-05-09T03:20:04.570Z
+# Size: 2369
 # 
 #########################################
 pic.skk.moe
@@ -2094,6 +2094,7 @@ static.socratic.org
 assets.vogue.com
 .kuaikan-cdn4.com
 .surrit.com
+.placekitten.com
 .s3-website.ap-southeast-4.amazonaws.com
 .s3-object-lambda.ap-southeast-4.amazonaws.com
 .s3-accesspoint.ap-southeast-4.amazonaws.com
