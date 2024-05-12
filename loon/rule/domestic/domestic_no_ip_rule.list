@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-05-12T15:17:46.924Z
-# Size: 743
+# Last Updated: 2024-05-12T18:24:08.455Z
+# Size: 744
 # 
 #########################################
 DOMAIN,cdn.bootcdn.net
@@ -307,6 +307,7 @@ DOMAIN-SUFFIX,asus.com.cn
 DOMAIN-SUFFIX,autohome.com.cn
 DOMAIN-SUFFIX,authing.cn
 DOMAIN-SUFFIX,authing.co
+DOMAIN-SUFFIX,amazonaws.com.cn
 DOMAIN-SUFFIX,bdatu.com
 DOMAIN-SUFFIX,bendibao.com
 DOMAIN-SUFFIX,benghuai.com

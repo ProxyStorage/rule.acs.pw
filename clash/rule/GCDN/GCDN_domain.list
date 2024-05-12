@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-05-12T15:17:46.951Z
-# Size: 2369
+# Last Updated: 2024-05-12T18:24:08.483Z
+# Size: 2372
 # 
 #########################################
 static.nrk.no
@@ -896,6 +896,9 @@ spoppe-b.azureedge.net
 typescript.azureedge.net
 cdn.datatables.net
 +.jsdelivr.net
+static.oomol.com
++.fivetiu.com
++.sixyik.com
 +.placekitten.com
 +.surrit.com
 +.kuaikan-cdn4.com
