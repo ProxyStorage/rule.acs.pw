@@ -1,11 +1,12 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-05-13T06:24:59.246Z
-# Size: 7
+# Last Updated: 2024-05-13T08:06:13.326Z
+# Size: 8
 # 
 #########################################
 DOMAIN-SUFFIX,download.jetbrains.com
 DOMAIN-SUFFIX,downloads.marketplace.jetbrains.com
+DOMAIN-SUFFIX,rule.acs.pw
 DOMAIN-KEYWORD,-files.gitbook.io
 DOMAIN-KEYWORD,vod-adaptive.akamaized.net
 DOMAIN-KEYWORD,web-assets.zendesk
