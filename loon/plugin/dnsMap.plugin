@@ -1,5 +1,5 @@
 #!name==Github Host 映射
-#!desc=来源于：https://github.com/521xueweihan/GitHub520 update:2024-05-14T06:25:49.411Z
+#!desc=来源于：https://github.com/521xueweihan/GitHub520 update:2024-05-14T09:19:18.012Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -25,16 +25,16 @@ collector.github.com = 140.82.114.21
 desktop.githubusercontent.com = 185.199.111.133
 favicons.githubusercontent.com = 185.199.111.133
 gist.github.com = 140.82.114.4
-github-cloud.s3.amazonaws.com = 3.5.20.23
-github-com.s3.amazonaws.com = 54.231.195.49
+github-cloud.s3.amazonaws.com = 52.217.165.233
+github-com.s3.amazonaws.com = 16.182.38.201
 github-production-release-asset-2e65be.s3.amazonaws.com = 52.217.69.60
-github-production-repository-file-5c1aeb.s3.amazonaws.com = 52.217.18.52
-github-production-user-asset-6210df.s3.amazonaws.com = 54.231.171.81
+github-production-repository-file-5c1aeb.s3.amazonaws.com = 52.217.228.217
+github-production-user-asset-6210df.s3.amazonaws.com = 52.217.236.113
 github.blog = 192.0.66.2
 github.com = 140.82.112.3
 github.community = 140.82.112.17
 github.githubassets.com = 185.199.110.154
-github.global.ssl.fastly.net = 151.101.1.194
+github.global.ssl.fastly.net = 151.101.129.194
 github.io = 185.199.109.153
 github.map.fastly.net = 185.199.111.133
 githubstatus.com = 185.199.109.153
