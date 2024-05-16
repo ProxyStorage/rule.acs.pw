@@ -1,5 +1,5 @@
 #!name=Github Host 映射
-#!desc=来源于：https://github.com/521xueweihan/GitHub520 update:2024-05-16T01:18:16.268Z
+#!desc=来源于：https://github.com/521xueweihan/GitHub520 update:2024-05-16T03:22:14.429Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -27,8 +27,8 @@ collector.github.com = 140.82.114.21
 desktop.githubusercontent.com = 185.199.111.133
 favicons.githubusercontent.com = 185.199.111.133
 gist.github.com = 140.82.112.4
-github-cloud.s3.amazonaws.com = 52.217.70.28
-github-com.s3.amazonaws.com = 16.182.38.201
+github-cloud.s3.amazonaws.com = 52.217.166.105
+github-com.s3.amazonaws.com = 52.216.132.179
 github-production-release-asset-2e65be.s3.amazonaws.com = 16.182.98.169
 github-production-repository-file-5c1aeb.s3.amazonaws.com = 52.217.228.217
 github-production-user-asset-6210df.s3.amazonaws.com = 16.182.107.1
