@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-05-17T06:24:27.701Z
+# Last Updated: 2024-05-17T09:19:54.410Z
 # Size: 2372
 # 
 #########################################
@@ -340,7 +340,7 @@ plugins.dprint.dev
 packages-cf.termux.dev
 packages.termux.dev
 pkg-size.dev
-react.dev
+.react.dev
 .jspm.dev
 cdn.pika.dev
 .skypack.dev
