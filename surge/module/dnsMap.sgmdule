@@ -1,5 +1,5 @@
 #!name=DNS映射
-#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-05-18T18:22:37.636Z
+#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-05-18T21:15:28.717Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -592,6 +592,10 @@ jomodns.com = server:180.76.76.76
 *.jomodns.com = server:180.76.76.76
 bdydns.com = server:180.76.76.76
 *.bdydns.com = server:180.76.76.76
+jomoxc.com = server:180.76.76.76
+*.jomoxc.com = server:180.76.76.76
+duapp.com = server:180.76.76.76
+*.duapp.com = server:180.76.76.76
 dns.360.cn = 101.198.198.198, 101.198.199.200
 doh.360.net = 101.198.198.198, 101.198.199.200
 dot.360.net = 101.198.198.198, 101.198.199.200
