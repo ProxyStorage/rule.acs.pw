@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-05-23T15:20:01.273Z
-# Size: 552
+# Last Updated: 2024-05-23T18:23:38.211Z
+# Size: 553
 # 
 #########################################
 DOMAIN,pki.goog
@@ -541,6 +541,7 @@ DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,zendesk.com
+DOMAIN-SUFFIX,moon.fm
 DOMAIN-SUFFIX,majsoul.union-game.com
 DOMAIN-SUFFIX,prowritingaid.com
 DOMAIN-SUFFIX,wordtune.com
