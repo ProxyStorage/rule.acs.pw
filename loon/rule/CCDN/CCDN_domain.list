@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-05-25T12:32:31.050Z
-# Size: 166
+# Last Updated: 2024-05-25T15:18:05.695Z
+# Size: 167
 # 
 #########################################
 .a1.mzstatic.com
@@ -114,6 +114,7 @@
 .ml.cdn-apple.com
 .music.apple.com
 .ocsp-lb.apple.com.akadns.net
+.ocsp2-lb.apple.com.akadns.net
 .ocsp.apple.com
 .ocsp2.apple.com
 .oscdn.apple.com
