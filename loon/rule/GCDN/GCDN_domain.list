@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-05-25T18:22:17.522Z
-# Size: 2376
+# Last Updated: 2024-05-25T21:15:43.079Z
+# Size: 2379
 # 
 #########################################
 static.nrk.no
@@ -420,6 +420,7 @@ link.storjshare.io
 s3.toot.io
 media.hachyderm.io
 media.mstdn.io
+.ipfscdn.io
 .crossbell.io
 .gw3.io
 .gravity.jup.io
@@ -1639,6 +1640,7 @@ f003.backblazeb2.com
 f002.backblazeb2.com
 f001.backblazeb2.com
 f000.backblazeb2.com
+ocsp.r2m02.amazontrust.com
 ocsp.godaddy.com
 crl.verisign.com
 crt.comodoca.com
@@ -1688,6 +1690,7 @@ pool.jortage.com
 .linodeobjects.com
 .vultrobjects.com
 .digitaloceanspaces.com
+.thirdwebcdn.com
 .hardbin.com
 .via0.com
 .ipfs.soul-network.com

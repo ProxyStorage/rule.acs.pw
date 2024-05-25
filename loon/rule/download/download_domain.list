@@ -1,10 +1,11 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-05-25T18:22:17.532Z
-# Size: 214
+# Last Updated: 2024-05-25T21:15:43.089Z
+# Size: 222
 # 
 #########################################
 blizzard.gcdn.cloudn.co.kr
+ciscobinary.openh264
 builds.paranoidandroid.co
 file.chobit.cc
 boot.netboot.xyz
@@ -80,6 +81,7 @@ content2.steampowered.com
 content1.steampowered.com
 .content.steampowered.com
 .steamcontent.com
+downloads.1password.com
 dl.ubnt.com
 desktop.wifiman.com
 download.cpuid.com
@@ -119,6 +121,7 @@ product-downloads.atlassian.com
 download.snipaste.com
 dl.snipaste.com
 ctldl.windowsupdate.com
+packages.microsoft.com
 amupdatedl5.microsoft.com
 amupdatedl4.microsoft.com
 amupdatedl3.microsoft.com
@@ -204,12 +207,17 @@ download.mozilla.org
 .dl.wireshark.org
 download.pixelexperience.org
 get.pixelexperience.org
+dl.flathub.org
 ftp.gnu.org
 .mirrors.dotsrc.org
 mirrors.edge.kernel.org
 fedorapeople.org
 invent.kde.org
 binary-factory.kde.org
+mirrors.rpmfusion.org
+.copr.fedorainfracloud.org
+registry.fedoraproject.org
+mirrors.fedoraproject.org
 security.debian.org
 .ftp-master.debian.org
 .ftp.debian.org
