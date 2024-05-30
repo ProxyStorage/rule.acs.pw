@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-05-30T09:19:58.946Z
-# Size: 2379
+# Last Updated: 2024-05-30T12:35:02.792Z
+# Size: 2380
 # 
 #########################################
 s3.c.im
@@ -411,6 +411,7 @@ media4.giphy.com
 +.gitlab.io
 badges.gitter.im
 cdn.glitch.me
+static.gnome.org
 godoc.org
 static.gopro.com
 player.h-cdn.com
