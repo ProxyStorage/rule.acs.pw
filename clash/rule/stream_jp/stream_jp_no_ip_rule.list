@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-06-02T12:32:25.422Z
-# Size: 21
+# Last Updated: 2024-06-02T15:17:57.726Z
+# Size: 25
 # 
 #########################################
 DOMAIN-SUFFIX,dmm.co.jp
@@ -24,4 +24,8 @@ DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nimg.jp
 DOMAIN-SUFFIX,socdm.com
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,hjholdings.jp
+DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,tver.jp
 DOMAIN-KEYWORD,abematv.akamaized.net

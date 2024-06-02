@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-06-02T12:32:25.417Z
-# Size: 330
+# Last Updated: 2024-06-02T15:17:57.721Z
+# Size: 327
 # 
 #########################################
 DOMAIN,4gtvfreepcvod-cds.cdn.hinet.net
@@ -150,14 +150,11 @@ DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN-SUFFIX,himalaya.com
-DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hulu.com
-DOMAIN-SUFFIX,hulu.jp
 DOMAIN-SUFFIX,hulu.tv
 DOMAIN-SUFFIX,hulu.us
 DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,hulustream.com
-DOMAIN-SUFFIX,hjholdings.jp
 DOMAIN-SUFFIX,5itv.tv
 DOMAIN-SUFFIX,ocnttv.com
 DOMAIN-SUFFIX,iq.com

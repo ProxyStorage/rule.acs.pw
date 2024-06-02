@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-06-02T12:32:25.420Z
-# Size: 44
+# Last Updated: 2024-06-02T15:17:57.723Z
+# Size: 43
 # 
 #########################################
 DOMAIN,dashasiafox.akamaized.netflix
@@ -17,18 +17,17 @@ DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,uplynk.com
 DOMAIN-SUFFIX,foxplus.com
 DOMAIN-SUFFIX,theplatform.com
-DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hulu.com
-DOMAIN-SUFFIX,hulu.jp
 DOMAIN-SUFFIX,hulu.tv
 DOMAIN-SUFFIX,hulu.us
 DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,hulustream.com
+DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hjholdings.jp
+DOMAIN-SUFFIX,hulu.jp
 DOMAIN-SUFFIX,sho.com
 DOMAIN-SUFFIX,showtime.com
 DOMAIN-SUFFIX,encoretvb.com
-DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,disco-api.com
 DOMAIN-SUFFIX,discoveryplus.co.uk
 DOMAIN-SUFFIX,discoveryplus.com
