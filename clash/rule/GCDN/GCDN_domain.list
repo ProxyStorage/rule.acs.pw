@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-06-02T06:25:19.382Z
-# Size: 2380
+# Last Updated: 2024-06-02T09:18:58.811Z
+# Size: 2385
 # 
 #########################################
 s3.c.im
@@ -1276,6 +1276,8 @@ widgets.outbrain.com
 +.gateway.pinata.cloud
 +.pixelcdn.net
 pkg-size.dev
++.placehold.co
++.placehold.jp
 placeimg.com
 cdn-assets.porntube.com
 cdn-thumbs.porntube.com
@@ -1754,6 +1756,7 @@ img.picacomic.com
 storage-b.picacomic.com
 +.picsum.photos
 +.assets.pinterest.com
++.place-hold.it
 js.qualified.com
 +.siteintercept.qualtrics.com
 error.rakuten.co.jp
@@ -1868,6 +1871,7 @@ hub-assets.displaycal.net
 +.doppiocdn.live
 icons.duckduckgo.com
 external-content.duckduckgo.com
++.dummyimage.com
 +.ebaystatic.com
 cdn2.editmysite.com
 images.emojiterra.com
@@ -1935,6 +1939,7 @@ optimizely.com
 m-cdn.phonearena.com
 s-cdn.phonearena.com
 cdn.pickystory.com
++.placewaifu.com
 cdn7.pornmaster.fun
 apps.profitihub.com
 +.pstorage.space
