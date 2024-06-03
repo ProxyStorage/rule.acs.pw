@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-06-03T09:20:08.428Z
-# Size: 327
+# Last Updated: 2024-06-03T12:35:58.969Z
+# Size: 328
 # 
 #########################################
 DOMAIN,4gtvfreepcvod-cds.cdn.hinet.net
@@ -181,6 +181,7 @@ DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,my5.tv
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,psg.cdn.hgc.com.hk
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
