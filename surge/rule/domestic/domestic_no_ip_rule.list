@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-06-03T12:35:58.952Z
-# Size: 751
+# Last Updated: 2024-06-03T15:20:12.261Z
+# Size: 752
 # 
 #########################################
 DOMAIN,cdn.bootcdn.net
@@ -424,6 +424,7 @@ DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,mubu.com
 DOMAIN-SUFFIX,myzaker.com
 DOMAIN-SUFFIX,neea.cn
+DOMAIN-SUFFIX,ntp.org.cn
 DOMAIN-SUFFIX,nubia.cn
 DOMAIN-SUFFIX,nubia.com
 DOMAIN-SUFFIX,onlinedown.com
