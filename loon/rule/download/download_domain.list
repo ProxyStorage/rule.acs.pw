@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-06-04T06:25:29.986Z
-# Size: 222
+# Last Updated: 2024-06-04T09:21:28.060Z
+# Size: 224
 # 
 #########################################
 .cdn.ea.com
@@ -103,6 +103,7 @@ down.filen-3.net
 down.filen-4.net
 down.filen-5.net
 dl.flathub.org
+mirror.ghproxy.com
 download.mozilla.org
 download.nektony.com
 boot.netboot.xyz
@@ -132,6 +133,8 @@ download.gigabyte.com
 download.iboysoft.com
 download.mikrotik.com
 .download.mokeedev.com
+ciscobinary.openh264.org
+download.opensuse.org
 cdn-images.orbstack.dev
 api-updates.orbstack.dev
 cdn-updates.orbstack.dev
@@ -223,6 +226,5 @@ ftp.androidfilehost.com
 ava6.androidfilehost.com
 get.pixelexperience.org
 download.pixelexperience.org
-ciscobinary.openh264
 .copr.fedorainfracloud.org
 .cloudflaremirrors.com
