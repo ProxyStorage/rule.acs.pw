@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-06-05T09:22:47.591Z
-# Size: 2385
+# Last Updated: 2024-06-05T12:35:22.078Z
+# Size: 2386
 # 
 #########################################
 s3.c.im
@@ -856,6 +856,7 @@ cdn6.aptoide.com
 cdn-mobile.aptoide.com
 .archive.org
 static.assetlab.io
+consentdeliveryfd.azurefd.net
 .bdzybf7.com
 a5.behance.net
 mir-s3-cdn-cf.behance.net
@@ -1985,7 +1986,6 @@ versionbadg.es
 showcase.abovemarket.com
 easylist-downloads.adblockplus.org
 .addons.business
-ocsp.r2m02.amazontrust.com
 cdn.announcekit.app
 img.announcekit.app
 img.applealmond.com
@@ -2317,6 +2317,7 @@ image.theblockbeats.info
 vscode-sync.trafficmanager.net
 vscode-sync-insiders.trafficmanager.net
 www.typescriptlang.org
+playgroundcdn.typescriptlang.org
 talk.washingtonpost.com
 .yourimageshare.com
 .azurestaticapps.net
