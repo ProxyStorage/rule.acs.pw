@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-06-06T15:20:46.243Z
-# Size: 224
+# Last Updated: 2024-06-06T18:24:21.330Z
+# Size: 225
 # 
 #########################################
 .cdn.ea.com
@@ -164,6 +164,7 @@ download4.epicgames.com
 fastly-download.epicgames.com
 .debian.map.fastlydns.net
 gog-cdn-lumen.secure2.footprint.net
+.releases.hashicorp.com
 cdn.hyperbeam.com
 download.jetbrains.com
 download-cdn.jetbrains.com
