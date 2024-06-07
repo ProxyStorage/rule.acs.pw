@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-06-07T01:22:36.899Z
-# Size: 2386
+# Last Updated: 2024-06-07T03:21:52.996Z
+# Size: 2383
 # 
 #########################################
 s3.c.im
@@ -248,9 +248,6 @@ cdn-edge.karte.io
 info.knak.com
 cdn.kobo.com
 static.kobo.com
-s1.kwai.net
-aws-static.kwai.net
-cdn-static.kwai.net
 +.loli.net
 cdn.loom.com
 s3.masto.ai
