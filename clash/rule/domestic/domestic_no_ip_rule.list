@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-06-10T12:36:30.693Z
-# Size: 748
+# Last Updated: 2024-06-10T15:21:27.753Z
+# Size: 749
 # 
 #########################################
 DOMAIN,cdn.bootcdn.net
@@ -450,6 +450,7 @@ DOMAIN-SUFFIX,qdaily.com
 DOMAIN-SUFFIX,qidian.com
 DOMAIN-SUFFIX,qiniu.com
 DOMAIN-SUFFIX,qingcdn.com
+DOMAIN-SUFFIX,qixin.com
 DOMAIN-SUFFIX,qyer.com
 DOMAIN-SUFFIX,qyerstatic.com
 DOMAIN-SUFFIX,right.com.cn

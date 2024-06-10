@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-06-10T12:36:30.723Z
-# Size: 2384
+# Last Updated: 2024-06-10T15:21:27.783Z
+# Size: 2387
 # 
 #########################################
 s3.c.im
@@ -1806,6 +1806,7 @@ fonts1.unidays.world
 cdn.up-timely.com
 crl.usertrust.com
 crt.usertrust.com
+ocsp.usertrust.com
 widget.uservoice.com
 .video-cdn.net
 waitlisted.co
@@ -1883,6 +1884,8 @@ static.freeimages.com
 dam.freshworks.com
 widget.freshworks.com
 euc-widget.freshworks.com
+ocsp.globalsign.com
+ocsp2.globalsign.com
 ajax.googleapis.com
 chart.googleapis.com
 fonts.googleapis.com
