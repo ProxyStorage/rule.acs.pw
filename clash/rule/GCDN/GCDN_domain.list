@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-06-15T15:19:15.130Z
-# Size: 2388
+# Last Updated: 2024-06-15T18:24:28.212Z
+# Size: 2389
 # 
 #########################################
 s3.c.im
@@ -55,6 +55,7 @@ images.spr.so
 +.ttl.sh
 static.ui.com
 images.svc.ui.com
+cdn.pkg.svc.ui.com
 img.community.ui.com
 secure-uploads.ui.com
 account-cdn.svc.ui.com
