@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-06-15T03:20:09.167Z
-# Size: 2387
+# Last Updated: 2024-06-15T06:23:58.937Z
+# Size: 2388
 # 
 #########################################
 s3.c.im
@@ -126,6 +126,7 @@ oss.moe.cat
 assets.msn.com
 +.cfcdn.mux.com
 ca.nfs.pub
+resource.video.nimg.jp
 media.npr.org
 bundles.npr.org
 static-assets.npr.org
