@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-06-19T01:22:11.139Z
-# Size: 16
+# Last Updated: 2024-06-19T03:21:05.307Z
+# Size: 17
 # 
 #########################################
 DOMAIN-SUFFIX,download.jetbrains.com
@@ -16,6 +16,7 @@ DOMAIN-WILDCARD,appcenter-filemanagement-*.cloudapp.net
 DOMAIN-WILDCARD,proxy-*.dailymotion.com
 DOMAIN-WILDCARD,static*.tgstat.ru
 DOMAIN-WILDCARD,ocsp.*.amazontrust.com
+DOMAIN-WILDCARD,s3.*.wasabisys.com
 DOMAIN-WILDCARD,cdn?-thumbs.pornhost.com
 DOMAIN-WILDCARD,cdn?-dl.pornhost.com
 URL-REGEX,^http://www\.microsoft\.com/pki/
