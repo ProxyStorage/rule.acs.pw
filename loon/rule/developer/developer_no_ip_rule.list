@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-06-30T15:19:39.671Z
-# Size: 70
+# Last Updated: 2024-06-30T18:25:09.182Z
+# Size: 71
 # 
 #########################################
 DOMAIN-SUFFIX,apple-cloudkit.com
@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,debian.com
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,elastic.co
 DOMAIN-SUFFIX,elastic.com
 DOMAIN-SUFFIX,fontawesome.com
