@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-07-16T15:16:51.075Z
-# Size: 567
+# Last Updated: 2024-07-16T18:26:06.123Z
+# Size: 568
 # 
 #########################################
 DOMAIN,pki.goog
@@ -503,6 +503,7 @@ DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,thepiratebay.org
+DOMAIN-SUFFIX,theverge.com
 DOMAIN-SUFFIX,thisav.com
 DOMAIN-SUFFIX,time.com
 DOMAIN-SUFFIX,tineye.com
