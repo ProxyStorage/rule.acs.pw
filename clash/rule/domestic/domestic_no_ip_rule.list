@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-07-22T06:27:34.732Z
-# Size: 751
+# Last Updated: 2024-07-22T09:24:11.169Z
+# Size: 752
 # 
 #########################################
 DOMAIN,cdn.bootcdn.net
@@ -699,6 +699,7 @@ DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,feelgood.cn
 DOMAIN-SUFFIX,91.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,baidu.cn

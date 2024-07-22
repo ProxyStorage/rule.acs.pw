@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-07-22T06:27:34.763Z
-# Size: 2081
+# Last Updated: 2024-07-22T09:24:11.204Z
+# Size: 2083
 # 
 #########################################
 s3.c.im
@@ -457,6 +457,7 @@ assets.monei.com
 static.monei.net
 staticassets.music.com
 +.nest.land
+image-forwarder.notaku.so
 +.npmfs.com
 skimdb.npmjs.com
 static.npmjs.com
@@ -519,6 +520,7 @@ assets.upload.io
 fonts.upset.dev
 +.uvcdn.com
 +.v-cdn.net
+openapi.vercel.sh
 gitpkg-fork.vercel.sh
 api-frameworks.vercel.sh
 vetted.ai
