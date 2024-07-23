@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-07-23T09:20:37.865Z
-# Size: 124656
+# Last Updated: 2024-07-23T12:37:08.811Z
+# Size: 124655
 # 
 #########################################
 .atom-log.3.cn
@@ -67,6 +67,7 @@
 .tracking.di.se
 .tracking.ditv.di.se
 .tracking.etidning.di.se
+.tracking.borssnack.di.se
 .maling.dn.no
 .tracking.dn.se
 .tracking.etidning.dn.se
@@ -4352,8 +4353,6 @@ adsystem.wasu.tv
 .bmjs.xzw.com
 .smetrics.y108.ca
 .admd.yam.com
-.ajai.ydns.eu
-.blessy.ydns.eu
 .sp.ydr.com
 .repdata.ydr.com
 .srepdata.ydr.com
@@ -5321,9 +5320,7 @@ live.tvpot.daum.net
 .eluser.ddns.net
 .gustaver.ddns.net
 .meowware.ddns.net
-.dsahgduoi.ddns.net
 .workserver.ddns.net
-.zahramsatya.ddns.net
 .thelifeisbinary.ddns.net
 .dm1.ddwk8.cn
 .deepc.cc
@@ -7021,6 +7018,7 @@ adlaunch.moji.com
 .consent-manager-events.ogury.io
 .ohmy.bid
 .ohncc.cn
+.oiu09.cn
 .okbp.xyz
 .data-684c5faba8.okmag.de
 .adobemetrics.okta.com
@@ -7912,7 +7910,6 @@ g.tbcdn.cn
 .v44e.com
 .app.vahak.in
 .marketing.valv.com
-.hi.vani.ovh
 .scallop.vav.link
 .log.vava.com
 .vay6.com
@@ -12837,7 +12834,6 @@ nmbr.info
 .icoktb.onygo.com
 .message.ooguy.com
 .upupdate.ooguy.com
-.net-killer.ooguy.com
 .link.oomph.app
 .ooqwc.xyz
 .keyade.ooreka.fr
@@ -17109,6 +17105,7 @@ fc-feed.cdn.bcebos.com
 .cnstats.ru
 .cnvmhzt.cn
 .cnxweb.com
+.updates.ultimate-fakkers.co.network
 .a8clk.form.coached.jp
 .ggduev.cobone.com
 .ae.cobweb.com
@@ -18937,6 +18934,7 @@ pdl.gionee.com
 .stats.heyoya.com
 .heyzap.com
 .dekovacka.hezkres.cz
+.hfjmvr.xyz
 .hgbn.rocks
 .hgbn.space
 .marketing.hgdata.com
@@ -21787,6 +21785,7 @@ adres.myaora.net
 .track.pnj.com.vn
 .flx2.pnl.agency
 .pnperf.com
+.pns.org.pk
 .pnsqsv.com
 .pntrac.com
 .pnvtlh.xyz
@@ -22975,6 +22974,7 @@ shouji.sougou.com
 .sov.stream
 .sovism.com
 .sowp.cloud
+.sowwoy.xyz
 .a8clk.hozon.sp-site.jp
 .sp-trk.com
 .sp5188.com
@@ -23800,7 +23800,6 @@ hz.pre.tbusergw.taobao.net
 .uchmuk.com
 .uckgqa.xyz
 .udarem.com
-.d1.udashi.com
 .udkcrj.com
 .udkpcc.xyz
 .udpdmeb.cn
@@ -24724,6 +24723,7 @@ api-scout.vercel.app
 .xeazoj.icu
 .xebadu.com
 .xedpzh.xyz
+.xehodv.xyz
 .xeikwh.icu
 .xemiro.uno
 .an.xemvtv.net
@@ -26285,6 +26285,7 @@ hydra.alibaba.com
 .analytics.archive.org
 .ia800400.us.archive.org
 .ia803402.us.archive.org
+.ia803405.us.archive.org
 .ia903207.us.archive.org
 .analytics.us.archive.org
 .marketing.arcsona.com
@@ -29781,7 +29782,6 @@ log.v2.hunantv.com
 .deals.innocode.no
 .innovid.com
 .pimpoint.inriver.com
-.gjhfhgdg.insane.wang
 .link.insense.pro
 .smetrics.insight.com
 .linkcmf.insights.md
@@ -30809,6 +30809,7 @@ lgtvsdp.com
 .lyckery.com
 .lyislol.top
 .a8cv.lyprinol.jp
+.lyretul.top
 .stats.lyricall.cz
 .kthjuw.lyst.com.au
 .lyuwkbl.top
@@ -31130,6 +31131,7 @@ wmlog.meituan.com
 .mini-pic.su
 .images.response.mini.com.au
 .miniast.com
+.src1.minibai.com
 .mining.best
 .metrics.miniusa.com
 .smetrics.miniusa.com
@@ -38600,7 +38602,6 @@ galaxy.bjcathay.com
 .l.coastapp.com
 .coatfood.com
 .coawheer.net
-.api-ms.cobainaja.id
 .cobalten.com
 .cochack.site
 .cochacks.com
@@ -42828,7 +42829,6 @@ pushapi.lenovomm.com
 .maxforta.com
 .maxisurf.net
 .seyfwl.maxmodels.pl
-.maxmoney.com
 .saa.maxpreps.com
 .maxrilla.com
 .s.maxrozen.com
@@ -42994,7 +42994,6 @@ mgepodownload.mediatek.com
 .mhdnspro.com
 .marketing.mhinvest.com
 .mhshopee.com
-.mhsonsco.com
 .connect.mhsystem.org
 .tr.news.mi-oferta.es
 .miaozhen.com
@@ -48400,7 +48399,6 @@ adpublish.ydstatic.com
 .zeewhaih.com
 .zegrumse.net
 .t-s.zelboraf.com
-.putin.zelenskyj.ru
 .go.zellepay.com
 .trck.www4.zellepay.com
 .zelrasty.net
@@ -52979,7 +52977,6 @@ v2.fm.n.duokanbox.com
 .hisurnhuh.com
 .hitcounter.ru
 .hitgelsin.com
-.hitman-pro.ru
 .links.hitrecord.org
 .hitstation.nl
 .hitstatus.com
@@ -56897,7 +56894,6 @@ iad0ssl.pcauto.com.cn
 .serveload.com
 .servemoney.ru
 .serverbid.com
-.sessosesso.it
 .setoniale.com
 .setupslum.com
 .sev4ifmxa.com
@@ -74425,6 +74421,7 @@ grs.dbankcloud.asia
 .collector-api.frspecifics.com
 .frtnqps358.shop
 .frtnqpw837.shop
+.frutwafiwah.com
 .fryruejoust.cam
 .fsfwetubfgd.com
 .fsseeewzz.quest
@@ -78819,6 +78816,7 @@ ad-analysis.pconline.com.cn
 .stapledsaur.top
 .star-clicks.com
 .www.star-cntr-5.com
+.starcountry.net
 .sp.stargazette.com
 .link.starshiphsa.com
 .marketing.startfinder.com
@@ -93018,7 +93016,6 @@ collect.foresightnews.pro
 .kotokoaedeagi.com
 .koudaiyundong.com
 .koxcsmmcealss.com
-.kraljevikonaci.rs
 .info.kratosdefense.com
 .data-f1e447fbcf.kreis-anzeiger.de
 .data-f59db3288b.kreis-anzeiger.de
@@ -116446,6 +116443,7 @@ display.360totalsecurity.com
 .info.bintheredumpthatusa.com
 .binweevilsdoshcodes.com
 .biteneverthelessnan.com
+.bitkiselurunsiparis.com
 .bitternessjudicious.com
 .blastworthwhilewith.com
 .bloodbrothershacked.com
@@ -117263,6 +117261,7 @@ display.360totalsecurity.com
 .mexicantransmission.com
 .tracking.mhealthintelligence.com
 .michiganrobotflower.com
+.microsecurityupdate.com
 .midgerelativelyhoax.com
 .migrantacknowledged.com
 .migrantfarewellmoan.com
