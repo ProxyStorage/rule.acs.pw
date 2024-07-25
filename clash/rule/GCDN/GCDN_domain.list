@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-07-25T01:24:21.304Z
-# Size: 2079
+# Last Updated: 2024-07-25T03:21:16.974Z
+# Size: 2080
 # 
 #########################################
 s3.c.im
@@ -1718,6 +1718,7 @@ cdn.dotaoutpost.com
 live.fanmingming.com
 static.fasthosts.co.uk
 ohttp-relay1.fastly-edge.com
+google-ohttp-relay-safebrowsing.fastly-edge.com
 +.firebaseapp.com
 +.fontawesome.com
 static.foxbusiness.com
