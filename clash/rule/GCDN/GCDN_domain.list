@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-07-27T06:24:35.169Z
-# Size: 2080
+# Last Updated: 2024-07-27T09:18:54.322Z
+# Size: 2083
 # 
 #########################################
 s3.c.im
@@ -1348,6 +1348,7 @@ xpaywalletcdn.azureedge.net
 edgeassetservice.azureedge.net
 edge-mobile-static.azureedge.net
 edge-consumer-static.azureedge.net
+cdn.babylonjs.com
 secure.beer7live.com
 img.bigcloud.cyou
 js-cdn.blockchair.io
@@ -1626,6 +1627,7 @@ design.mayoclinic.org
 assets.mozilla.social
 +.mypinata.cloud
 +.myshopapps.com
+static.mytonwallet.io
 +.nelreports.net
 cdn.nerdschalk.com
 +.netdna-ssl.com
@@ -1954,6 +1956,7 @@ sig.grumpybumpers.com
 +.highwinds-cdn.com
 +.imagedelivery.net
 static.independent.co.uk
+cdn.joincommunity.xyz
 img3.lltaohuaxiang.com
 asset.mansionglobal.com
 +.mvnrepository.com
