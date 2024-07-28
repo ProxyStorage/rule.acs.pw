@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-07-28T09:20:19.262Z
-# Size: 2084
+# Last Updated: 2024-07-28T12:34:14.168Z
+# Size: 2088
 # 
 #########################################
 s3.c.im
@@ -33,6 +33,7 @@ cdn.img.ly
 bot.ivy.ai
 webpack.js.org
 npmgraph.js.org
+ipe-plugins.js.org
 npm.jsr.io
 .gravity.jup.io
 static-cache.k2s.cc
@@ -55,8 +56,10 @@ s.rfi.fr
 images.spr.so
 .ttl.sh
 static.ui.com
+cdn.ecomm.ui.com
 images.svc.ui.com
 cdn.pkg.svc.ui.com
+assets.ecomm.ui.com
 img.community.ui.com
 secure-uploads.ui.com
 account-cdn.svc.ui.com
@@ -345,6 +348,7 @@ s3.arkjp.net
 static.arxiv.org
 cdn.auth0.com
 static-clst.avgle.com
+.in.applicationinsights.azure.com
 amp.azure.net
 linuxiac.b-cdn.net
 panel-production-libs.b-cdn.net

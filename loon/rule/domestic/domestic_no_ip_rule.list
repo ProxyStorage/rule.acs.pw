@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-07-28T09:20:19.234Z
-# Size: 757
+# Last Updated: 2024-07-28T12:34:14.142Z
+# Size: 758
 # 
 #########################################
 DOMAIN,cdn.bootcdn.net
@@ -650,6 +650,7 @@ DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,biligame.cn
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,bilicomic.com
 DOMAIN-SUFFIX,bilicomics.com
 DOMAIN-SUFFIX,bilibilipay.cn
 DOMAIN-SUFFIX,bilibilipay.com
