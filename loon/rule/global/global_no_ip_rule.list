@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-07-29T12:37:35.099Z
-# Size: 571
+# Last Updated: 2024-07-29T15:21:08.847Z
+# Size: 574
 # 
 #########################################
 DOMAIN,pki.goog
@@ -267,6 +267,8 @@ DOMAIN-SUFFIX,aptoide.com
 DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,ask.com
+DOMAIN-SUFFIX,atlassian.com
+DOMAIN-SUFFIX,atlassian.net
 DOMAIN-SUFFIX,avg.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,bandcamp.com
@@ -381,6 +383,7 @@ DOMAIN-SUFFIX,iwara.tv
 DOMAIN-SUFFIX,ixxx.com
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,java.com
+DOMAIN-SUFFIX,jirachecklist.com
 DOMAIN-SUFFIX,jkforum.net
 DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,jsdelivr.net

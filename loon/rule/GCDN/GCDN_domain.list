@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-07-29T12:37:35.118Z
-# Size: 2088
+# Last Updated: 2024-07-29T15:21:08.867Z
+# Size: 2089
 # 
 #########################################
 s3.c.im
@@ -33,6 +33,7 @@ cdn.img.ly
 bot.ivy.ai
 webpack.js.org
 npmgraph.js.org
+storybook.js.org
 ipe-plugins.js.org
 npm.jsr.io
 .gravity.jup.io
@@ -90,7 +91,6 @@ seal-newyork.bbb.org
 cdn.bfe.dev
 static.bit.dev
 .bmp.ovh
-formulae.brew.sh
 assets.bwbx.io
 ajax.cat.net
 cdnjs.cat.net
@@ -1084,6 +1084,7 @@ i.xozilla.xxx
 cdne-pics.youjizz.com
 img.youtube.com
 web-assets.zendesk.com
+.ziglang.org
 .zohocdn.com
 .4everland.io
 static.addtoany.com

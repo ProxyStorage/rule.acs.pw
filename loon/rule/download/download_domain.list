@@ -1,11 +1,12 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-07-29T12:37:35.128Z
-# Size: 541
+# Last Updated: 2024-07-29T15:21:08.878Z
+# Size: 542
 # 
 #########################################
 .cdn.ea.com
 releases.arc.net
+formulae.brew.sh
 mirror.cat.net
 mirrors.cat.net
 ftp.gnu.org
