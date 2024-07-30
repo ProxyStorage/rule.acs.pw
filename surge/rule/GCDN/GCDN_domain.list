@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-07-30T03:24:14.155Z
-# Size: 2089
+# Last Updated: 2024-07-30T06:27:04.240Z
+# Size: 2093
 # 
 #########################################
 s3.c.im
@@ -502,6 +502,7 @@ assets.safing.io
 cdn.sanity.io
 .sb-cd.com
 cdn.sellix.io
+.ingest.sentry.io
 cf.shopee.tw
 files.slack.com
 cdn.smooch.io
@@ -981,6 +982,7 @@ stubdownloader.services.mozilla.com
 .cdn.mozilla.net
 .itsre-sumo.mozilla.net
 archive.mozilla.org
+versioncheck-bg.addons.mozilla.org
 cdn.myfonts.net
 .ipfs.namebase.io
 iframe.nbcnews.com
@@ -1547,6 +1549,7 @@ cdnjs.cloudflare.com
 static.dash.cloudflare.com
 cf-assets.www.cloudflare.com
 favicons.teams.cloudflare.com
+.privacy-gateway.cloudflare.com
 .cloudfront.net
 res.cloudinary.com
 fiverr-res.cloudinary.com
@@ -1847,6 +1850,7 @@ asset-cdn.uscardforum.com
 .usercontent.one
 app.viral-loops.com
 .local.webcontainer.io
+.webpkgcache.com
 files.writefreely.org
 img2.xiangbinjun.com
 .xvideos-cdn.com
