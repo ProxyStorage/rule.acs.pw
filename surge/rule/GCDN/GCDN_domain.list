@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-01T01:38:19.661Z
-# Size: 2094
+# Last Updated: 2024-08-01T03:22:04.285Z
+# Size: 2097
 # 
 #########################################
 s3.c.im
@@ -1325,7 +1325,6 @@ ws-assets.zoominfo.com
 c.1password.com
 i.1password.com
 .ipfs.4everland.xyz
-cache.agilebits.com
 static.agilebits.com
 app-updates.agilebits.com
 mycommerce.akamaized.net
@@ -1342,6 +1341,7 @@ s-cdn.anthropic.com
 .appmifile.com
 .aspnetcdn.com
 wac-cdn.atlassian.com
+media-cdn.atlassian.com
 wac-cdn-2.atlassian.com
 .avdocker3.com
 .awsstatic.com
@@ -1898,6 +1898,8 @@ proxy.joinmastodon.org
 .kinja-static.com
 files.mastodon.ktachibana.party
 .kuaikan-cdn4.com
+cdn-c.leavemealone.com
+icons.leavemealone.com
 assets.lemonsqueezy.com
 .packd.liuxingbaoyu.xyz
 player.louisvuitton.com
@@ -1918,6 +1920,7 @@ cdn.robinpro.gallery
 .scribdassets.com
 image.shutterstock.com
 .ipfs.soul-network.com
+.static.microsoft
 .staticflickr.com
 .streamhentai.org
 cdn.sunofbeaches.com
