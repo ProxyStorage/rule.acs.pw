@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-01T09:19:43.619Z
-# Size: 125064
+# Last Updated: 2024-08-01T12:37:44.922Z
+# Size: 125055
 # 
 #########################################
 .atom-log.3.cn
@@ -1108,7 +1108,6 @@ assets.msn.cn
 .collect.ovp.vn
 .rzarxl.ovs.it
 .links.own.tv
-.loader.oxy.st
 .download.oxy.st
 .ad.oyy.ru
 .visitor-microservice.ext.p-a.im
@@ -10914,6 +10913,7 @@ zhwnlapi.etouch.cn
 .girls.xyz
 .p3c0der.github.io
 .googleads.github.io
+.cheats-pack.github.io
 .techhome-js.github.io
 .tumanovalekcey.github.io
 .automate.gixxy.com
@@ -22592,6 +22592,7 @@ access-sngapm.qcloud.com
 .ruqwgb.icu
 .rurber.com
 .rurbie.com
+.ruspyc.top
 .russif.com
 .stats.rustica.fr
 .campaign.ruukki.com
@@ -26398,6 +26399,8 @@ hydra.alibaba.com
 .analytics.archive.org
 .ia800400.us.archive.org
 .ia803104.us.archive.org
+.ia803402.us.archive.org
+.ia803405.us.archive.org
 .ia903207.us.archive.org
 .analytics.us.archive.org
 .marketing.arcsona.com
@@ -27103,6 +27106,7 @@ thirdparty.biliapi.net
 .smetrics.caesars.com
 .events.caffeine.tv
 .cai75tp.com
+.download.caihong.com
 .cajggfj.com
 .tracker.calameo.com
 .calcpol.com
@@ -27203,19 +27207,6 @@ thirdparty.biliapi.net
 .cdftizu.xyz
 .cdjs.online
 .cdn.gallery
-.cdn1124.net
-.cdn25.space
-.cdn30.space
-.cdn32.space
-.cdn33.space
-.cdn34.space
-.cdn37.space
-.cdn40.click
-.cdn41.space
-.cdn42.space
-.cdn45.space
-.cdn46.space
-.cdn47.space
 .cdn4ads.com
 .cdnativ.com
 .cdnfile.xyz
@@ -30207,6 +30198,7 @@ ad.jiemian.com
 .jnrgcwf.com
 .jo9p72.cyou
 .xkbzom.jobblitz.de
+.jobcity.com
 .stat-ssl.jobcube.com
 .eylnhf.jobhouse.jp
 .jogdied.com
@@ -39825,8 +39817,6 @@ jobs.date-fns.org
 .epitrack.com
 .spread.epoolers.com
 .eprograms.eu
-.eprst251.boo
-.eprst431.boo
 .epsuphoa.xyz
 .eptougry.net
 .eqcilkii.com
@@ -46430,7 +46420,6 @@ inte.sogoucdn.com
 .track.spothero.com
 .ablink.emails.spothero.com
 .spotmydl.com
-.spotslfy.com
 .spotxcdn.com
 .spotygen.com
 .cdn.sppoints.xyz
@@ -49571,6 +49560,7 @@ stat.10jqka.com.cn
 .biowebb-data.s3.amazonaws.com
 .cloudfront-labs.amazonaws.com
 .babes-mansion.s3.amazonaws.com
+.bbuseruploads.s3.amazonaws.com
 .sprocket-ping.s3.amazonaws.com
 .syncplusconfig.s3.amazonaws.com
 .yieldmo-builds.s3.amazonaws.com
@@ -50113,6 +50103,7 @@ advertise.baicizhan.org
 .beyanmaan.com
 .redtrack.beyondbody.me
 .a8cv.beyondvape.jp
+.mkzo.photo.beyoudcor.com
 .bfrghskgq.com
 .marketing.bftwealth.com
 .bhnjwmega.com
@@ -54026,6 +54017,7 @@ v2.fm.n.duokanbox.com
 .metrics.kirklands.com
 .a8.kissmusic.net
 .kissmyads.biz
+.ad.kisstvshow.es
 .ad.kisstvshow.ru
 .kithoasou.com
 .kitnmedia.com
@@ -54097,7 +54089,6 @@ v2.fm.n.duokanbox.com
 .kq6lwk3m9g.ru
 .kqqwutgln.com
 .kqtvdljwv.com
-.bobs.kraken11op.ru
 .krisydark.com
 .ksrtmgoym.com
 .kstjqjuaw.xyz
@@ -54992,7 +54983,6 @@ i1.services.social.microsoft.com
 .mintclick.xyz
 .mintegral.com
 .mintegral.net
-.minuoddos.xyz
 .a8.mira-feel.com
 .marketing.miraflats.com
 .a8cv.sell.miraias.co.jp
@@ -55092,6 +55082,7 @@ i1.services.social.microsoft.com
 .ens.moneyhouse.ch
 .moneysyst.biz
 .somni.moneytips.com
+.moninediy.com
 .tr.newsletter.monmedium.com
 .web.online.monnalisa.com
 .mjjvkx.monoprice.com
@@ -57011,6 +57002,7 @@ iad0ssl.pcauto.com.cn
 .www.said3page.com
 .secure.said3page.com
 .saifcrack.com
+.sainzim.co.za
 .saipeevit.net
 .fgfukd.sakazen.co.jp
 .stats.sakurasky.com
@@ -67527,6 +67519,7 @@ adapi.lenovogame.com
 .mkxfbiwcet.com
 .mlhdmotenu.com
 .mljcfymfve.com
+.mlldrlujqg.com
 .mltunxdmrv.com
 .mluptwapaj.com
 .mm-syringe.com
@@ -71820,6 +71813,7 @@ app-ad.variflight.com
 .static.207.13.109.65.clients.your-server.de
 .static.85.196.216.95.clients.your-server.de
 .static.242.130.55.162.clients.your-server.de
+.static.183.213.201.138.clients.your-server.de
 .axp.yourbigsky.com
 .salamander.yourownpay.com
 .marketing.youththink.net
@@ -86015,6 +86009,7 @@ ssl.360antivirus.org
 .www.newsplusultra.es
 .newsvidnews.info
 .newthbvttskt.xyz
+.newupdatenew.com
 .rtb-uswest.next-traffic.com
 .nextclickadv.com
 .links.nexttrucking.com
@@ -87158,7 +87153,6 @@ ssl.360antivirus.org
 .resnubdreich.com
 .marketing.resolutionre.com
 .resonantrock.com
-.resourceedge.org
 .qjxiyt.respect-shoes.ru
 .responserver.com
 .responsidejo.xyz
@@ -89858,6 +89852,7 @@ stat.zuimeitianqi.com
 .target.aiavitality.co.kr
 .goat.aicontentdojo.com
 .go.aidenrollment.com
+.umami.aigenerations.net
 .ailamtrieuphu.com
 .ainegramestrk.com
 .go.air-electra.co.il
@@ -92370,6 +92365,7 @@ collect.foresightnews.pro
 .gaibjhicxrkng.xyz
 .gainmoneyfast.com
 .gaiterunfixed.top
+.roofing.galacticleads.com
 .galjwnhotubfg.com
 .galleyssleeps.top
 .gallupcommend.com
@@ -95941,7 +95937,6 @@ plausible.joincommunity.xyz
 .souvenirsflex.com
 .souvlatraffic.com
 .sozzlypeavies.com
-.spaceframe.mobi.space-frame.co.za
 .sparidssimps.life
 .sparkleagings.com
 .somni.sparrowhotels.com
@@ -100577,6 +100572,7 @@ plausible.joincommunity.xyz
 .littlecutecats.com
 .littlecutedogs.com
 .track.livecamtracker.com
+.cdn-staging.livechat-files.com
 .livedspoonsbun.com
 .livehacksource.com
 .livejasminhack.net
@@ -104138,9 +104134,7 @@ plausible.joincommunity.xyz
 .aji.demo.betterbuiltdogs.com
 .bzo.demo.betterbuiltdogs.com
 .hfj.demo.betterbuiltdogs.com
-.lmr.demo.betterbuiltdogs.com
 .net.demo.betterbuiltdogs.com
-.zea.demo.betterbuiltdogs.com
 .npwfg.demo.betterbuiltdogs.com
 .bettingpartners.com
 .lkhrtf.beveragefactory.com
@@ -110520,7 +110514,6 @@ display.360totalsecurity.com
 .paypalmoneyadder.org
 .pcgamerinterests.org
 .peacefulactivity.com
-.cookie.pearshealthcyber.com
 .peckrespectfully.com
 .peepholelandreed.com
 .peevishforceless.com
@@ -111380,7 +111373,6 @@ display.360totalsecurity.com
 .torpidtoothpaste.com
 .torrentsafeguard.com
 .action.totalcompbuilder.com
-.totalhorsehealth.com
 .totalnicestories.com
 .smetrics.tourdownunder.com.au
 .marketing.tourismsaskatoon.com
@@ -113217,7 +113209,6 @@ display.360totalsecurity.com
 .lacecompressarena.com
 .lackadaisicalkite.com
 .smetrics.lakeshorelearning.com
-.lallavedelajuderia.es
 .lambersoultre.website
 .lame7bsqu8barters.com
 .marketing.landuscooperative.com
@@ -117767,7 +117758,6 @@ display.360totalsecurity.com
 .data-3d30b366ad.mountainbike-magazin.de
 .a8cv.mova-creator-school.com
 .moviestarplanethack.org
-.msq2323232300000.online
 .mufflerlightsgroups.com
 .info.multichannelsystems.com
 .musclesadmonishment.com
@@ -119050,7 +119040,6 @@ display.360totalsecurity.com
 .franchise.goodearthcoffeehouse.com
 .goodluckblockingthis.com
 .goodnightbarterleech.com
-.goodvibesmatterforus.com
 .gorilladescendbounds.com
 .tr.news.grandsmoulinsdeparis.com
 .grandtheftauto5hacks.com
@@ -119255,6 +119244,7 @@ display.360totalsecurity.com
 .lifestyleheartrobust.com
 .likelihoodrevolution.com
 .lilysuffocateacademy.com
+.lindnerelektroanlagen.de
 .link2thesafeplayer.click
 .lionesssupercatering.com
 .livejasmin-free-hack.com
@@ -121757,6 +121747,7 @@ samsungcloudsolution.net
 .outwitridiculousresume.com
 .overallalreadyregistry.com
 .pacificvernonoutskirts.com
+.palharesinformatica.com.br
 .pancakedusteradmirable.com
 .panicmiserableeligible.com
 .parachuteeffectedotter.com
