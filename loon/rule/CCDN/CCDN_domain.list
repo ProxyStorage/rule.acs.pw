@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-02T06:28:56.204Z
-# Size: 167
+# Last Updated: 2024-08-02T09:21:19.158Z
+# Size: 171
 # 
 #########################################
 .a1.mzstatic.com
@@ -12,6 +12,7 @@
 .adcdownload.apple.com.akadns.net
 .adcdownload.apple.com
 .amp-api.media.apple.com
+.amp-api-updates.apps.apple.com
 .api-p-ap-c.smoot.apple.com
 .api-p-ap-d.smoot.apple.com
 .api-p-ap-e.smoot.apple.com
@@ -21,6 +22,7 @@
 .appleid.cdn-apple.com
 .apps.apple.com
 .apps.mzstatic.com
+.bag-cdn.itunes-apple.com.akadns.net
 .cdn-cn1.apple-mapkit.com
 .cdn-cn2.apple-mapkit.com
 .cdn-cn3.apple-mapkit.com
@@ -67,6 +69,7 @@
 .gsp5-cn.ls.apple.com
 .gsp85-cn-ssl.ls.apple.com
 .gspe19-2-cn-ssl.ls.apple.com
+.gspe19-2-cn-ssl.ls-apple.com.akadns.net
 .gspe19-cn-ssl.ls.apple.com
 .gspe19-cn.ls-apple.com.akadns.net
 .gspe19-cn.ls.apple.com
@@ -105,6 +108,7 @@
 .is4.mzstatic.com
 .is5-ssl.mzstatic.com
 .is5.mzstatic.com
+.is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
 .itunes-apple.com.akadns.net
 .itunes.apple.com
 .itunesconnect.apple.com

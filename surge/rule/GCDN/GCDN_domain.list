@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-02T06:28:56.199Z
-# Size: 2097
+# Last Updated: 2024-08-02T09:21:19.153Z
+# Size: 2098
 # 
 #########################################
 s3.c.im
@@ -2024,6 +2024,7 @@ next-images.opencollective.com
 web-assets.otogi-frontier.com
 .polyfill-fastly.io
 api.pwnedpasswords.com
+.replicate.delivery
 .safebrowsing.apple
 image.theblockbeats.info
 vscode-sync.trafficmanager.net
