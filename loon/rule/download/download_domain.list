@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-02T09:21:19.166Z
-# Size: 543
+# Last Updated: 2024-08-02T12:36:49.423Z
+# Size: 553
 # 
 #########################################
 .cdn.ea.com
@@ -9,6 +9,7 @@ releases.arc.net
 formulae.brew.sh
 mirror.cat.net
 mirrors.cat.net
+.file.io
 ftp.gnu.org
 gog-cdn-fastly.gog.com
 gog-cdn-fastly-cp77.gog.com
@@ -19,6 +20,7 @@ binary-factory.kde.org
 file24-d.kuku.lu
 .mega.io
 .mega.nz
+.temp.sh
 .cdn.ubi.com
 mirror.xtom.au
 mirrors.xtom.au
@@ -70,6 +72,7 @@ dl2.xmind.net
 dl3.xmind.net
 downloads.xrite.com
 download.beeper.com
+.catbox.moe
 .deb.debian.org
 .ftp.debian.org
 .archive.debian.org
@@ -80,6 +83,7 @@ download.dlsite.com
 desktop.docker.com
 download.docker.com
 .mirrors.dotsrc.org
+codeload.github.com
 dl.google.com
 dl.l.google.com
 cache.pack.google.com
@@ -98,6 +102,7 @@ steam.ru.qtlglb.com
 steam.eca.qtlglb.com
 steam.apac.qtlglb.com
 steam.naeu.qtlglb.com
+share.riseup.net
 store.setapp.com
 download.sketch.com
 .archive.ubuntu.com
@@ -105,6 +110,7 @@ security.ubuntu.com
 download.anydesk.com
 edge.steam-dns.top.comcast.net
 dl.devmate.com
+.filebin.net
 down.filen-1.net
 down.filen-2.net
 down.filen-3.net
@@ -179,7 +185,9 @@ api-updates.orbstack.dev
 cdn-updates.orbstack.dev
 repo.powerdns.com
 dl.snipaste.com
+stats.snipaste.com
 download.snipaste.com
+.tmpfiles.org
 xvcf1.xboxlive.com
 xvcf2.xboxlive.com
 packagespc.xboxlive.com
@@ -546,4 +554,6 @@ get.pixelexperience.org
 download.pixelexperience.org
 .copr.fedorainfracloud.org
 .cloudflaremirrors.com
+objects.githubusercontent.com
+pkg-containers.githubusercontent.com
 .digitaloceanspaces.com
