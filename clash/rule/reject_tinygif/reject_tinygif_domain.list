@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-04T15:19:33.036Z
-# Size: 125116
+# Last Updated: 2024-08-04T18:24:20.555Z
+# Size: 125117
 # 
 #########################################
 +.atom-log.3.cn
@@ -39250,6 +39250,7 @@ jobs.date-fns.org
 +.deckedsi.com
 +.deckeeps.xyz
 +.decossee.com
++.tr.dec-connect.decsuite.com
 +.tag.dec-connect.decsuite.com
 +.deefauph.com
 +.deehalig.net

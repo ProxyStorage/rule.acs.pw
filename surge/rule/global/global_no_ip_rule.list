@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-08-04T15:19:33.091Z
-# Size: 579
+# Last Updated: 2024-08-04T18:24:20.607Z
+# Size: 580
 # 
 #########################################
 DOMAIN,pki.goog
@@ -376,6 +376,7 @@ DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,huobi.com
 DOMAIN-SUFFIX,ibb.co
+DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,initiummall.com

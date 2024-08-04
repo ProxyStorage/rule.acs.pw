@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-04T15:19:33.110Z
-# Size: 2097
+# Last Updated: 2024-08-04T18:24:20.625Z
+# Size: 2100
 # 
 #########################################
 s3.c.im
@@ -27,6 +27,7 @@ eep.io
 .permaweb.eu.org
 genesis-cdn.ff.com
 .gcr.io
+cdn.registerdisney.go.com
 .gw3.io
 i.ibb.co
 image.ibb.co
@@ -1633,6 +1634,7 @@ assets.mastercard.com
 cdn.matterhorn.app
 assets.mayoclinic.org
 design.mayoclinic.org
+.media-imdb.com
 assets.mozilla.social
 .mypinata.cloud
 .myshopapps.com
@@ -1774,6 +1776,7 @@ static10.lottiefiles.com
 files.mastodon.online
 files.mastodon.social
 static-cdn.mastodon.social
+i.mydramalist.com
 cdn.myportfolio.com
 pro2-ui-assets-s3-fy.myportfolio.com
 cdn.neverbounce.com
