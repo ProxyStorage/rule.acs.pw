@@ -1,12 +1,13 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-08-04T12:34:27.216Z
-# Size: 577
+# Last Updated: 2024-08-04T15:19:33.092Z
+# Size: 579
 # 
 #########################################
 DOMAIN,pki.goog
 DOMAIN,addons.mozilla.org
 DOMAIN,ees.elsevier.com
+DOMAIN,techspecs.ui.com
 DOMAIN,ccmdl.adobe.com
 DOMAIN,media.steampowered.com
 DOMAIN,wego.here.com
@@ -236,6 +237,7 @@ DOMAIN-SUFFIX,scp-wiki.net
 DOMAIN-SUFFIX,scpdb.org
 DOMAIN-SUFFIX,scpwiki.com
 DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,unifi.ui.com
 DOMAIN-SUFFIX,singlelogin.se
 DOMAIN-SUFFIX,singlelogin.re
 DOMAIN-SUFFIX,z-library.se
@@ -338,6 +340,7 @@ DOMAIN-SUFFIX,dynu.net
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,edgecastcdn.net
+DOMAIN-SUFFIX,eroterest.net
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,euronews.com
@@ -522,7 +525,6 @@ DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,ubuntu.com
-DOMAIN-SUFFIX,unifi.ui.com
 DOMAIN-SUFFIX,uptodown.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2fly.org

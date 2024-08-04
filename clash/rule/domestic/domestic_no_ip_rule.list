@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-08-04T12:34:27.206Z
-# Size: 754
+# Last Updated: 2024-08-04T15:19:33.077Z
+# Size: 755
 # 
 #########################################
 DOMAIN,cdn.bootcdn.net
@@ -633,6 +633,7 @@ DOMAIN-SUFFIX,qlivecdn.com
 DOMAIN-SUFFIX,tcdnlive.com
 DOMAIN-SUFFIX,dnsv1.com
 DOMAIN-SUFFIX,upos-sz-mirrorali.bilivideo.com
+DOMAIN-SUFFIX,upos-sz-mirrorbd.bilivideo.com
 DOMAIN-SUFFIX,upos-sz-mirrorbos.bilivideo.com
 DOMAIN-SUFFIX,upos-sz-mirrorcoso1.bilivideo.com
 DOMAIN-SUFFIX,acg.tv

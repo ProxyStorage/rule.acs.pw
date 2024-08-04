@@ -1,5 +1,5 @@
 #!name=DNS映射
-#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-08-04T12:34:27.378Z
+#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-08-04T15:19:33.258Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -441,6 +441,8 @@ tcdnlive.com = server:https://doh.pub/dns-query
 dnsv1.com = server:https://doh.pub/dns-query
 *.dnsv1.com = server:https://doh.pub/dns-query
 *.upos-sz-mirrorali.bilivideo.com = server:quic://dns.alidns.com:853
+upos-sz-mirrorbd.bilivideo.com = server:180.76.76.76
+*.upos-sz-mirrorbd.bilivideo.com = server:180.76.76.76
 *.upos-sz-mirrorbos.bilivideo.com = server:180.76.76.76
 upos-sz-mirrorcoso1.bilivideo.com = server:https://doh.pub/dns-query
 *.upos-sz-mirrorcoso1.bilivideo.com = server:https://doh.pub/dns-query

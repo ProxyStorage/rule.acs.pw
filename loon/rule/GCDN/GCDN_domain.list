@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-04T12:34:27.235Z
-# Size: 2094
+# Last Updated: 2024-08-04T15:19:33.112Z
+# Size: 2097
 # 
 #########################################
 s3.c.im
@@ -59,6 +59,7 @@ images.spr.so
 .ttl.sh
 static.ui.com
 cdn.ecomm.ui.com
+fonts.svc.ui.com
 images.svc.ui.com
 cdn.pkg.svc.ui.com
 assets.ecomm.ui.com
@@ -107,6 +108,7 @@ cdn1.dan.com
 cdn2.dan.com
 cdn3.dan.com
 docs.rs
+image.dooo.ng
 media.e4le.me
 .esm.run
 badge.fury.io
@@ -969,6 +971,7 @@ static.klaviyo.com
 parts.blog.livedoor.jp
 img.ltyears.com
 assets.mailgun.com
+img-cos.mandaoo.com
 cdn.mathjax.org
 static.maxmind.com
 download.maxmind.com
@@ -1303,7 +1306,6 @@ images.unsplash.com
 js.userflow.com
 crl.verisign.com
 .vimeocdn.com
-api.wakatime.com
 cdn.wccftech.com
 api.web3.storage
 images.web3.storage
@@ -1386,6 +1388,7 @@ cdn2.epicgames.com
 media-cdn.epicgames.com
 static-assets-prod.epicgames.com
 epic-social-social-modules-prod.ol.epicgames.com
+static.eroterest.net
 cache-05.filehippo.net
 .fiverrcdn.com
 .flagpedia.net

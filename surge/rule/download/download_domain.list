@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-04T12:34:27.245Z
-# Size: 553
+# Last Updated: 2024-08-04T15:19:33.122Z
+# Size: 554
 # 
 #########################################
 .cdn.ea.com
@@ -125,6 +125,7 @@ download.mozilla.org
 download.nektony.com
 boot.netboot.xyz
 dl.nssurge.com
+releases.obsidian.md
 downloads.openwrt.org
 enterprise.proxmox.com
 .iso.reactos.org
