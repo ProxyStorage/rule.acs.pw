@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-05T03:21:45.813Z
-# Size: 554
+# Last Updated: 2024-08-05T06:28:06.879Z
+# Size: 555
 # 
 #########################################
 +.cdn.ea.com
@@ -516,6 +516,7 @@ update.googleapis.com
 releases.grapheneos.org
 +.nitro.download
 pixeldrain.com
+update.sleazyfork.org
 os-cdn.virtfusion.net
 install.virtfusion.net
 packages.virtfusion.net
