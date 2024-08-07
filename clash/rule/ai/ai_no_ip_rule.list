@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-08-07T12:38:21.153Z
-# Size: 57
+# Last Updated: 2024-08-07T15:20:45.379Z
+# Size: 58
 # 
 #########################################
 DOMAIN,cdn.usefathom.com
@@ -17,6 +17,7 @@ DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,makersuite.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,ai.com
