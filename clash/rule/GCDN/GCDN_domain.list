@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-11T06:27:21.660Z
-# Size: 2124
+# Last Updated: 2024-08-11T09:19:36.516Z
+# Size: 2130
 # 
 #########################################
 s3.c.im
@@ -112,6 +112,8 @@ docs.rs
 image.dooo.ng
 media.e4le.me
 +.esm.run
+media.fc2.com
+static.fc2.com
 badge.fury.io
 assets.garr.it
 +.ghcr.io
@@ -392,6 +394,7 @@ pics.dmm.co.jp
 cdn.dap.dmm.co.jp
 doujin-assets.dmm.co.jp
 +.docker.io
+cdn.donmai.us
 +.dsc.cloud
 +.dweb.link
 cdn.faire.com
@@ -945,6 +948,7 @@ eu.hamreus.com
 us.hamreus.com
 +.hardbin.com
 static.heavy-r.com
+pics.hentai.name
 js.hsforms.net
 js-eu1.hsforms.net
 +.static2cdn.hubspot.com
@@ -1327,6 +1331,7 @@ res2.weblium.site
 static.whatsapp.net
 scontent.whatsapp.net
 cdn.wishpond.net
+bundler.wix-code.com
 images-eds-ssl.xboxlive.com
 +.xnxx-cdn.com
 +.yastatic.net
@@ -1585,6 +1590,7 @@ media.convertkit.com
 assets.convertkit.com
 cdn.datatables.net
 a.deviantart.net
+e.deviantart.net
 st.deviantart.net
 osint.digitalside.it
 +.cdn.discordapp.com
