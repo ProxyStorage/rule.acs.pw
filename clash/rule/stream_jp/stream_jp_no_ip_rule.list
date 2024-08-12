@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-08-12T15:22:20.964Z
+# Last Updated: 2024-08-12T18:27:25.058Z
 # Size: 25
 # 
 #########################################
@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,dokusho-ojikan.jp
 DOMAIN-SUFFIX,winticket.jp
 DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,nicovideo.jp
-DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,asset.domand.nicovideo.jp
 DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hjholdings.jp

@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-08-12T15:22:20.959Z
+# Last Updated: 2024-08-12T18:27:25.053Z
 # Size: 328
 # 
 #########################################
@@ -196,7 +196,7 @@ DOMAIN-SUFFIX,tv.naver.com
 DOMAIN-SUFFIX,smartmediarep.com
 DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,nicovideo.jp
-DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,asset.domand.nicovideo.jp
 DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,overcast.fm

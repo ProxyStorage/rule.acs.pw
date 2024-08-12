@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-12T15:22:20.987Z
-# Size: 557
+# Last Updated: 2024-08-12T18:27:25.081Z
+# Size: 558
 # 
 #########################################
 +.cdn.ea.com
@@ -89,6 +89,7 @@ dl.l.google.com
 cache.pack.google.com
 download.mlcc.google.com
 download.tensorflow.google.com
+iterm2.com
 +.repo.jing.rocks
 mirrors.edge.kernel.org
 +.mega.co.nz
