@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-08-13T15:20:29.738Z
-# Size: 583
+# Last Updated: 2024-08-13T18:26:35.291Z
+# Size: 591
 # 
 #########################################
 DOMAIN,pki.goog
@@ -107,6 +107,10 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,linkedin.at
 DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,azurecontainer.io
+DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,azure-mobile.net
+DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,aimoon.com
@@ -341,6 +345,7 @@ DOMAIN-SUFFIX,dynu.net
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,edgecastcdn.net
+DOMAIN-SUFFIX,elasticbeanstalk.com
 DOMAIN-SUFFIX,eroterest.net
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,etsy.com
@@ -378,6 +383,7 @@ DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,huobi.com
 DOMAIN-SUFFIX,ibb.co
+DOMAIN-SUFFIX,influxdata.com
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,intel.com
@@ -508,6 +514,7 @@ DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,substack.com
 DOMAIN-SUFFIX,supjav.com
 DOMAIN-SUFFIX,surfshark.com
+DOMAIN-SUFFIX,surge-activation.com
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,textnow.me
@@ -538,6 +545,7 @@ DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,viber.com
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,wakatime.com
 DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,whoer.net

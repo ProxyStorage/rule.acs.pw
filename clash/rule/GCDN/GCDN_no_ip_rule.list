@@ -1,9 +1,11 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-08-13T15:20:29.758Z
-# Size: 8
+# Last Updated: 2024-08-13T18:26:35.310Z
+# Size: 10
 # 
 #########################################
+DOMAIN,cdn-msp.18comic.vip
+DOMAIN,cdn-msp.jmcomic.me
 DOMAIN-SUFFIX,download.jetbrains.com
 DOMAIN-SUFFIX,downloads.marketplace.jetbrains.com
 DOMAIN-SUFFIX,rule.acs.pw

@@ -1,10 +1,11 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-13T15:20:29.769Z
+# Last Updated: 2024-08-13T18:26:35.321Z
 # Size: 558
 # 
 #########################################
 +.cdn.ea.com
+dl.ui.com
 releases.arc.net
 formulae.brew.sh
 mirror.cat.net
@@ -51,7 +52,6 @@ cdn.kagi.com
 cdimage.kali.org
 dl.pstmn.io
 mac-release-static.stash.ws
-dl.ubnt.com
 download.xbox.com
 mirror.xtom.com
 mirrors.xtom.com
