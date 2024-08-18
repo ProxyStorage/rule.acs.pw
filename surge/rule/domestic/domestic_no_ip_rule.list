@@ -1,11 +1,9 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-08-18T12:36:50.842Z
-# Size: 768
+# Last Updated: 2024-08-18T15:18:37.685Z
+# Size: 765
 # 
 #########################################
-DOMAIN,cdn.bootcdn.net
-DOMAIN,cdn.bootcss.com
 DOMAIN,www.layuicdn.com
 DOMAIN,xboxlive.cn
 DOMAIN,lv.queniujq.cn
@@ -230,8 +228,6 @@ DOMAIN-SUFFIX,ourdvs.com
 DOMAIN-SUFFIX,staticdn.net
 DOMAIN-SUFFIX,sevencdn.com
 DOMAIN-SUFFIX,wangsu.com
-DOMAIN-SUFFIX,staticfile.org
-DOMAIN-SUFFIX,staticfile.net
 DOMAIN-SUFFIX,steam.clngaa.com
 DOMAIN-SUFFIX,steam.ksyna.com
 DOMAIN-SUFFIX,dl.bscstorage.net
@@ -349,6 +345,7 @@ DOMAIN-SUFFIX,dewu.com
 DOMAIN-SUFFIX,dfcfw.com
 DOMAIN-SUFFIX,dida365.com
 DOMAIN-SUFFIX,digicert.cn
+DOMAIN-SUFFIX,dizzylab.net
 DOMAIN-SUFFIX,docin.com
 DOMAIN-SUFFIX,docschina.org
 DOMAIN-SUFFIX,douban.com

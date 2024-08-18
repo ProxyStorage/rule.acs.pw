@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-08-18T12:36:50.857Z
-# Size: 592
+# Last Updated: 2024-08-18T15:18:37.702Z
+# Size: 594
 # 
 #########################################
 DOMAIN,pki.goog
@@ -254,6 +254,7 @@ DOMAIN-SUFFIX,libgen.fun
 DOMAIN-SUFFIX,annas-archive.se
 DOMAIN-SUFFIX,annas-archive.gs
 DOMAIN-SUFFIX,annas-archive.org
+DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
@@ -312,6 +313,7 @@ DOMAIN-SUFFIX,codepen.io
 DOMAIN-SUFFIX,codesandbox.io
 DOMAIN-SUFFIX,coinex.com
 DOMAIN-SUFFIX,costco.com
+DOMAIN-SUFFIX,coveralls.io
 DOMAIN-SUFFIX,cpuid.com
 DOMAIN-SUFFIX,dailymotion.com
 DOMAIN-SUFFIX,dailymail.co.uk

@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's IP Rule
-# Last Updated: 2024-08-18T12:36:50.846Z
-# Size: 3649
+# Last Updated: 2024-08-18T15:18:37.689Z
+# Size: 3640
 # No Resolve
 #########################################
 IP-CIDR,162.14.0.0/18,no-resolve
@@ -2605,8 +2605,7 @@ IP-CIDR,180.188.32.0/22,no-resolve
 IP-CIDR,180.188.44.0/22,no-resolve
 IP-CIDR,180.200.252.0/22,no-resolve
 IP-CIDR,180.201.0.0/16,no-resolve
-IP-CIDR,180.203.0.0/23,no-resolve
-IP-CIDR,180.203.3.0/24,no-resolve
+IP-CIDR,180.203.0.0/22,no-resolve
 IP-CIDR,180.208.0.0/15,no-resolve
 IP-CIDR,180.210.212.0/22,no-resolve
 IP-CIDR,180.212.0.0/15,no-resolve
@@ -3187,10 +3186,7 @@ IP-CIDR,211.97.192.0/18,no-resolve
 IP-CIDR,211.98.0.0/16,no-resolve
 IP-CIDR,211.99.8.0/21,no-resolve
 IP-CIDR,211.99.16.0/23,no-resolve
-IP-CIDR,211.99.25.0/24,no-resolve
-IP-CIDR,211.99.26.0/24,no-resolve
-IP-CIDR,211.99.28.0/23,no-resolve
-IP-CIDR,211.99.30.0/24,no-resolve
+IP-CIDR,211.99.24.0/21,no-resolve
 IP-CIDR,211.99.32.0/19,no-resolve
 IP-CIDR,211.99.64.0/18,no-resolve
 IP-CIDR,211.99.128.0/18,no-resolve
@@ -3274,29 +3270,24 @@ IP-CIDR,211.158.0.0/16,no-resolve
 IP-CIDR,211.159.64.0/21,no-resolve
 IP-CIDR,211.159.128.0/17,no-resolve
 IP-CIDR,211.160.0.0/22,no-resolve
-IP-CIDR,211.160.4.0/24,no-resolve
-IP-CIDR,211.160.9.0/24,no-resolve
-IP-CIDR,211.160.10.0/23,no-resolve
-IP-CIDR,211.160.15.0/24,no-resolve
-IP-CIDR,211.160.16.0/24,no-resolve
-IP-CIDR,211.160.19.0/24,no-resolve
-IP-CIDR,211.160.20.0/22,no-resolve
-IP-CIDR,211.160.24.0/24,no-resolve
-IP-CIDR,211.160.27.0/24,no-resolve
+IP-CIDR,211.160.4.0/23,no-resolve
+IP-CIDR,211.160.8.0/22,no-resolve
+IP-CIDR,211.160.14.0/23,no-resolve
+IP-CIDR,211.160.16.0/21,no-resolve
+IP-CIDR,211.160.24.0/22,no-resolve
 IP-CIDR,211.160.28.0/23,no-resolve
 IP-CIDR,211.160.36.0/23,no-resolve
-IP-CIDR,211.160.46.0/24,no-resolve
-IP-CIDR,211.160.62.0/24,no-resolve
+IP-CIDR,211.160.46.0/23,no-resolve
+IP-CIDR,211.160.62.0/23,no-resolve
 IP-CIDR,211.160.72.0/21,no-resolve
 IP-CIDR,211.160.80.0/20,no-resolve
-IP-CIDR,211.160.112.0/23,no-resolve
-IP-CIDR,211.160.115.0/24,no-resolve
-IP-CIDR,211.160.120.0/24,no-resolve
+IP-CIDR,211.160.112.0/22,no-resolve
+IP-CIDR,211.160.120.0/23,no-resolve
 IP-CIDR,211.160.160.0/19,no-resolve
-IP-CIDR,211.160.195.0/24,no-resolve
+IP-CIDR,211.160.194.0/23,no-resolve
 IP-CIDR,211.160.196.0/24,no-resolve
-IP-CIDR,211.160.203.0/24,no-resolve
-IP-CIDR,211.160.205.0/24,no-resolve
+IP-CIDR,211.160.202.0/23,no-resolve
+IP-CIDR,211.160.204.0/23,no-resolve
 IP-CIDR,211.160.240.0/20,no-resolve
 IP-CIDR,211.161.0.0/20,no-resolve
 IP-CIDR,211.161.20.0/22,no-resolve
