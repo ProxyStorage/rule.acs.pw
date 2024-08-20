@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [],
+      "domain_suffix": [
+        "coze.com",
+        "ciciai.com",
+        "byteoversea.com",
+        ".byteoversea.com",
+        "oceanapi-i18n.com",
+        "marscode.cn",
+        "marscode.com"
+      ],
+      "domain_keyword": [],
+      "process_name": [],
+      "domain_regex": []
+    }
+  ]
+}

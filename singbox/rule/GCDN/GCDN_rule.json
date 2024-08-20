@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "cdn-msp.18comic.vip",
+        "cdn-msp.jmcomic.me"
+      ],
+      "domain_suffix": [
+        "download.jetbrains.com",
+        "downloads.marketplace.jetbrains.com",
+        "rule.acs.pw"
+      ],
+      "domain_keyword": [
+        "-files.gitbook.io",
+        "vod-adaptive.akamaized.net",
+        "web-assets.zendesk",
+        "-res.cloudinary.com",
+        "dsn.algolia.net"
+      ],
+      "process_name": [],
+      "domain_regex": [
+        "^http://www\\.microsoft\\.com/pki/",
+        "^http://www\\.microsoft\\.com/pkiops/"
+      ]
+    }
+  ]
+}
