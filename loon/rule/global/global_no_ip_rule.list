@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-08-20T01:25:30.108Z
-# Size: 594
+# Last Updated: 2024-08-20T03:22:49.161Z
+# Size: 595
 # 
 #########################################
 DOMAIN,pki.goog
@@ -288,6 +288,7 @@ DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,bestbuy.com
 DOMAIN-SUFFIX,bet365.com
 DOMAIN-SUFFIX,bgp.tools
+DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bibox.com
 DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,bitfinex.com
