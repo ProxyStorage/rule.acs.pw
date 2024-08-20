@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-20T12:38:13.992Z
-# Size: 2154
+# Last Updated: 2024-08-20T15:21:08.335Z
+# Size: 2155
 # 
 #########################################
 s3.c.im
@@ -300,6 +300,7 @@ www-static.ripe.net
 rules.ac
 .www.s81c.com
 static.scarf.sh
+p.sda1.dev
 .seadn.io
 .senja.io
 js.short.io

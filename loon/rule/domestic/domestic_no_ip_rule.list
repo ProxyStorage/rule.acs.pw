@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-08-20T12:38:13.965Z
-# Size: 765
+# Last Updated: 2024-08-20T15:21:08.306Z
+# Size: 766
 # 
 #########################################
 DOMAIN,www.layuicdn.com
@@ -503,6 +503,7 @@ DOMAIN-SUFFIX,ys7.com
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,yuewen.com
 DOMAIN-SUFFIX,yumchina.com
+DOMAIN-SUFFIX,yupoo.com
 DOMAIN-SUFFIX,yy.com
 DOMAIN-SUFFIX,zdmimg.com
 DOMAIN-SUFFIX,zdic.net
