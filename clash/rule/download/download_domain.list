@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-21T03:21:29.069Z
-# Size: 558
+# Last Updated: 2024-08-21T06:27:05.347Z
+# Size: 562
 # 
 #########################################
 +.cdn.ea.com
@@ -122,6 +122,7 @@ mirror.ghproxy.com
 +.ks3-rus.ksyuncs.com
 +.ks3-sgp.ksyuncs.com
 +.ks3-cn-hk-1.ksyuncs.com
+download.maxmind.com
 download.mozilla.org
 download.nektony.com
 boot.netboot.xyz
@@ -197,6 +198,7 @@ packagespc.xboxlive.com
 c.1password.com
 downloads.1password.com
 cache.agilebits.com
+app-updates.agilebits.com
 steampipe.akamaized.net
 steampipe-kr.akamaized.net
 steampipe-partner.akamaized.net
@@ -513,10 +515,12 @@ mirrors.rpmfusion.org
 download.todesktop.com
 releases.whatpulse.org
 +.dl.wireshark.org
+downloads.wordpress.org
 dl.discordapp.net
 artifacts.electronjs.org
 update.googleapis.com
 releases.grapheneos.org
+updates.istatmenus.app
 +.nitro.download
 pixeldrain.com
 update.sleazyfork.org

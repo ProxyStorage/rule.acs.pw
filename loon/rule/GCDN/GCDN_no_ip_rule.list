@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-08-21T03:21:29.058Z
-# Size: 30
+# Last Updated: 2024-08-21T06:27:05.337Z
+# Size: 31
 # 
 #########################################
 DOMAIN,cdn-msp.18comic.vip
@@ -32,5 +32,6 @@ DOMAIN-WILDCARD,video?-thumbnail?.fc2.com
 DOMAIN-WILDCARD,vip-videoprem*-thumbnail?.fc2.com
 DOMAIN-WILDCARD,blog-imgs-??.2nt.com
 DOMAIN-WILDCARD,blog-imgs-??.fc2.com
+DOMAIN-WILDCARD,rr1---??.ouo.si
 URL-REGEX,^http://www\.microsoft\.com/pki/
 URL-REGEX,^http://www\.microsoft\.com/pkiops/

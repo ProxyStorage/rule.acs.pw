@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-21T03:21:29.056Z
-# Size: 2155
+# Last Updated: 2024-08-21T06:27:05.335Z
+# Size: 2161
 # 
 #########################################
 s3.c.im
@@ -308,6 +308,8 @@ js.short.io
 .ipfs.slang.cx
 js.smile.io
 cdn.split.io
+sdk.split.io
+streaming.split.io
 c.start.me
 f.start.me
 static.start.me
@@ -680,6 +682,7 @@ images.idgesg.net
 .cdn.ifixit.com
 .iggcdn.com
 .imgbox.com
+p.inari.site
 .ipfscdn.io
 cf.javfree.me
 .javtxt.com
@@ -877,6 +880,7 @@ cdn-mobile.aptoide.com
 .archive.org
 static.assetlab.io
 consentdeliveryfd.azurefd.net
+static.bangumi.moe
 .bdzybf7.com
 a5.behance.net
 mir-s3-cdn-cf.behance.net
@@ -998,7 +1002,6 @@ assets.mailgun.com
 img-cos.mandaoo.com
 cdn.mathjax.org
 static.maxmind.com
-download.maxmind.com
 medias.meow.social
 minotar.net
 .mktgcdn.com
@@ -1023,6 +1026,7 @@ static.nhentai.net
 .oktacdn.com
 static.olelive.com
 assets.onestore.ms
+cdn.onetime.dog
 assets.ontrack.com
 p-smith.com
 cdn.parsely.com
@@ -1119,6 +1123,7 @@ web-assets.zendesk.com
 pic.ziyuan.wang
 .zohocdn.com
 .4everland.io
+image.p-c2-x.abema-tv.com
 static.addtoany.com
 cdn.adguard.info
 assets.adobedtm.com
@@ -1362,7 +1367,6 @@ c.1password.com
 i.1password.com
 .ipfs.4everland.xyz
 static.agilebits.com
-app-updates.agilebits.com
 mycommerce.akamaized.net
 viu-static.akamaized.net
 mwf-service.akamaized.net
@@ -1565,7 +1569,6 @@ s3.eu-central-2.wasabisys.com
 upload.wikimedia.org
 .wixstatic.com
 .files.wordpress.com
-downloads.wordpress.org
 .xdaimages.com
 cdn.yinghuazy.xyz
 web-assets.zendesk.co.jp
@@ -1673,7 +1676,6 @@ w2.influxdata.com
 .storage.infomaniak.com
 .infura-ipfs.io
 cdn.ip2location.io
-updates.istatmenus.app
 pkg-cdn.jetbrains.team
 packages.jetbrains.team
 content.jwplatform.com
@@ -1727,6 +1729,7 @@ s3.stackabuse.com
 tiles.stadiamaps.com
 .static.domains
 .teraboxcdn.com
+media.themoviedb.org
 widget.trustpilot.com
 simplicity.trustpilot.com
 user-images.trustpilot.com
@@ -1773,6 +1776,9 @@ ddcdn.comtucdncom.com
 js.createsend1.com
 css.createsend1.com
 images.store.crowdstrike.com
+imgsrv.crunchyroll.com
+static.crunchyroll.com
+img1.ak.crunchyroll.com
 i.dailymail.co.uk
 scripts.dailymail.co.uk
 .divio-media.net
