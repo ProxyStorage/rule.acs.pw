@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-25T18:24:16.755Z
-# Size: 123063
+# Last Updated: 2024-08-25T21:17:27.047Z
+# Size: 123064
 # 
 #########################################
 .atom-log.3.cn
@@ -27102,6 +27102,7 @@ thirdparty.biliapi.net
 .metrics.carters.com
 .smetrics.carters.com
 .cartponi.tk
+.cartx.cloud
 .b.carungo.com
 .branch.carvana.com
 .carvyre.com

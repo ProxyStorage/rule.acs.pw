@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-08-25T18:24:16.790Z
-# Size: 601
+# Last Updated: 2024-08-25T21:17:27.084Z
+# Size: 612
 # 
 #########################################
 DOMAIN,pki.goog
@@ -128,6 +128,9 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,githubpreview.dev
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,globo.com
 DOMAIN-SUFFIX,foxnews.com
 DOMAIN-SUFFIX,cnn.com
@@ -255,6 +258,11 @@ DOMAIN-SUFFIX,annas-archive.se
 DOMAIN-SUFFIX,annas-archive.gs
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,dnsleaktest.com
+DOMAIN-SUFFIX,eu.org
+DOMAIN-SUFFIX,edgecompute.app
+DOMAIN-SUFFIX,fly.dev
+DOMAIN-SUFFIX,shw.io
+DOMAIN-SUFFIX,edgeapp.net
 DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
@@ -357,6 +365,8 @@ DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastlylb.net
+DOMAIN-SUFFIX,fastly-edge.com
 DOMAIN-SUFFIX,fc2.com
 DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,flickr.com
@@ -367,7 +377,6 @@ DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,getchu.com
 DOMAIN-SUFFIX,gettyimages.com
-DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,ghostery.com
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,go.dev
@@ -381,6 +390,8 @@ DOMAIN-SUFFIX,hanime.tv
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,he.net
 DOMAIN-SUFFIX,hentaifox.com
+DOMAIN-SUFFIX,herokuapp.com
+DOMAIN-SUFFIX,herokussl.com
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,homedepot.com

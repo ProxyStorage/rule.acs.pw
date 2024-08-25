@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-25T18:24:16.810Z
-# Size: 2176
+# Last Updated: 2024-08-25T21:17:27.104Z
+# Size: 2180
 # 
 #########################################
 s3.c.im
@@ -27,6 +27,7 @@ eep.io
 +.permaweb.eu.org
 genesis-cdn.ff.com
 +.gcr.io
++.gcr.si
 cdn.registerdisney.go.com
 +.gw3.io
 i.ibb.co
@@ -658,6 +659,7 @@ thumbs.gfycat.com
 raw.github.com
 +.pkg.github.com
 +.gitpage.si
++.registry.gitplac.si
 +.glbimg.com
 cdn.glitch.com
 s3.go2778.com
@@ -1119,6 +1121,7 @@ unlimited-cdn.waifu2x.net
 +.blob.core.windows.net
 +.file.core.windows.net
 +.workers.dev
++.wpmucdn.com
 cdn.writeas.net
 pics.x-n-x-x.pro
 +.xda-cdn.com
@@ -1326,6 +1329,7 @@ cdn.signalfx.com
 resources-live.sketch.cloud
 static1.smartbear.co
 +.smassets.net
++.smushcdn.com
 static.snapchat.com
 static.socratic.org
 useruploads.socratic.org
