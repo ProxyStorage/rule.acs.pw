@@ -1,11 +1,11 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-08-26T01:34:17.445Z
+# Last Updated: 2024-08-26T03:24:05.059Z
 # Size: 771
 # 
 #########################################
 DOMAIN,www.layuicdn.com
-DOMAIN,xboxlive.cn
+DOMAIN,gstore.val.manlaxy.com
 DOMAIN,lv.queniujq.cn
 DOMAIN,cn.download.nvidia.com
 DOMAIN,www.intel.cn
