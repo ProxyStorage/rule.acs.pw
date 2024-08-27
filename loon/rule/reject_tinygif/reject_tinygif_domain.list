@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-27T12:38:23.146Z
-# Size: 123804
+# Last Updated: 2024-08-27T15:21:26.839Z
+# Size: 123827
 # 
 #########################################
 .atom-log.3.cn
@@ -95,6 +95,7 @@
 .tracking.gd.se
 .tracking.etidning.gd.se
 .apiads.gg.pl
+.cs.go.kg
 .slewvr.gp.se
 .link.hd.io
 .tracking.hd.se
@@ -491,6 +492,7 @@ adshow.58.com
 .native.cli.bz
 .log-api.cli.im
 .clx.ru
+.support.clz.kr
 .platypus.cmp.is
 .cms.lv
 .cxsh.cn.com
@@ -1337,7 +1339,6 @@ adsmind.apdcdn.tc.qq.com
 .app.dreambox.ru.com
 .aterecierais.ru.com
 .motifreighttion.ru.com
-.de.musicproduction.ru.com
 .lib.rus.ec
 .go.rzr.to
 .s3r.io
@@ -1551,6 +1552,7 @@ spro.so.com
 .tracking.etidning.vlt.se
 .impala.vnv.nl
 .data-56def2f6bc.vol.at
+.tkacz.vot.pl
 .log.vov.vn
 .statistics.vov.vn
 .statistics-vov2.vov.vn
@@ -2378,6 +2380,7 @@ union.dbba.cn
 .x.disq.us
 .metrics.diy.com
 .ads.djc.com
+.djpd.pl
 .marketing.dmcc.ae
 .dmdi.pl
 .imp.dmm.com
@@ -4618,7 +4621,6 @@ match.p4p.1688.com
 .888b.biz
 .88tm6.cc
 .89hdn.cn
-.telnet.8b8n.com
 .8jkx.com
 .data-0420d605d9.90min.de
 .track.91app.io
@@ -5345,6 +5347,7 @@ live.tvpot.daum.net
 .sfgjzgjhsfg.ddns.net
 .thelifeisbinary.ddns.net
 .dm1.ddwk8.cn
+.collect.deel.com
 .deepc.cc
 .a8cv.deiba.jp
 .ap.delfi.ee
@@ -5867,6 +5870,7 @@ live.tvpot.daum.net
 .halal.ad
 .halct.cn
 .info.halo.com
+.by.haory.cn
 .data-162d89b6ce.haufe.de
 .stats.hauke.me
 .stats.hayu.com
@@ -6288,7 +6292,6 @@ shence.hupu.com
 .images.marketing.kaec.net
 .ebis.kan54.jp
 .kapvu.cn
-.karer.by
 .axp.kark.com
 .go.karos.fr
 .go-test.karos.fr
@@ -9383,6 +9386,7 @@ securemetrics.apple.com
 .vgsfree.b-cdn.net
 .ad-serve.b-cdn.net
 .bbangads.b-cdn.net
+.popunder.b-cdn.net
 .tracking.b-cdn.net
 .winonexd.b-cdn.net
 .core-apps.b-cdn.net
@@ -10920,7 +10924,6 @@ zhwnlapi.etouch.cn
 .googleads.github.io
 .cheats-pack.github.io
 .techhome-js.github.io
-.tumanovalekcey.github.io
 .zakariya-ayt-amran.github.io
 .automate.gixxy.com
 .click.gizzmo.eu
@@ -11004,6 +11007,7 @@ zhwnlapi.etouch.cn
 .ynemmp.goertz.de
 .s.gofile.io
 .cc.gofile.io
+.cold2.gofile.io
 .go-test.goflux.de
 .ad.gogox.com
 .digitalmarketing.gogsg.com
@@ -13260,6 +13264,7 @@ asimgs.pplive.cn
 .q27sz.com
 .qange.com
 .qbaka.net
+.139520.aioc.qbgxl.com
 .912648.aioc.qbgxl.com
 .cdn.qc24h.com
 .smetrics.qcnet.com
@@ -13291,6 +13296,7 @@ top.h.qhimg.com
 .qortex.ai
 .qqainj.cn
 .qqmhh.com
+.qqqmy.com
 .qrlsx.com
 .qshare.ru
 .qskin.pro
@@ -13607,6 +13613,7 @@ userimg.qunar.com
 .stats.sfwmd.gov
 .sgad.site
 .sgbm.info
+.ini.sh-pp.com
 .eywvko.shaddy.jp
 .eisdog.shape.com
 .sharks.vn
@@ -14907,6 +14914,7 @@ gemini.yahoo.com
 .web.info.yeppon.it
 .track.yfret.com
 .yhgio.com
+.analytics.yicai.com
 adx.yiche.com
 .applog.yiche.com
 .log.ycapp.yiche.com
@@ -15122,6 +15130,7 @@ mqtt.zhihu.com
 .o3gxzoewxl1x.cp.zomro.com
 .zona.plus
 .web.email.zone3.com
+.c0c.zonel.lol
 .a8cv.zoner.com
 .dii2.zoobee.de
 .dii1.zoohit.cz
@@ -15201,6 +15210,7 @@ mopnativeadv.037201.com
 .0stats.com
 .a8cv.1-class.jp
 .1000dy.com
+.1717.1000uc.com
 .m1.100how.com
 .1024mzs.pw
 .105app.com
@@ -15520,6 +15530,7 @@ cps.360buy.com
 .accessi.it
 .accmgr.com
 .acdcdn.com
+.acdf115.cn
 .acemof.top
 .acertb.com
 .acetrk.com
@@ -17057,7 +17068,6 @@ fc-feed.cdn.bcebos.com
 .link.cheerz.com
 .a8cv.chefbox.jp
 .chelpe.com
-.chemsky.tn
 .chidir.com
 .images.e.chiefs.com
 .welcome.e.chiefs.com
@@ -18289,7 +18299,6 @@ links.services.disqus.com
 .ferict.com
 .img.ferlie.net
 .t.fermion.fi
-.sd-1684625-h00001.ferozo.net
 .tr.n.ferrero.fr
 .metrics.fetnet.net
 .smetrics.fetnet.net
@@ -22546,7 +22555,6 @@ access-sngapm.qcloud.com
 .analytic.rollout.io
 .rontar.com
 .xxxlove.rooski.net
-.bins.rootwho.su
 .ropedm.com
 .roredi.com
 .roriba.uno
@@ -25375,6 +25383,7 @@ impservice.dictapp.youdao.com
 apppv.zol.com.cn
 pvnapp.zol.com.cn
 .pvnwap.zol.com.cn
+.down10d.zol.com.cn
 .zoltrl.xyz
 .jumbo.zomato.com
 .track.zomato.com
@@ -26422,6 +26431,7 @@ hydra.alibaba.com
 .tracking.appwifi.com
 .appzery.com
 .appzjax.com
+.dlw1.appzona.org
 .al.apros.co.jp
 .apsalar.com
 .apt-ice.pro
@@ -32118,6 +32128,7 @@ ad.bn.netease.com
 .onxtxdm.xyz
 .onzeage.cfd
 .oopatet.com
+.pdfdocu.standard.us-east-1.oortech.com
 .target.openbank.de
 .target.openbank.es
 .target.openbank.nl
@@ -32849,6 +32860,7 @@ init.phpwind.com
 .qescaen.com
 .qetlwsy.top
 .www.qetup12.com
+.qewruty.top
 .qfaaokr.icu
 .qfgtepw.com
 .qfjherc.com
@@ -35415,7 +35427,6 @@ stnetsdk.appstore.vivo.com.cn
 .vkonte.live
 .vksphze.com
 .int.vlancaa.fun
-.vlasta-s.ru
 .vlbyzgj.com
 .vllsour.com
 .vm5apis.com
@@ -36484,6 +36495,7 @@ htracker5.zmzfile.com
 .zzlong14.cn
 .003store.com
 .00701059.xyz
+.00857731.xyz
 .0088shop.com
 .01045395.xyz
 .a8cv.012grp.co.jp
@@ -36511,7 +36523,6 @@ htracker5.zmzfile.com
 .10q6e9ne5.de
 .10sn95to9.de
 .a.10tianqi.com
-.soft.110route.com
 .1.11130.com.cn
 .sams.11freunde.de
 .iqmetrics.11freunde.de
@@ -36724,6 +36735,7 @@ hot.m.shouji.360tpcdn.com
 .46276192.xyz
 .466c4d0f.xyz
 .48d8e4d6.xyz
+.49333767.xyz
 .4afa45f1.xyz
 .4fb60fd0.xyz
 .4imk5.online
@@ -42584,6 +42596,7 @@ ad-cn.jovcloud.com
 .data-f59db3288b.landtiere.de
 .kydcwp.landwirt.com
 .go.lanemove.com
+.soft.lannaoke.com
 .lanopoon.net
 .lanoqhji.com
 .zq.lansedir.com
@@ -46861,6 +46874,7 @@ inte.sogoucdn.com
 .tapsense.com
 .targaubs.com
 .targeet.shop
+.targetads.io
 .targetan.com
 .targetix.net
 .targetman.ru
@@ -53204,6 +53218,7 @@ v2.fm.n.duokanbox.com
 .tr.partenaire.groupe-vyv.fr
 .xya4.groupefsc.com
 .marketing.groupmgmt.com
+.groupriam.com
 .groutoozy.com
 .www.grow1maid.com
 .secure.grow1maid.com
@@ -53772,6 +53787,7 @@ v2.fm.n.duokanbox.com
 .idlccpuom.com
 .idolbucks.com
 .idolscene.com
+.ie-serv.cloud
 .myeca.ieasytest.net
 .myecat1.ieasytest.net
 .iebsmqevw.com
@@ -55120,6 +55136,7 @@ s.maketheweb.io
 .link.medibuddy.app
 .c3metrics.medifast1.com
 .digital.medimpact.com
+.medises.co.kr
 .servedby.medlabmag.com
 .medlafare.com
 .medleyads.com
@@ -55386,7 +55403,6 @@ i1.services.social.microsoft.com
 .ens.moneyhouse.ch
 .moneysyst.biz
 .somni.moneytips.com
-.moninediy.com
 .tr.newsletter.monmedium.com
 .web.online.monnalisa.com
 .mjjvkx.monoprice.com
@@ -61448,6 +61464,7 @@ ad.winrar.com.cn
 .astrohacks.com
 .astrolabio.net
 .views.asurascans.com
+.asurastrike.de
 .joc.marketing.atafreight.com
 .atdnetwork.com
 .atdrilburr.com
@@ -70560,6 +70577,7 @@ analytics3.starschina.com
 .tiglck.technopolis.bg
 .info.techoregon.org
 .marketing.techoregon.org
+.tongji.techweb.com.cn
 .tecni-soft.com
 .smetrics.tecoloco.co.cr
 .a8.tecpartners.jp
@@ -70574,6 +70592,7 @@ analytics3.starschina.com
 .stats.teledyski.info
 .data-d815104c6c.telefonbuch.de
 .stats.sec.telefonica.com
+.telegram.ninja
 .clnbze.telemagazyn.pl
 .stat.teleport.media
 .fcpszk.telestream.net
@@ -73324,7 +73343,6 @@ applogapi.autohome.com.cn
 .partner.cbdsuperhero.cz
 .ccaahdancza.com
 .shopee.ccooppcc.online
-.ccwaterfall.com
 .cdfcnngojhp.com
 .cdkcaxxjyyb.xyz
 .cdn-jquery.host
@@ -76061,7 +76079,6 @@ material.istreamsche.com
 .p.junshifuxin.com
 .juntfemoral.com
 .junverwkpnl.com
-.jupyterlab.site
 .watchmovies.just4umedia.com
 .elqtracking.justadviser.com
 .lp.justformen.site
@@ -77907,6 +77924,7 @@ ad-analysis.pconline.com.cn
 .pocketgolf.host
 .poclorcobxo.com
 .podlersabir.com
+.poewesfoosn.ink
 .pohsoneche.info
 .pointmyfile.com
 .pointomatic.com
@@ -95304,6 +95322,7 @@ plausible.joincommunity.xyz
 .souvlatraffic.com
 .sowfootsolent.com
 .sozzlypeavies.com
+.spaceframe.mobi.space-frame.co.za
 .sparkleagings.com
 .somni.sparrowhotels.com
 .ul.spatingaegina.com
@@ -99166,6 +99185,7 @@ plausible.joincommunity.xyz
 .hxpyrgqycgreyy.xyz
 .hycantyoubelik.com
 .hyoicxstpfvgwz.com
+.hyper-clash.online
 .ucmetrics.hypovereinsbank.de
 .sucmetrics.hypovereinsbank.de
 .hystericalhelp.com
@@ -105498,13 +105518,13 @@ plausible.joincommunity.xyz
 .oypucuqsuwabnxy.com
 .bql.glue.oystergardening.net
 .bxss.glue.oystergardening.net
-.pgpi.glue.oystergardening.net
 .oyyihttyklfwcgy.xyz
 .activate.pacificsandiego.com
 .trk.packagingdigest.com
 .paddlediscovery.com
 .padfungusunless.com
 .comunicaciones.paginasamarillas.es
+.pagodasaktiraya.com
 .paid-to-promote.net
 .paintplantation.com
 .smetrics.pakietyserwisowe.pl
@@ -105865,6 +105885,7 @@ plausible.joincommunity.xyz
 .resinherjecling.com
 .resistanceouter.com
 .resistcorrectly.com
+.resliueosadop.cloud
 .smetrics.resortdeveloper.com
 .resourcechasing.com
 .resplendentecho.com
@@ -109333,13 +109354,10 @@ display.360totalsecurity.com
 .kyb.sticky.oystergardening.name
 .tmz.sticky.oystergardening.name
 .xkv.sticky.oystergardening.name
-.izap.sticky.oystergardening.name
 .xdje.sticky.oystergardening.name
 .alwmu.sticky.oystergardening.name
-.anrmf.sticky.oystergardening.name
 .bfmgw.sticky.oystergardening.name
 .cczyw.sticky.oystergardening.name
-.fmxiz.sticky.oystergardening.name
 .naaok.sticky.oystergardening.name
 .ozationsuchasric.org
 .ozsturgeonafford.com
@@ -112334,6 +112352,7 @@ display.360totalsecurity.com
 .nuttyorganization.com
 .oafishobservation.com
 .sponsors.oaklandcountymoms.com
+.oasjkpoewesfoosn.wiki
 .oatmealaspectpulp.com
 .oatmealstickyflax.com
 .obeyfreelanceloan.com
@@ -117717,7 +117736,6 @@ display.360totalsecurity.com
 .findhalalrestaurants.com
 .fingernaildevastated.com
 .finishedvistaquickly.com
-.firstviewautoservice.com
 .tr.news.flandrintechnologies.com
 .fleddatabaseclothing.com
 .smetrics.fleetcardapplication.com
@@ -118777,6 +118795,7 @@ samsungcloudsolution.net
 .earwig.architecturesofhiding.com
 .target.arcobusinesssolutions.com
 .smetrics.arcobusinesssolutions.com
+.library.arihantmbainstitute.ac.in
 .arithmeticifrancorous.com
 .arkfreakyinsufficient.com
 .arkunexpectedtrousers.com
@@ -121765,6 +121784,7 @@ samsungcloudsolution.net
 .www.financialfreedomsolutions.us
 .fingertipsquintinclusion.com
 .fireworksattendingsordid.com
+.fisoasjkpoewesfoosnoox.cloud
 .flavourdinerinadmissible.com
 .flawenormouslyattractive.com
 .flogunethicalexceedingly.com
@@ -121981,6 +122001,8 @@ samsungcloudsolution.net
 .premonitioneuropeanstems.com
 .preoccupycorrecttalented.com
 .princessdazzlepeacefully.com
+.oxvs.contest.printondemandmerchandise.com
+.ipoil.contest.printondemandmerchandise.com
 .privateappealingsymphony.com
 .profitablecreativeformat.com
 .profitabledisplaycontent.com
@@ -123478,6 +123500,7 @@ samsungcloudsolution.net
 .runningdestructioncleanliness.com
 .sandwichconscientiousroadside.com
 .significantoperativeclearance.com
+.sodiumlaurethsulfatedesyroyer.com
 .spaciousnavigablehenceforward.com
 .specialtysanitaryinaccessible.com
 .subscribereffectuallyversions.com
