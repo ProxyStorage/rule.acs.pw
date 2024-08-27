@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-26T21:18:23.293Z
-# Size: 171
+# Last Updated: 2024-08-27T01:34:34.721Z
+# Size: 172
 # 
 #########################################
 .a1.mzstatic.com
@@ -52,6 +52,7 @@
 .cn-smp-paymentservices.apple.com
 .configuration.apple.com.akadns.net
 .configuration.apple.com
+.crl.apple.com
 .cstat.apple.com
 .cstat.cdn-apple.com
 .dd-cdn.origin-apple.com.akadns.net

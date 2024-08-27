@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-08-26T21:18:23.294Z
-# Size: 231
+# Last Updated: 2024-08-27T01:34:34.722Z
+# Size: 232
 # 
 #########################################
 DOMAIN,api.smoot.apple.cn
@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,clientflow.apple.com
 DOMAIN-SUFFIX,cn-smp-paymentservices.apple.com
 DOMAIN-SUFFIX,configuration.apple.com.akadns.net
 DOMAIN-SUFFIX,configuration.apple.com
+DOMAIN-SUFFIX,crl.apple.com
 DOMAIN-SUFFIX,cstat.apple.com
 DOMAIN-SUFFIX,cstat.cdn-apple.com
 DOMAIN-SUFFIX,dd-cdn.origin-apple.com.akadns.net
