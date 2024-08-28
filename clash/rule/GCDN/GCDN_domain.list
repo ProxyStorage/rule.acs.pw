@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-28T01:35:32.552Z
-# Size: 2182
+# Last Updated: 2024-08-28T03:22:33.715Z
+# Size: 2185
 # 
 #########################################
 s3.c.im
@@ -580,6 +580,8 @@ cdn-yotpo-images-production.yotpo.com
 +.ytimg.com
 +.9cache.com
 res.abc.net.au
++.glass.adidas.com
++.assets.adidas.com
 +.adtidy.org
 akidoo.top
 +.alexdav.id
@@ -1972,6 +1974,7 @@ cdn-media-2.freecodecamp.org
 cdn.hongkongcard.com
 cdn1.identitymind.com
 +.images-iherb.com
++.img-dpreview.com
 spcdn.incartupsell.com
 media.infosec.exchange
 +.jinyingimage.com
