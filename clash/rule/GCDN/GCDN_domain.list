@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-28T15:21:18.251Z
-# Size: 2187
+# Last Updated: 2024-08-28T18:26:26.746Z
+# Size: 2188
 # 
 #########################################
 s3.c.im
@@ -357,7 +357,7 @@ static-cdn.123rf.com
 e3.365dm.com
 pacdn.500px.org
 drscdn.500px.org
-imgcdn.91pic.org
++.91pic.org
 +.img1.acsta.net
 +.img2.acsta.net
 +.img3.acsta.net
@@ -1769,6 +1769,7 @@ versionbadg.es
 +.ziffstatic.com
 +.zippyshare.com
 +.zohostatic.com
+assets.aboutamazon.com
 showcase.abovemarket.com
 easylist-downloads.adblockplus.org
 +.addons.business
