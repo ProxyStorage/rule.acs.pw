@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-08-31T06:26:27.202Z
-# Size: 633
+# Last Updated: 2024-08-31T09:19:55.885Z
+# Size: 634
 # 
 #########################################
 DOMAIN,pki.goog
@@ -550,6 +550,7 @@ DOMAIN-SUFFIX,split.io
 DOMAIN-SUFFIX,stackblitz.com
 DOMAIN-SUFFIX,stackexchange.com
 DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,substack.com
