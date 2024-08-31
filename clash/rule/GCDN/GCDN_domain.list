@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-31T18:25:05.881Z
-# Size: 2185
+# Last Updated: 2024-08-31T21:18:40.266Z
+# Size: 2186
 # 
 #########################################
 s3.c.im
@@ -1255,6 +1255,7 @@ data.jsdelivr.com
 +.jsdelivr.net
 cdn.jwplayer.com
 img.kbhgames.com
++.kirafile.com
 cdn.langshop.app
 assets.leetcode.com
 static-lccn.leetcode.com
