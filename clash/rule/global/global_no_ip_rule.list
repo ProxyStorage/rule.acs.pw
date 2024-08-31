@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-08-31T03:21:11.074Z
-# Size: 632
+# Last Updated: 2024-08-31T06:26:27.202Z
+# Size: 633
 # 
 #########################################
 DOMAIN,pki.goog
@@ -285,6 +285,7 @@ DOMAIN-SUFFIX,520cc.cc
 DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,aaa.com
 DOMAIN-SUFFIX,abc.net.au
+DOMAIN-SUFFIX,acg.mn
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,afraid.org
 DOMAIN-SUFFIX,akamai.net

@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-08-31T03:21:11.093Z
-# Size: 2188
+# Last Updated: 2024-08-31T06:26:27.221Z
+# Size: 2189
 # 
 #########################################
 s3.c.im
@@ -1550,6 +1550,7 @@ static.spankbang.com
 .stackblitz.io
 content-prod-live.cert.starbucks.com
 .proxy.startpage.com
+.proxy1.startpage.com
 .proxy2.startpage.com
 .eu-proxy.startpage.com
 .eu-browse.startpage.com
