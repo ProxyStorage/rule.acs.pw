@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-01T15:20:10.375Z
-# Size: 123318
+# Last Updated: 2024-09-01T18:25:32.627Z
+# Size: 123319
 # 
 #########################################
 +.atom-log.3.cn
@@ -11722,6 +11722,7 @@ policy.video.iqiyi.com
 +.jwia0.top
 +.jxad.jx163.com
 +.dld.jxwan.com
++.jy01.shop
 +.o.jy135.com
 +.jygcv.sbs
 +.jyuskb.cn

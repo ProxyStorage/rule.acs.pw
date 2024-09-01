@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-01T15:20:10.448Z
-# Size: 2186
+# Last Updated: 2024-09-01T18:25:32.702Z
+# Size: 2189
 # 
 #########################################
 s3.c.im
@@ -1320,6 +1320,7 @@ assets.queue-it.net
 static.queue-it.net
 libs.quillbot.com
 assets.quillbot.com
++.quip-cdn.com
 +.quoracdn.net
 quriobot.com
 redircdn.com
@@ -1513,6 +1514,7 @@ static.mocortech.com
 images.moovitapp.com
 bundler.nice-team.net
 cdn-bundler.nice-team.net
+cms-assets.nodecraft.com
 +.oaistatic.com
 +.oculuscdn.com
 +.res.office365.com
@@ -2107,6 +2109,7 @@ next-images.opencollective.com
 web-assets.otogi-frontier.com
 +.polyfill-fastly.io
 api.pwnedpasswords.com
++.quip-marketing.com
 +.replicate.delivery
 +.safebrowsing.apple
 image.theblockbeats.info
