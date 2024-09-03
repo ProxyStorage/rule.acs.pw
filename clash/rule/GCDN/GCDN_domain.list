@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-03T15:21:59.483Z
-# Size: 2191
+# Last Updated: 2024-09-03T21:19:47.913Z
+# Size: 2194
 # 
 #########################################
 s3.c.im
@@ -1255,6 +1255,7 @@ data.jsdelivr.com
 +.jsdelivr.net
 cdn.jwplayer.com
 img.kbhgames.com
+cdn.kinopio.club
 +.kirafile.com
 cdn.langshop.app
 assets.leetcode.com
@@ -1680,6 +1681,7 @@ fonts.googleapis.com
 +.firestore.googleapis.com
 safebrowsing.googleapis.com
 +.firebasestorage.googleapis.com
+optimizationguide-pa.googleapis.com
 +.content-storage-upload.googleapis.com
 badges.greenkeeper.io
 cdn.hackernoon.com
@@ -2155,6 +2157,7 @@ oss-binaries.phusionpassenger.com
 static2.sharepointonline.com
 +.steamusercontent.com
 typescript-eslint.io
+telemetry.1passwordservices.com
 +.cloudflarestorage.com
 +.envatousercontent.com
 +.framerusercontent.com
