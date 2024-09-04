@@ -56,9 +56,16 @@
         "perplexity.ai",
         "generativelanguage.googleapis.com",
         "geller-pa.googleapis.com",
+        "aistudio.google.com",
         "makersuite.google.com",
+        "notebooklm.google",
+        "notebooklm.google.com",
         "poe.com",
-        "meta.ai"
+        "meta.ai",
+        "dify.ai",
+        "clipdrop.co",
+        "jasper.ai",
+        "openart.ai"
       ],
       "domain_keyword": [
         "openai",
