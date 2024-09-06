@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-06T09:22:59.924Z
-# Size: 2202
+# Last Updated: 2024-09-06T12:38:45.797Z
+# Size: 2205
 # 
 #########################################
 s3.c.im
@@ -446,6 +446,7 @@ cdn.glitch.me
 static.gnome.org
 godoc.org
 static.gopro.com
+image.gyutto.jp
 player.h-cdn.com
 packages.httpie.io
 assets.humix.com
@@ -678,6 +679,7 @@ plugins-artifacts.gradle.org
 i.guim.co.uk
 uploads.guim.co.uk
 interactive.guim.co.uk
+image.gyutto.com
 .hbfile.net
 img.hcloud.lat
 .hembed.com
@@ -1906,6 +1908,7 @@ store-images.s-microsoft.com
 .schemastore.org
 cdn.sciencecast.org
 storage.sciencecast.org
+img.shoplineapp.com
 simpleicons.org
 cdn.simpleicons.org
 .skypeassets.com
