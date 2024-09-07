@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-07T06:26:59.441Z
-# Size: 2205
+# Last Updated: 2024-09-07T09:20:21.199Z
+# Size: 2210
 # 
 #########################################
 s3.c.im
@@ -1632,11 +1632,15 @@ cdn-sellix.com
 pic.cdnclouder.com
 .characterai.io
 js.chilipiper.com
+cp2.cloudflare.com
+cp3.cloudflare.com
+cp4.cloudflare.com
 .nel.cloudflare.com
 ajax.cloudflare.com
 info.cloudflare.com
 time.cloudflare.com
 cdnjs.cloudflare.com
+apple-relay.cloudflare.com
 static.dash.cloudflare.com
 cf-assets.www.cloudflare.com
 favicons.teams.cloudflare.com
@@ -1829,6 +1833,7 @@ source.domaintools.com
 cdn.dotaoutpost.com
 live.fanmingming.com
 static.fasthosts.co.uk
+apple-relay.fastly-edge.com
 ohttp-relay1.fastly-edge.com
 google-ohttp-relay-safebrowsing.fastly-edge.com
 .firebaseapp.com
