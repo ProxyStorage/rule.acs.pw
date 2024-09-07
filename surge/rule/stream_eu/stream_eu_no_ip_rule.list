@@ -1,14 +1,14 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-09-07T15:20:26.463Z
+# Last Updated: 2024-09-07T18:25:29.836Z
 # Size: 9
 # 
 #########################################
 DOMAIN,itvpnpmobile-a.akamaihd.net
-DOMAIN-SUFFIX,itv.com
-DOMAIN-SUFFIX,itvstatic.com
-DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,itvstatic.com
+DOMAIN-SUFFIX,itv.com
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
 USER-AGENT,ITV_Player*

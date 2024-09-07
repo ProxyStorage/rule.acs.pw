@@ -3,8 +3,8 @@
   "rules": [
     {
       "domain": [
-        "cdn-msp.18comic.vip",
-        "cdn-msp.jmcomic.me"
+        "cdn-msp.jmcomic.me",
+        "cdn-msp.18comic.vip"
       ],
       "domain_suffix": [
         "download.jetbrains.com",

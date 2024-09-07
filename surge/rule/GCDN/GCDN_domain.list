@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-07T15:20:26.468Z
-# Size: 2210
+# Last Updated: 2024-09-07T18:25:29.842Z
+# Size: 2211
 # 
 #########################################
 s3.c.im
@@ -371,6 +371,7 @@ s3.arkjp.net
 static.arxiv.org
 cdn.auth0.com
 static-clst.avgle.com
+pkgs.dev.azure.com
 .in.applicationinsights.azure.com
 amp.azure.net
 linuxiac.b-cdn.net
