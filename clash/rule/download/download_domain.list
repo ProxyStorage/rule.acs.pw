@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-08T18:26:22.888Z
-# Size: 562
+# Last Updated: 2024-09-08T21:18:14.143Z
+# Size: 565
 # 
 #########################################
 +.cdn.ea.com
@@ -123,7 +123,10 @@ mirror.ghproxy.com
 +.ks3-sgp.ksyuncs.com
 +.ks3-cn-hk-1.ksyuncs.com
 download.maxmind.com
+aus5.mozilla.org
 download.mozilla.org
+aus2-community.mozilla.org
+versioncheck-bg.addons.mozilla.org
 download.nektony.com
 boot.netboot.xyz
 dl.nssurge.com
