@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-09-08T12:36:52.020Z
-# Size: 189
+# Last Updated: 2024-09-08T15:21:28.953Z
+# Size: 188
 # 
 #########################################
 DOMAIN-SUFFIX,_hotspot_.m2m
@@ -177,7 +177,6 @@ DOMAIN-SUFFIX,hddolby.com
 DOMAIN-SUFFIX,dxdhd.com
 DOMAIN-SUFFIX,cgpeers.com
 DOMAIN-SUFFIX,xunlei.com
-DOMAIN-SUFFIX,ec2-reachability.amazonaws.com
 DOMAIN-SUFFIX,engage.cloudflareclient.com
 DOMAIN-SUFFIX,download.555mac.com
 DOMAIN-SUFFIX,torrentmac.net
