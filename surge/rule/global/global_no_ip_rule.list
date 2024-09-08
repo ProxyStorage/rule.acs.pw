@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-09-08T15:21:28.957Z
-# Size: 642
+# Last Updated: 2024-09-08T18:26:22.855Z
+# Size: 643
 # 
 #########################################
 DOMAIN,pki.goog
@@ -382,6 +382,7 @@ DOMAIN-SUFFIX,flipboard.com
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,fc2.com
+DOMAIN-SUFFIX,fastly-analytics.com
 DOMAIN-SUFFIX,fastly-edge.com
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,etsy.com
