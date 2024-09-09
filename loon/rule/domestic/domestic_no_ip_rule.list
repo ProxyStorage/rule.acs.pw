@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-09-08T21:18:14.103Z
-# Size: 766
+# Last Updated: 2024-09-09T01:39:57.376Z
+# Size: 768
 # 
 #########################################
 DOMAIN,www.intel.cn
@@ -303,6 +303,8 @@ DOMAIN-SUFFIX,baidubce.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,91.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytetcc.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,baike.com

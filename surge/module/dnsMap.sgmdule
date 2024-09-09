@@ -1,5 +1,5 @@
 #!name=DNS映射
-#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-09-08T21:18:14.275Z
+#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-09-09T01:39:57.562Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -569,6 +569,9 @@ baike.com = server:180.184.2.2
 zjcdn.com = server:180.184.2.2
 zijieapi.com = server:180.184.2.2
 feelgood.cn = server:180.184.2.2
+bytetcc.com = server:180.184.2.2
+*.bytetcc.com = server:180.184.2.2
+bytednsdoc.com = server:180.184.2.2
 91.com = server:180.76.76.76
 *.91.com = server:180.76.76.76
 hao123.com = server:180.76.76.76
