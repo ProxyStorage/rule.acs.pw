@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-09T15:22:16.176Z
-# Size: 2258
+# Last Updated: 2024-09-09T18:27:26.841Z
+# Size: 2259
 # 
 #########################################
 s3.c.im
@@ -772,6 +772,7 @@ nbcnewsdigital-static.nbcuni.com
 repo.nextdns.io
 favicons.nextdns.io
 telemetry.nextjs.org
+.nextui.org
 i.niupic.com
 .nodejs.org
 images.now-tv.com
