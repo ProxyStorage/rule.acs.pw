@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-09-11T12:40:44.842Z
-# Size: 643
+# Last Updated: 2024-09-11T15:22:33.086Z
+# Size: 644
 # 
 #########################################
 DOMAIN,pki.goog
@@ -240,6 +240,7 @@ DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xing.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xfinity.com
+DOMAIN-SUFFIX,xdaforums.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,wordpress.com
