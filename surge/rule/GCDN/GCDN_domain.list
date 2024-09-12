@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-12T12:39:35.092Z
-# Size: 2257
+# Last Updated: 2024-09-12T15:21:50.826Z
+# Size: 2264
 # 
 #########################################
 s3.c.im
@@ -442,6 +442,7 @@ storageapi2.fleek.one
 .ftcdn.net
 assets.gcore.pro
 media.gettr.com
+cdn-1.ggjav.com
 .ggpht.com
 cdns.gigya.com
 i.giphy.com
@@ -1090,6 +1091,7 @@ img.perfops.net
 cdn.pixabay.com
 www.pngmart.com
 .pornimg.xyz
+.postimg.org
 .pravatar.cc
 .pstatic.net
 cdn.quadpay.com
@@ -1145,6 +1147,7 @@ staticctf.ubisoft.com
 ubistatic-a.ubisoft.com
 ubistatic2-a.ubisoft.com
 static-overlay.ubisoft.com
+.unsplash.it
 img.urlnode.com
 .userapi.com
 .proxy.ustclug.org
@@ -1477,6 +1480,8 @@ cdn.ceres9350.com
 js.chargebee.com
 cdn.cloudcraft.co
 cloudflare.tv
+static.cnbeta.com.tw
+.cnbetacdn.com
 cdn.cocoapods.org
 .codeberg.page
 assets.coingecko.com
@@ -1791,6 +1796,7 @@ cdn.pickystory.com
 cdn7.pornmaster.fun
 apps.profitihub.com
 .pstorage.space
+.readthedocs.io
 at.adtech.redventures.io
 regmedia.co.uk
 .ipfs.runfission.com
@@ -2056,6 +2062,7 @@ cdn.manageengine.com
 .olemovienews.com
 .omnisnippet1.com
 web.onekey-asset.com
+.tile.openstreetmap.de
 staticmap.openstreetmap.de
 js.partnerstack.com
 .pressablecdn.com

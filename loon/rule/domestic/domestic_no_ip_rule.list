@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-09-12T12:39:35.062Z
-# Size: 768
+# Last Updated: 2024-09-12T15:21:50.799Z
+# Size: 770
 # 
 #########################################
 DOMAIN,www.intel.cn
@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,9966.org
 DOMAIN-SUFFIX,8866.org
 DOMAIN-SUFFIX,7766.org
 DOMAIN-SUFFIX,3322.org
+DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,netease.im
 DOMAIN-SUFFIX,haowu.link
 DOMAIN-SUFFIX,yqkk.link
@@ -151,8 +152,10 @@ DOMAIN-SUFFIX,m1905.cn
 DOMAIN-SUFFIX,linkedin.cn
 DOMAIN-SUFFIX,leetcode.cn
 DOMAIN-SUFFIX,kuwo.cn
+DOMAIN-SUFFIX,juejin.cn
 DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jiguang.cn
+DOMAIN-SUFFIX,infoq.cn
 DOMAIN-SUFFIX,gaokao.cn
 DOMAIN-SUFFIX,dxy.cn
 DOMAIN-SUFFIX,digicert.cn
@@ -527,7 +530,6 @@ DOMAIN-SUFFIX,kaiyanapp.com
 DOMAIN-SUFFIX,jiemian.com
 DOMAIN-SUFFIX,jianshu.com
 DOMAIN-SUFFIX,ithome.com
-DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,ifengimg.com
 DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,id6.com
