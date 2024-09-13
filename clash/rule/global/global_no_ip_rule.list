@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-09-13T12:39:06.595Z
-# Size: 643
+# Last Updated: 2024-09-13T15:22:39.058Z
+# Size: 644
 # 
 #########################################
 DOMAIN,pki.goog
@@ -337,6 +337,7 @@ DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,meetup.com
+DOMAIN-SUFFIX,macpaw.com
 DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,ledger.com
 DOMAIN-SUFFIX,leetcode.com

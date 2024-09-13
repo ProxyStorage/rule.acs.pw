@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-13T12:39:06.556Z
+# Last Updated: 2024-09-13T15:22:39.016Z
 # Size: 65536
 # 
 #########################################
@@ -10816,6 +10816,7 @@ zhwnlapi.etouch.cn
 +.fq02.shop
 +.fq03.shop
 +.fq04.shop
++.fq05.shop
 +.fqkwn.com
 +.fqtag.com
 +.fqwgi.com
@@ -11718,6 +11719,7 @@ policy.video.iqiyi.com
 +.jy04.shop
 +.jy05.shop
 +.jy06.shop
++.jy07.shop
 +.o.jy135.com
 +.jygcv.sbs
 +.jyuskb.cn
@@ -65538,5 +65540,3 @@ tracker.didiglobal.com
 +.links.firecracker.me
 +.firecracks.com
 +.analytics.firespring.com
-+.fireupload.org
-+.first-rate.com
