@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-14T03:22:25.053Z
-# Size: 567
+# Last Updated: 2024-09-14T06:28:14.856Z
+# Size: 568
 # 
 #########################################
 +.cdn.ea.com
@@ -80,7 +80,7 @@ security.debian.org
 +.ftp-master.debian.org
 +.dl.dlsite.com
 download.dlsite.com
-desktop.docker.com
++.desktop.docker.com
 download.docker.com
 +.mirrors.dotsrc.org
 codeload.github.com
@@ -167,6 +167,7 @@ level3.blizzard.com
 +.mirror.clarkson.edu
 blizzard.gcdn.cloudn.co.kr
 +.mirror.constant.com
+repo.debiancn.org
 +.fuwamofu.com
 download.gigabyte.com
 download.iboysoft.com

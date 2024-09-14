@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-09-14T03:22:25.020Z
-# Size: 645
+# Last Updated: 2024-09-14T06:28:14.823Z
+# Size: 646
 # 
 #########################################
 DOMAIN,pki.goog
@@ -198,6 +198,7 @@ DOMAIN-SUFFIX,dns-oarc.net
 DOMAIN-SUFFIX,deviantart.net
 DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,bloomberg.net
 DOMAIN-SUFFIX,behance.net

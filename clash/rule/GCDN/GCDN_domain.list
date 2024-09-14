@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-14T03:22:25.042Z
-# Size: 2268
+# Last Updated: 2024-09-14T06:28:14.843Z
+# Size: 2270
 # 
 #########################################
 s3.c.im
@@ -116,6 +116,7 @@ cdn3.dan.com
 docs.rs
 image.dooo.ng
 media.e4le.me
++.public.ecr.aws
 +.esm.run
 aimg.fc2.com
 media.fc2.com
@@ -172,6 +173,7 @@ cdn.plot.ly
 cdn.plyr.io
 +.pnpm.io
 +.pztv.ca
++.quay.io
 r.r10s.jp
 ias.r10s.jp
 +.redd.it
@@ -658,7 +660,6 @@ screenshots.debian.net
 +.dilcdn.com
 media.dlsite.com
 +.fastly.docker.com
-+.desktop.docker.com
 +.cloudflare.docker.com
 plugins.dprint.dev
 +.ipfs.drink.cafe
@@ -1481,6 +1482,7 @@ cdn.ceres9350.com
 js.chargebee.com
 cdn.cloudcraft.co
 cloudflare.tv
+docker.cloudsmith.io
 static.cnbeta.com.tw
 +.cnbetacdn.com
 cdn.cocoapods.org
