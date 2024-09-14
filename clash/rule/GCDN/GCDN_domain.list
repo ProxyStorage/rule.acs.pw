@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-14T12:37:20.846Z
-# Size: 2270
+# Last Updated: 2024-09-14T15:20:01.497Z
+# Size: 2279
 # 
 #########################################
 s3.c.im
@@ -105,6 +105,7 @@ cdnjs.cat.net
 fonts.cat.net
 gravatar.cat.net
 media.cnn.com
+proxy.cors.sh
 +.csb.app
 pkg.csb.dev
 cdn.css.net
@@ -688,6 +689,7 @@ thumbs.gfycat.com
 +.gitcdn.xyz
 raw.github.com
 +.pkg.github.com
+tuf-repo.github.com
 +.gitpage.si
 +.registry.gitplac.si
 +.glbimg.com
@@ -837,6 +839,7 @@ static.scroll.com
 vice-prod.sdiapi.com
 cdn.setapp.com
 imgix.setapp.com
+stats.setapp.com
 +.sftcdn.net
 +.shgcdn.com
 +.shields.io
@@ -1229,11 +1232,13 @@ logo.clearbit.com
 fonts.codeberg.org
 assets.coinbase.com
 static-assets.coinbase.com
+s1.coincarp.com
 downloads.coindesk.com
 media-cdn.comfy.social
 crt.comodoca.com
 cds.connatix.com
 img.connatix.com
++.corsproxy.io
 +.crossbell.io
 cdn.datacamp.com
 david-dm.org
@@ -1267,6 +1272,7 @@ static-assets-web.flixcart.com
 resizing.flixster.com
 filestore.fortinet.com
 badges.frapsoft.com
+thingproxy.freeboard.io
 maps.geoapify.com
 geoip-js.com
 static.getbutton.io
@@ -1377,6 +1383,7 @@ public.saasexch.com
 embed.savvycal.com
 cdn.mcauto-images-production.sendgrid.net
 cdn.signalfx.com
+tuf-repo-cdn.sigstore.dev
 +.sitescdn.net
 resources-live.sketch.cloud
 static1.smartbear.co
@@ -1661,6 +1668,7 @@ assets.zerohedge.com
 +.zohostatic.eu
 +.abc-cdn.net.au
 static.adguardvpn.com
+api.allorigins.win
 creativajs.altervista.org
 +.ampproject.org
 +.anpoimages.com
@@ -1757,6 +1765,7 @@ cdn.hentaibomb.com
 code.highcharts.com
 +.hs-scripts.com
 +.hs-scripts.net
+cors-proxy.htmldriven.com
 +.cdn-lfs.huggingface.co
 +.cdn-uploads.huggingface.co
 +.cdn-lfs-us-1.huggingface.co
