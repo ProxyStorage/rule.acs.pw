@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-15T15:19:45.899Z
-# Size: 2288
+# Last Updated: 2024-09-15T18:27:13.826Z
+# Size: 2294
 # 
 #########################################
 s3.c.im
@@ -53,7 +53,6 @@ static.nrk.no
 cdn.plu.mx
 images.ptt.cc
 .qy0.ru
-.r2.dev
 img.reg.ru
 files.reg.ru
 static-effect.reg.ru
@@ -1038,6 +1037,7 @@ i.imgflip.com
 .imglink.win
 .imgsmail.ru
 .imgyzzy.com
+static.iris.informa.com
 i.insider.com
 widget.intercom.io
 assets.ipstack.com
@@ -1786,6 +1786,9 @@ w2.influxdata.com
 cdn.ip2location.io
 pkg-cdn.jetbrains.team
 packages.jetbrains.team
+ww2.justanswer.com
+components.justanswer.com
+ww2-secure.justanswer.com
 content.jwplatform.com
 .ipfs.kinematiks.com
 .liangzipic.com
@@ -1886,6 +1889,7 @@ cdn.calibermind.com
 .cdn-website.com
 media.cleanshot.cloud
 ddcdn.comtucdncom.com
+images.contentstack.io
 js.createsend1.com
 css.createsend1.com
 images.store.crowdstrike.com
@@ -1921,6 +1925,7 @@ img.hentaihaven.xxx
 media.istockphoto.com
 cdn.linearicons.com
 cdn.livechatinc.com
+.localizecdn.com
 assets0.lottiefiles.com
 assets1.lottiefiles.com
 assets2.lottiefiles.com
@@ -2043,6 +2048,8 @@ assets.clever-cloud.com
 components.clever-cloud.com
 static-assets.clubhouseapi.com
 cdn.cnx-software.com
+ui.contentstack.com
+eu-images.contentstack.com
 .coral.coralproject.net
 repos.danosproject.org
 anchor.digitalocean.com
@@ -2250,7 +2257,6 @@ static2.sharepointonline.com
 .steamusercontent.com
 typescript-eslint.io
 telemetry.1passwordservices.com
-.cloudflarestorage.com
 .envatousercontent.com
 .framerusercontent.com
 .githubusercontent.com

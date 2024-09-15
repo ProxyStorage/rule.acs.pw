@@ -1,10 +1,11 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-15T15:19:45.910Z
-# Size: 569
+# Last Updated: 2024-09-15T18:27:13.836Z
+# Size: 571
 # 
 #########################################
 .cdn.ea.com
+.r2.dev
 dl.ui.com
 releases.arc.net
 formulae.brew.sh
@@ -570,6 +571,7 @@ get.pixelexperience.org
 download.pixelexperience.org
 .copr.fedorainfracloud.org
 .cloudflaremirrors.com
+.cloudflarestorage.com
 objects.githubusercontent.com
 pkg-containers.githubusercontent.com
 .digitaloceanspaces.com
