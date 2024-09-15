@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-15T06:27:48.081Z
-# Size: 568
+# Last Updated: 2024-09-15T09:20:55.092Z
+# Size: 569
 # 
 #########################################
 .cdn.ea.com
@@ -59,6 +59,7 @@ mirror-cdn.xtom.com
 repo.carbon.sh
 file.chobit.cc
 download.cpuid.com
+downloader.cursor.sh
 down.filen.net
 store1.gofile.io
 .s3.fr-par.scw.cloud
