@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-15T12:37:53.992Z
-# Size: 2279
+# Last Updated: 2024-09-15T15:19:45.898Z
+# Size: 2288
 # 
 #########################################
 s3.c.im
@@ -324,6 +324,7 @@ js.smile.io
 cdn.split.io
 sdk.split.io
 streaming.split.io
+telemetry.split.io
 c.start.me
 f.start.me
 static.start.me
@@ -1019,6 +1020,7 @@ cf.hamreus.com
 eu.hamreus.com
 us.hamreus.com
 .hardbin.com
+public.hare200.com
 static.heavy-r.com
 pics.hentai.name
 js.hsforms.net
@@ -1042,6 +1044,7 @@ assets.ipstack.com
 static.javcdn.info
 pcz.javidol.org
 cdn.jetboost.io
+pg2dhpc3p5ec22g3.jkforum.net
 cdn.jolipage.co
 assets.jolipage.co
 pool.jortage.com
@@ -1232,6 +1235,7 @@ logo.clearbit.com
 fonts.codeberg.org
 assets.coinbase.com
 static-assets.coinbase.com
+dynamic-assets.coinbase.com
 s1.coincarp.com
 downloads.coindesk.com
 media-cdn.comfy.social
@@ -1793,6 +1797,7 @@ assets.mayoclinic.org
 design.mayoclinic.org
 .media-imdb.com
 assets.mozilla.social
+.myfilebase.com
 .mypinata.cloud
 .myshopapps.com
 static.mytonwallet.io
@@ -1875,6 +1880,7 @@ s3.eu-central-003.backblazeb2.com
 app.backinstock.org
 t.betterstack.com
 cdnjs.betterstack.com
+blade-public-static.blade-group.com
 .bleepstatic.com
 cdn.calibermind.com
 .cdn-website.com
@@ -2085,6 +2091,7 @@ publicsuffix.org
 .pythonhosted.org
 .redditstatic.com
 cdn.robinpro.gallery
+ak.sail-horizon.com
 .scribdassets.com
 image.shutterstock.com
 .ipfs.soul-network.com
@@ -2197,6 +2204,7 @@ web-assets.otogi-frontier.com
 api.pwnedpasswords.com
 .quip-marketing.com
 .replicate.delivery
+micro.rubiconproject.com
 .safebrowsing.apple
 image.theblockbeats.info
 vscode-sync.trafficmanager.net
@@ -2272,6 +2280,7 @@ cdn.european-alternatives.eu
 cdn.minecraft-server-list.com
 .ravencoinipfs-gateway.com
 .akamai-content-network.com
+.app-analytics-services.com
 .hackerone-user-content.com
 .hubspotusercontent-eu1.net
 .hubspotusercontent-na1.net
