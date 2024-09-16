@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-16T06:30:11.068Z
-# Size: 2294
+# Last Updated: 2024-09-16T09:24:59.748Z
+# Size: 2296
 # 
 #########################################
 s3.c.im
@@ -103,6 +103,7 @@ ajax.cat.net
 cdnjs.cat.net
 fonts.cat.net
 gravatar.cat.net
+cdn.cnn.com
 media.cnn.com
 proxy.cors.sh
 +.csb.app
@@ -465,7 +466,7 @@ static.gnome.org
 godoc.org
 static.gopro.com
 image.gyutto.jp
-player.h-cdn.com
++.h-cdn.com
 packages.httpie.io
 assets.humix.com
 video-meta.humix.com
@@ -614,6 +615,7 @@ assets.apnews.com
 emp.bbci.co.uk
 ichef.bbci.co.uk
 static.bbci.co.uk
+nav.files.bbci.co.uk
 static.files.bbci.co.uk
 www.bbthat.com
 +.media.beeper.com
@@ -921,7 +923,6 @@ keyframe-cdn.abcnews.com
 assets-cdn.abcotvs.net
 static.ada.support
 cdn.adguard.com
-static.adguard.com
 +.amaicdn.com
 +.images.androeed.ru
 connectivitycheck.android.com
@@ -1521,6 +1522,7 @@ static.eroterest.net
 cache-05.filehippo.net
 +.fiverrcdn.com
 +.flagpedia.net
++.fncstatic.com
 +.forbesimg.com
 cdn.fosstodon.org
 snippets.freshchat.com

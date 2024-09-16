@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-16T06:30:11.080Z
-# Size: 571
+# Last Updated: 2024-09-16T09:24:59.761Z
+# Size: 572
 # 
 #########################################
 .cdn.ea.com
@@ -110,6 +110,7 @@ store.setapp.com
 download.sketch.com
 .archive.ubuntu.com
 security.ubuntu.com
+static.adguard.com
 download.anydesk.com
 edge.steam-dns.top.comcast.net
 dl.devmate.com
