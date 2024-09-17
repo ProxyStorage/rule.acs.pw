@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-17T15:22:27.588Z
-# Size: 2296
+# Last Updated: 2024-09-17T18:28:19.182Z
+# Size: 2299
 # 
 #########################################
 s3.c.im
@@ -28,6 +28,9 @@ eep.io
 .permaweb.eu.org
 genesis-cdn.ff.com
 static.ffx.io
+img-en.fs.com
+resource.fs.com
+front-resource.fs.com
 consent-notice.ft.com
 consent-manager.ft.com
 .gcr.io
