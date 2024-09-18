@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-09-18T03:24:42.996Z
-# Size: 193
+# Last Updated: 2024-09-18T06:30:05.806Z
+# Size: 194
 # 
 #########################################
 DOMAIN,api.smoot.apple.cn
@@ -195,5 +195,6 @@ DOMAIN-SUFFIX,wscont2.apps.microsoft.com
 DOMAIN-SUFFIX,wscont1.apps.microsoft.com
 DOMAIN-SUFFIX,officecdn.microsoft.com
 DOMAIN-SUFFIX,download.microsoft.com
+DOMAIN-SUFFIX,build.microsoft.com
 DOMAIN-SUFFIX,sdx.microsoft.com
 DOMAIN-SUFFIX,fs.microsoft.com

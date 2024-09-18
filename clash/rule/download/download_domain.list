@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-18T03:24:43.005Z
-# Size: 572
+# Last Updated: 2024-09-18T06:30:05.815Z
+# Size: 576
 # 
 #########################################
 +.cdn.ea.com
@@ -73,6 +73,7 @@ download.typora.io
 dl2.xmind.net
 dl3.xmind.net
 downloads.xrite.com
+download.bazzite.gg
 download.beeper.com
 +.catbox.moe
 +.deb.debian.org
@@ -498,6 +499,7 @@ download4.epicgames.com
 fastly-download.epicgames.com
 +.debian.map.fastlydns.net
 gog-cdn-lumen.secure2.footprint.net
+dl.getaurora.dev
 +.releases.hashicorp.com
 cdn.hyperbeam.com
 download.jetbrains.com
@@ -564,6 +566,8 @@ registry.fedoraproject.org
 client.hikarifield.co.jp
 download.hikarifield.co.jp
 +.linodeobjects.com
+nobara-images.nobaraproject.org
+download.projectbluefin.io
 ctldl.windowsupdate.com
 builds.paranoidandroid.co
 ftp.androidfilehost.com
