@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-09-18T12:40:09.202Z
-# Size: 37
+# Last Updated: 2024-09-18T15:22:39.539Z
+# Size: 39
 # 
 #########################################
 DOMAIN,dns.weixin.qq.com.cn
@@ -37,7 +37,9 @@ DOMAIN-SUFFIX,parallels.de
 DOMAIN-SUFFIX,parallels.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,parallels.cn
 DOMAIN-SUFFIX,httpdns.pro
+DOMAIN-SUFFIX,genuine.autodesk.com
 DOMAIN-SUFFIX,myparallels.com
 DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,parallelskorea.com
 DOMAIN-KEYWORD,bahoom
+AND,((DOMAIN-KEYWORD,genuine), (DOMAIN-KEYWORD,autodesk))

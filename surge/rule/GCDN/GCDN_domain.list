@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-18T12:40:09.558Z
-# Size: 2299
+# Last Updated: 2024-09-18T15:22:39.907Z
+# Size: 2306
 # 
 #########################################
 s3.c.im
@@ -253,6 +253,7 @@ imgur.dcard.tw
 megapx-assets.dcard.tw
 .ipfs.decoo.io
 images.dmca.com
+.ehgt.org
 cdn.embed.ly
 media.evolv.ai
 participants.evolv.ai
@@ -1015,6 +1016,10 @@ images.g2crowd.com
 ocsp.godaddy.com
 rsi.grafana.com
 fonts.gstatic.com
+encrypted-tbn0.gstatic.com
+encrypted-tbn1.gstatic.com
+encrypted-tbn2.gstatic.com
+encrypted-tbn3.gstatic.com
 connectivitycheck.gstatic.com
 assets.gumroad.com
 public-files.gumroad.com
@@ -1695,6 +1700,7 @@ public-pages.cbinsights.com
 cdn-sellix.com
 .cdn-spurit.com
 pic.cdnclouder.com
+.static.chaosgroup.com
 .characterai.io
 js.chilipiper.com
 cp2.cloudflare.com
@@ -1862,6 +1868,7 @@ cdn.userreport.com
 cdn.verifypass.com
 versionbadg.es
 .vscode-cdn.net
+.csp.withgoogle.com
 .zi-scripts.com
 .ziffstatic.com
 .zippyshare.com
