@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's Process Name Rule
-# Last Updated: 2024-09-19T15:22:33.561Z
+# Last Updated: 2024-09-19T18:27:58.705Z
 # Size: 38
 # Only available on macOS
 #########################################
@@ -31,7 +31,7 @@ PROCESS-NAME,qbittorrent-nox
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,amuled
-PROCESS-NAME,Motrix.app
+PROCESS-NAME,LocalSend
 PROCESS-NAME,UUBooster
 PROCESS-NAME,tailscaled
 PROCESS-NAME,parsecd

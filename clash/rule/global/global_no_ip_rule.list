@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-09-19T15:22:33.565Z
-# Size: 646
+# Last Updated: 2024-09-19T18:27:58.709Z
+# Size: 647
 # 
 #########################################
 DOMAIN,pki.goog
@@ -325,6 +325,7 @@ DOMAIN-SUFFIX,nytlog.com
 DOMAIN-SUFFIX,nytco.com
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nypost.com
+DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,noip.com
