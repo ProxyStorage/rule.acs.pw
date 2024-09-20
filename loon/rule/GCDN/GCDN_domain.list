@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-20T18:28:12.156Z
-# Size: 2307
+# Last Updated: 2024-09-20T21:19:13.533Z
+# Size: 2317
 # 
 #########################################
 s3.c.im
@@ -213,6 +213,7 @@ images.wsj.net
 optimizely.wsj.net
 ovo.wxw.moe
 .ipfs.xoqq.ch
+.telemetry.services.yofi.ai
 .z4a.net
 st1.zoom.us
 st2.zoom.us
@@ -393,7 +394,10 @@ static.axios.com
 pkgs.dev.azure.com
 .in.applicationinsights.azure.com
 amp.azure.net
+dh-site.b-cdn.net
+divhunt.b-cdn.net
 linuxiac.b-cdn.net
+divhunt-site.b-cdn.net
 panel-production-libs.b-cdn.net
 .hits.b3log.org
 images.bfmtv.com
@@ -980,6 +984,7 @@ cdn.datdota.com
 .ipfs.denarius.io
 .denopkg.com
 s1.divhunt.com
+global.divhunt.com
 .dogehls.xyz
 static.doujins.com
 cdn.download.it
@@ -1079,6 +1084,7 @@ minotar.net
 .mktgcdn.com
 images.moegoat.com
 static.moegoat.com
+static.moonpay.com
 opt.moovweb.net
 .push.services.mozilla.com
 stubdownloader.services.mozilla.com
@@ -1823,6 +1829,8 @@ cdn.nerdschalk.com
 .ninjastream.to
 .nowestatic.com
 optimizely.com
+.payloadcms.app
+cms.payloadcms.com
 m-cdn.phonearena.com
 s-cdn.phonearena.com
 cdn.pickystory.com
@@ -2091,6 +2099,7 @@ proxy.joinmastodon.org
 .kinja-static.com
 files.mastodon.ktachibana.party
 .kuaikan-cdn4.com
+static.launchdarkly.com
 cdn-c.leavemealone.com
 icons.leavemealone.com
 assets.lemonsqueezy.com
@@ -2188,6 +2197,7 @@ cdn.shoppinggives.com
 assets.static-upwork.com
 .bundle.thimatic-apps.com
 .transcend-cdn.com
+js.verygoodvault.com
 .videodelivery.net
 .walmartimages.com
 cms-assets.webediamovies.pro

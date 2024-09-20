@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-09-20T18:28:12.161Z
+# Last Updated: 2024-09-20T21:19:13.538Z
 # Size: 65
 # 
 #########################################
@@ -16,8 +16,8 @@ DOMAIN,static.cloudflareinsights.com
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,makersuite.google.com
-DOMAIN,gateway.ai.cloudflare.com
 DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,ai.com
@@ -51,20 +51,20 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,apis.google.com
-DOMAIN-SUFFIX,clipdrop.co
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,openart.ai
-DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,meta.ai
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles

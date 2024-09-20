@@ -15,8 +15,8 @@
         "ai.google.dev",
         "alkalimakersuite-pa.clients6.google.com",
         "makersuite.google.com",
-        "gateway.ai.cloudflare.com",
-        "alkalicore-pa.clients6.google.com"
+        "alkalicore-pa.clients6.google.com",
+        "gateway.ai.cloudflare.com"
       ],
       "domain_suffix": [
         "anthropic.com",
@@ -52,20 +52,20 @@
         "generativeai.google",
         "proactivebackend-pa.googleapis.com",
         "apis.google.com",
-        "clipdrop.co",
-        "notebooklm.google",
-        "openart.ai",
-        "jasper.ai",
+        "x.ai",
         "dify.ai",
         "meta.ai",
-        "perplexity.ai",
-        "x.ai",
         "poe.com",
+        "jasper.ai",
+        "aistudio.google.com",
+        "makersuite.google.com",
+        "notebooklm.google.com",
+        "openart.ai",
+        "clipdrop.co",
+        "perplexity.ai",
         "geller-pa.googleapis.com",
         "generativelanguage.googleapis.com",
-        "notebooklm.google.com",
-        "makersuite.google.com",
-        "aistudio.google.com"
+        "notebooklm.google"
       ],
       "domain_keyword": [
         "openai",
