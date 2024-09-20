@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-20T15:22:14.947Z
-# Size: 123332
+# Last Updated: 2024-09-20T18:28:12.098Z
+# Size: 123334
 # 
 #########################################
 .atom-log.3.cn
@@ -9540,6 +9540,7 @@ w.x.baidu.com
 .eduad.baidu.com
 .entry.baidu.com
 .fclog.baidu.com
+.msite.baidu.com
 .shadu.baidu.com
 .share.baidu.com
 .union.baidu.com
@@ -16381,6 +16382,7 @@ file.apicvn.com
 .tags.aumago.com
 .aurabom.ru
 .pages.aureon.com
+.aushaq.top
 .austow.com
 .so.auto999.cn
 .ftnnce.autodoc.dk

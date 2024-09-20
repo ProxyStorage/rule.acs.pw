@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-20T15:22:15.003Z
-# Size: 2306
+# Last Updated: 2024-09-20T18:28:12.156Z
+# Size: 2307
 # 
 #########################################
 s3.c.im
@@ -1080,6 +1080,7 @@ minotar.net
 images.moegoat.com
 static.moegoat.com
 opt.moovweb.net
++.push.services.mozilla.com
 stubdownloader.services.mozilla.com
 firefox.settings.services.mozilla.com
 +.cdn.mozilla.net
