@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-21T09:19:46.990Z
-# Size: 582
+# Last Updated: 2024-09-21T12:37:19.189Z
+# Size: 583
 # 
 #########################################
 .cdn.ea.com
@@ -514,6 +514,7 @@ ppa.launchpad.net
 packages.linuxmint.com
 packages.microsoft.com
 amupdatedl.microsoft.com
+cdn.winget.microsoft.com
 amupdatedl2.microsoft.com
 amupdatedl3.microsoft.com
 amupdatedl4.microsoft.com
