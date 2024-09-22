@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-22T09:19:52.707Z
-# Size: 2315
+# Last Updated: 2024-09-22T12:38:06.713Z
+# Size: 2318
 # 
 #########################################
 s3.c.im
@@ -288,6 +288,7 @@ cdn.kobo.com
 static.kobo.com
 .loli.net
 cdn.loom.com
+img.lvv2.com
 s3.masto.ai
 media.masto.nu
 mastodon-static.miao.dev
@@ -322,6 +323,7 @@ static.scarf.sh
 p.sda1.dev
 .seadn.io
 .senja.io
+img.sflix.to
 js.short.io
 .sirv.com
 .ipfs.slang.cx
@@ -1022,6 +1024,7 @@ encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
 encrypted-tbn3.gstatic.com
+encrypted-vtbn0.gstatic.com
 connectivitycheck.gstatic.com
 assets.gumroad.com
 public-files.gumroad.com
