@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-22T15:20:05.376Z
-# Size: 122993
+# Last Updated: 2024-09-22T18:26:14.164Z
+# Size: 122994
 # 
 #########################################
 .atom-log.3.cn
@@ -10880,6 +10880,7 @@ zhwnlapi.etouch.cn
 .fq04.shop
 .fq05.shop
 .fq06.shop
+.fq07.shop
 .fqkwn.com
 .fqtag.com
 .fqwgi.com
