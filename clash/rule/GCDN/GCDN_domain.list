@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-23T01:42:20.481Z
-# Size: 2339
+# Last Updated: 2024-09-23T03:26:17.645Z
+# Size: 2340
 # 
 #########################################
 s3.c.im
@@ -857,6 +857,7 @@ cdn.setapp.com
 imgix.setapp.com
 stats.setapp.com
 +.sftcdn.net
+assets.shazam.com
 +.shgcdn.com
 +.shields.io
 updates.signal.org
