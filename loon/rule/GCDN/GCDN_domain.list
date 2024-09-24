@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-24T18:29:11.658Z
-# Size: 2339
+# Last Updated: 2024-09-24T21:19:18.467Z
+# Size: 2344
 # 
 #########################################
 s3.c.im
@@ -37,6 +37,7 @@ consent-manager.ft.com
 .gcr.si
 cdn.registerdisney.go.com
 .gw3.io
+i.gzn.jp
 i.ibb.co
 image.ibb.co
 cdn.img.ly
@@ -1811,6 +1812,7 @@ cors-proxy.htmldriven.com
 .cdn-lfs.huggingface.co
 .cdn-uploads.huggingface.co
 .cdn-lfs-us-1.huggingface.co
+cdn.hypershort.com
 api.iconify.design
 code.iconify.design
 cdn.imageengine.io
@@ -1922,6 +1924,7 @@ s3.us-west-002.backblazeb2.com
 s3.us-west-004.backblazeb2.com
 s3.eu-central-003.backblazeb2.com
 app.backinstock.org
+cloudfront.barilliance.com
 t.betterstack.com
 cdnjs.betterstack.com
 blade-public-static.blade-group.com
@@ -2282,6 +2285,7 @@ static-r.kamihimeproject.net
 .makeuseofimages.com
 .motherlessmedia.com
 irp-cdn.multiscreensite.com
+gt1.onlyhentaistuff.com
 openseauserdata.com
 .reasoningtheory.net
 searchserverapi.com
@@ -2290,6 +2294,7 @@ c.speedtestcustom.com
 logos.speedtestcustom.com
 .squarespace-cdn.com
 assets.the-independent.com
+cdn.worldvectorlogo.com
 js.braintreegateway.com
 assets.braintreegateway.com
 rawmarkdown.cloudflareaccess.org
