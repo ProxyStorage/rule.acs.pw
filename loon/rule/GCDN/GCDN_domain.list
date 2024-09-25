@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-25T03:28:38.145Z
-# Size: 2344
+# Last Updated: 2024-09-25T06:30:15.713Z
+# Size: 2353
 # 
 #########################################
 s3.c.im
@@ -719,6 +719,7 @@ maven.google.com
 static.corp.google.com
 .usercontent.google.com
 safebrowsing.google.com
+android-safebrowsing.google.com
 repo.gradle.org
 plugins-artifacts.gradle.org
 i.guim.co.uk
@@ -889,6 +890,8 @@ cdn.thisav.com
 img.timero.xyz
 .tiqcdn.com
 file.tktube.com
+cdn.ttloli.com
+cdn2.ttloli.com
 .media.tumblr.com
 assets.tumblr.com
 static.tumblr.com
@@ -966,6 +969,7 @@ cf-images.us-east-1.prod.boltdns.net
 .botsrv2.com
 cdn.bsky.social
 .bstatic.com
+sessions.bugsnag.com
 static.bytepan.com
 img.catwvod.xyz
 .cdn-one.com
@@ -2285,6 +2289,8 @@ static-r.kamihimeproject.net
 .makeuseofimages.com
 .motherlessmedia.com
 irp-cdn.multiscreensite.com
+cdn.onlyhentaistuff.com
+fs2.onlyhentaistuff.com
 gt1.onlyhentaistuff.com
 openseauserdata.com
 .reasoningtheory.net
@@ -2295,6 +2301,9 @@ logos.speedtestcustom.com
 .squarespace-cdn.com
 assets.the-independent.com
 cdn.worldvectorlogo.com
+css.blackmagicdesign.com
+images.blackmagicdesign.com
+jslibs.blackmagicdesign.com
 js.braintreegateway.com
 assets.braintreegateway.com
 rawmarkdown.cloudflareaccess.org
