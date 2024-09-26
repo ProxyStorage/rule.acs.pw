@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-09-26T09:22:59.697Z
-# Size: 321
+# Last Updated: 2024-09-26T12:43:12.232Z
+# Size: 319
 # 
 #########################################
 DOMAIN,cdn.registerdisney.go.com
@@ -38,7 +38,6 @@ DOMAIN,hbounify-prod.evergent.com
 DOMAIN,bahamut.akamaized.net
 DOMAIN,hboasialive.akamaized.net
 DOMAIN,hbogoprod-vod.akamaized.net
-DOMAIN,p-bstarstatic.akamaized.net
 DOMAIN,staticasiafox.akamaized.net
 DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
@@ -65,7 +64,6 @@ DOMAIN,d349g9zuie06uo.cloudfront.net
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN,youtube.googleapis.com
 DOMAIN,youtubei.googleapis.com
-DOMAIN,p.bstarstatic.com
 DOMAIN,dashasiafox.akamaized.netflix
 DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,kfs.io

@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-09-26T09:22:59.701Z
-# Size: 46
+# Last Updated: 2024-09-26T12:43:12.235Z
+# Size: 44
 # 
 #########################################
 DOMAIN,gamer-cds.cdn.hinet.net
@@ -21,7 +21,6 @@ DOMAIN,hbounify-prod.evergent.com
 DOMAIN,bahamut.akamaized.net
 DOMAIN,hboasialive.akamaized.net
 DOMAIN,hbogoprod-vod.akamaized.net
-DOMAIN,p-bstarstatic.akamaized.net
 DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN,s3-ap-southeast-1.amazonaws.com
@@ -30,7 +29,6 @@ DOMAIN,hbolb.onwardsmg.com
 DOMAIN,players.brightcove.net
 DOMAIN,dai3fd1oh325y.cloudfront.net
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
-DOMAIN,p.bstarstatic.com
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,litv.tv
