@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-26T15:23:04.847Z
-# Size: 2362
+# Last Updated: 2024-09-26T18:27:46.676Z
+# Size: 2378
 # 
 #########################################
 s3.c.im
@@ -76,6 +76,7 @@ account-cdn.svc.ui.com
 net-fe-static-assets.network-controller.svc.ui.com
 i.vgy.me
 s.w-x.co
+v.w-x.co
 c0.wp.com
 i0.wp.com
 i1.wp.com
@@ -226,6 +227,7 @@ st1.zoom.us
 st2.zoom.us
 st3.zoom.us
 cdn.18jav.tv
+2mdn.net
 .4cdn.org
 pic.7mmtv.me
 piccdn.7mmtv.sx
@@ -316,6 +318,7 @@ cdn.pika.dev
 .pixiv.nl
 .pixiv.re
 static.plus.net
+images.pluto.tv
 assets.poool.fr
 .prcdn.co
 skills-assets.pstmn.io
@@ -673,10 +676,13 @@ static.cracked.to
 image.crisp.chat
 storage.crisp.chat
 static.crypto.com
+mkt-site-asset.crypto.com
 .cdn.cwinfo.net
 .cwwcdn.com
 cdn.cxense.com
 screenshots.debian.net
+cdn.decrypt.co
+img.decrypt.co
 .dilcdn.com
 media.dlsite.com
 .fastly.docker.com
@@ -848,6 +854,7 @@ assets.repair.org
 sp.replit.com
 .cdn.replit.com
 .cms.replit.com
+.rspcdn.net
 wimg.rule34.xxx
 embed.runkit.com
 .sc-cdn.com
@@ -983,6 +990,7 @@ img.catwvod.xyz
 .cdntrex.com
 edge1.certona.net
 .cf-ipfs.com
+wikiless.chaosmos.io
 w.chatlio.com
 cdn.chess24.com
 assets.chess24.com
@@ -1138,6 +1146,7 @@ cdn.perfops.net
 img.perfops.net
 .permaweb.io
 cdn.pixabay.com
+siloh-ns1.plutotv.net
 www.pngmart.com
 .pornimg.xyz
 .postimg.org
@@ -1211,6 +1220,10 @@ social-cdn.vivaldi.net
 .vsassets.io
 unlimited-cdn.waifu2x.net
 .wdfiles.com
+api.weather.com
+mparticle.weather.com
+widgets.media.weather.com
+widgets-red.media.weather.com
 .uploads-ssl.webflow.com
 .blob.core.windows.net
 .file.core.windows.net
@@ -2093,6 +2106,7 @@ widgets.zohosalesiq.com
 cdn.9to5terminal.com
 photos5.appleinsider.com
 .ipfs.arching-kaos.com
+axiecdn.axieinfinity.com
 .ipfs.best-practice.se
 .bootstrapcdn.com
 bundlephobia.com
@@ -2234,12 +2248,14 @@ assets.static-upwork.com
 .transcend-cdn.com
 js.verygoodvault.com
 .videodelivery.net
+explorer-api.walletconnect.com
 .walmartimages.com
 cms-assets.webediamovies.pro
 .website-files.com
 cdn.windowsreport.com
 .zdusercontent.com
 .zohowebstatic.com
+prod.addictinggames.com
 .alonestreaming.com
 userimg.customeriomail.com
 userimg-bee.customeriomail.com
