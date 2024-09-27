@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-27T18:29:05.895Z
-# Size: 2378
+# Last Updated: 2024-09-27T21:19:25.098Z
+# Size: 2384
 # 
 #########################################
 s3.c.im
@@ -156,6 +156,7 @@ snippet.maze.co
 oss.moe.cat
 assets.msn.com
 mui.com
+image.mux.com
 .cfcdn.mux.com
 ca.nfs.pub
 .cdn.nimg.jp
@@ -504,6 +505,8 @@ i.imgur.com
 .cdn.ipinfo.io
 website-cdn.ipinfo.io
 img.itch.zone
+mangaz-books.j-comi.jp
+mangaz-static.j-comi.jp
 .jbkcdn.io
 repository.jboss.org
 cdn01.jotfor.ms
@@ -631,6 +634,9 @@ akidoo.top
 repo.maven.apache.org
 dims.apnews.com
 assets.apnews.com
+cdn.arduino.cc
+content.arduino.cc
+.aayinltcs.arduino.cc
 .avximg.com
 .badgen.net
 emp.bbci.co.uk
