@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-29T01:49:08.546Z
-# Size: 2384
+# Last Updated: 2024-09-29T03:28:51.078Z
+# Size: 2387
 # 
 #########################################
 s3.c.im
@@ -689,6 +689,7 @@ cdn.cxense.com
 screenshots.debian.net
 cdn.decrypt.co
 img.decrypt.co
+cdn.deta.space
 .dilcdn.com
 media.dlsite.com
 .fastly.docker.com
@@ -1053,6 +1054,7 @@ t0.gstatic.com
 t1.gstatic.com
 t2.gstatic.com
 t3.gstatic.com
+maps.gstatic.com
 fonts.gstatic.com
 encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
@@ -1929,6 +1931,7 @@ cdn.userreport.com
 cdn.verifypass.com
 versionbadg.es
 .vscode-cdn.net
+storage.withfabric.xyz
 .csp.withgoogle.com
 .zi-scripts.com
 .ziffstatic.com
