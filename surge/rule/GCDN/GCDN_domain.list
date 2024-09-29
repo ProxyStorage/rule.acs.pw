@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-29T18:26:44.206Z
-# Size: 2387
+# Last Updated: 2024-09-29T21:18:34.180Z
+# Size: 2389
 # 
 #########################################
 s3.c.im
@@ -1159,6 +1159,7 @@ www.pngmart.com
 .pornimg.xyz
 .postimg.org
 .pravatar.cc
+prettier.io
 .pstatic.net
 cdn.quadpay.com
 static.rakuten.com
@@ -2343,6 +2344,7 @@ assets.braintreegateway.com
 rawmarkdown.cloudflareaccess.org
 pkg.cloudflareclient.com
 .cloudflarestream.com
+.googleadservices.com
 .hscollectedforms.net
 assets4.mist-train-girls.com
 oss-binaries.phusionpassenger.com
