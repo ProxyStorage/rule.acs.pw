@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-09-30T18:29:03.535Z
-# Size: 191
+# Last Updated: 2024-09-30T21:20:22.747Z
+# Size: 192
 # 
 #########################################
 DOMAIN-SUFFIX,etxr
@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,j99.info
 DOMAIN-SUFFIX,ncore.cc
 DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,beitai.pt
 DOMAIN-SUFFIX,dxdhd.com
 DOMAIN-SUFFIX,fritz.box

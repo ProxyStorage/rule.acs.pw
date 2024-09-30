@@ -1,5 +1,5 @@
 #!name=DNS映射
-#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-09-30T18:29:03.698Z
+#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-09-30T21:20:22.912Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -559,6 +559,8 @@ baomitu.com = server:https://dns.360.net/dns-query
 *.baomitu.com = server:https://dns.360.net/dns-query
 securelogin.com.cn = server:syslib
 *.securelogin.com.cn = server:syslib
+captive.apple.com = server:syslib
+*.captive.apple.com = server:syslib
 *.instant.arubanetworks.com = server:syslib
 *.setmeup.arubanetworks.com = server:syslib
 *.router.asus.com = server:syslib
