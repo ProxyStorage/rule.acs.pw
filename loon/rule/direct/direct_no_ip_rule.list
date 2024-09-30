@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-09-30T15:23:36.108Z
-# Size: 189
+# Last Updated: 2024-09-30T18:29:03.535Z
+# Size: 191
 # 
 #########################################
 DOMAIN-SUFFIX,etxr
@@ -124,6 +124,7 @@ DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,pornbits.net
 DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,setapp.click
 DOMAIN-SUFFIX,speedport.ip
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,tplinkap.net
@@ -176,6 +177,7 @@ DOMAIN-SUFFIX,steamloopback.host
 DOMAIN-SUFFIX,tplinkplclogin.net
 DOMAIN-SUFFIX,tplinkrepeater.net
 DOMAIN-SUFFIX,huaweimobilewifi.com
+DOMAIN-SUFFIX,_adb-tls-connect._tcp
 DOMAIN-SUFFIX,blackwell-synergy.com
 DOMAIN-SUFFIX,classix-unlimited.co.uk
 DOMAIN-SUFFIX,download.555mac.com

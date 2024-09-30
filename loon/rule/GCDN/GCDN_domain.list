@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-30T15:23:36.133Z
-# Size: 2394
+# Last Updated: 2024-09-30T18:29:03.559Z
+# Size: 2398
 # 
 #########################################
 s3.c.im
@@ -301,6 +301,7 @@ cdn.loom.com
 img.lvv2.com
 s3.masto.ai
 media.masto.nu
+cdn-longterm.mee6.xyz
 mastodon-static.miao.dev
 media.mstdn.io
 .ipfs.mttk.net
@@ -779,6 +780,7 @@ static.linear.app
 .cms-cdn.linear.app
 cdn2.macpaw.com
 cdn2-imgix.macpaw.com
+stats.setapp.macpaw.dev
 assets.auth.magic.link
 static-assets.mapbox.com
 cdn.masto.host
@@ -1773,6 +1775,7 @@ cdnjs.cloudflare.com
 apple-relay.cloudflare.com
 static.dash.cloudflare.com
 cf-assets.www.cloudflare.com
+.csp-reporting.cloudflare.com
 favicons.teams.cloudflare.com
 .privacy-gateway.cloudflare.com
 .cloudfront.net
@@ -2272,6 +2275,7 @@ cdn.windowsreport.com
 .zohowebstatic.com
 prod.addictinggames.com
 .alonestreaming.com
+cdn.consentmanager.net
 userimg.customeriomail.com
 userimg-bee.customeriomail.com
 userimg-assets.customeriomail.com

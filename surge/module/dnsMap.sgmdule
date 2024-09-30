@@ -1,5 +1,5 @@
 #!name=DNS映射
-#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-09-30T15:23:36.274Z
+#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-09-30T18:29:03.698Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -655,6 +655,8 @@ ts.net = server:syslib
 *.ts.net = server:syslib
 injections.adguard.org = server:syslib
 local.adguard.org = server:syslib
+setapp.click = server:syslib
+*.setapp.click = server:syslib
 *.lan = server:syslib
 localhost = server:syslib
 *.localdomain = server:syslib
