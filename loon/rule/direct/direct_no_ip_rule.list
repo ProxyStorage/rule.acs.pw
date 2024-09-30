@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-09-29T21:18:34.155Z
-# Size: 188
+# Last Updated: 2024-09-30T01:45:39.762Z
+# Size: 189
 # 
 #########################################
 DOMAIN-SUFFIX,etxr
@@ -170,6 +170,7 @@ DOMAIN-SUFFIX,setmeup.arubanetworks.com
 DOMAIN-SUFFIX,osapublishing.org
 DOMAIN-SUFFIX,passthepopcorn.me
 DOMAIN-SUFFIX,madsrevolution.net
+DOMAIN-SUFFIX,securelogin.com.cn
 DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,steamloopback.host
 DOMAIN-SUFFIX,tplinkplclogin.net

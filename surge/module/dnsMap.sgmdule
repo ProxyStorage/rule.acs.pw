@@ -1,5 +1,5 @@
 #!name=DNS映射
-#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-09-29T21:18:34.329Z
+#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-09-30T01:45:39.929Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -557,6 +557,8 @@ yunpan.com.cn = server:https://dns.360.net/dns-query
 *.qh-cdn.com = server:https://dns.360.net/dns-query
 baomitu.com = server:https://dns.360.net/dns-query
 *.baomitu.com = server:https://dns.360.net/dns-query
+securelogin.com.cn = server:syslib
+*.securelogin.com.cn = server:syslib
 *.instant.arubanetworks.com = server:syslib
 *.setmeup.arubanetworks.com = server:syslib
 *.router.asus.com = server:syslib

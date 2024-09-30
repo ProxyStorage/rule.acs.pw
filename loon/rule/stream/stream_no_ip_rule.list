@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-09-29T21:18:34.164Z
-# Size: 319
+# Last Updated: 2024-09-30T01:45:39.770Z
+# Size: 320
 # 
 #########################################
 DOMAIN,cdn.registerdisney.go.com
@@ -96,6 +96,7 @@ DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,joox.com
 DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,pluto.tv
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,wetv.vip

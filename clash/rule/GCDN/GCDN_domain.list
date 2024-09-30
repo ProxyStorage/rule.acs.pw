@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-09-29T21:18:34.181Z
-# Size: 2389
+# Last Updated: 2024-09-30T01:45:39.788Z
+# Size: 2394
 # 
 #########################################
 s3.c.im
@@ -886,6 +886,8 @@ resources-cache.prod.sketch.com
 +.sndcdn.com
 cdn.solvvy.com
 static.mysph.sph.com.sg
+cdn.prod.www.spiegel.de
+sp-spiegel-de.spiegel.de
 +.ss-cdn.com
 cdn1.stamped.io
 cdn2.stamped.io
@@ -1322,6 +1324,7 @@ eightcha.com
 aff.equalweb.com
 cdn.equalweb.com
 static.esimplus.net
+assets.euractiv.com
 static.euronews.com
 assets.exercism.org
 graph.facebook.com
@@ -2036,6 +2039,8 @@ i.mydramalist.com
 cdn.myportfolio.com
 pro2-ui-assets-s3-fy.myportfolio.com
 cdn.neverbounce.com
+assets.newrepublic.com
+images.newrepublic.com
 +.nftstorage.link
 ocecdn.oraclecloud.com
 assets-production.packagecloud.io

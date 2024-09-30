@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-09-29T21:18:34.165Z
-# Size: 33
+# Last Updated: 2024-09-30T01:45:39.771Z
+# Size: 34
 # 
 #########################################
 DOMAIN,cbsi.live.ott.irdeto.com
@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,hulu.us
 DOMAIN-SUFFIX,sho.com
 DOMAIN-SUFFIX,cbsi.com
 DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,pluto.tv
 DOMAIN-SUFFIX,dnitv.com
 DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,happyon.jp
