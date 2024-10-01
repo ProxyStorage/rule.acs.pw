@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-01T09:23:44.732Z
-# Size: 2398
+# Last Updated: 2024-10-01T12:43:15.251Z
+# Size: 2399
 # 
 #########################################
 s3.c.im
@@ -1082,6 +1082,7 @@ pics.hentai.name
 js.hsforms.net
 js-eu1.hsforms.net
 +.js.hubspot.com
++.js-eu1.hubspot.com
 +.static2cdn.hubspot.com
 +.cdn2.hubspot.net
 avatars.hubspot.net
