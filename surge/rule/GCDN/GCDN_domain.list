@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-02T12:41:53.868Z
-# Size: 2399
+# Last Updated: 2024-10-02T15:23:22.280Z
+# Size: 2409
 # 
 #########################################
 s3.c.im
@@ -414,6 +414,7 @@ linuxiac.b-cdn.net
 divhunt-site.b-cdn.net
 panel-production-libs.b-cdn.net
 .hits.b3log.org
+public-cdn.bblmw.com
 images.bfmtv.com
 img.biguz.net
 static.bit.cloud
@@ -424,6 +425,7 @@ cdn.search.brave.com
 imgs.search.brave.com
 designsystem.brevo.com
 fonts.bunny.net
+cdn.cameo.com
 img.merch.cameo.com
 ajax.cdnjs.com
 .cdnpk.net
@@ -1432,6 +1434,7 @@ pkg-size.dev
 .placehold.co
 .placehold.jp
 placeimg.com
+cdn.playwire.com
 static.politico.com
 cdn-assets.porntube.com
 cdn-thumbs.porntube.com
@@ -1492,6 +1495,7 @@ assets.unifi-ai.com
 plus.unsplash.com
 images.unsplash.com
 js.userflow.com
+widget.usersnap.com
 crl.verisign.com
 .vimeocdn.com
 cdn.wccftech.com
@@ -1525,6 +1529,7 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 prod-video-cms-amp-microsoft-com.akamaized.net
 statics-marketingsites-eas-ms-com.akamaized.net
 .ipfs.alloyxuast.tk
+ip-ranges.amazonaws.com
 cdn.assets.as2.amazonaws.com
 cdn.media.amplience.net
 .ipfs.anonymize.com
@@ -1599,6 +1604,8 @@ cdn.freshdesk.com
 static.frostming.com
 .ipfs.funnychain.co
 .futurecdn.net
+mosaic.fxtwitter.com
+mosaic-blender.fxtwitter.com
 i.geekflare.com
 .assets.getpocket.com
 cdn.glitch.global
@@ -1750,6 +1757,8 @@ creativajs.altervista.org
 .anpoimages.com
 .ipfs.eth.aragon.network
 packages.argotunnel.com
+agi.armorgames.com
+cache.armorgames.com
 lib.arvancloud.com
 cdn.autoketing.org
 .bestjavcdn.com
@@ -2326,6 +2335,7 @@ imgssl.constantcontact.com
 i.creativecommons.org
 images.financemagnates.com
 static-assets.freeanimehentai.net
+cache.hackedfreegames.com
 .howtogeekimages.com
 .js.hubspotfeedback.com
 .invisionapp-cdn.com
