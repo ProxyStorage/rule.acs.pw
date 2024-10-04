@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-04T18:28:45.825Z
-# Size: 2411
+# Last Updated: 2024-10-04T21:19:26.078Z
+# Size: 2415
 # 
 #########################################
 s3.c.im
@@ -28,6 +28,7 @@ eep.io
 +.permaweb.eu.org
 genesis-cdn.ff.com
 static.ffx.io
+media.fs.com
 img-en.fs.com
 resource.fs.com
 front-resource.fs.com
@@ -2185,6 +2186,7 @@ assets.lemonsqueezy.com
 +.packd.liuxingbaoyu.xyz
 player.louisvuitton.com
 cdn.manageengine.com
++.mangadex.network
 +.media-amazon.com
 +.meetupstatic.com
 +.olemovienews.com
@@ -2216,6 +2218,7 @@ cdn1.unrealengine.com
 cdn2.unrealengine.com
 cdn3.unrealengine.com
 +.usercontent.goog
+sts.online.visualstudio.com
 typescript.visualstudio.com
 +.vscode-unpkg.net
 +.vusercontent.net
@@ -2380,6 +2383,7 @@ telemetry.1passwordservices.com
 +.googleusercontent.com
 +.misskeyusercontent.jp
 navismithapis-cdn.com
++.notionusercontent.com
 assets.positional-bucket.com
 +.ssl-images-amazon.com
 +.storjipfs-gateway.com
