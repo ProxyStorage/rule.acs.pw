@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-03T21:19:42.070Z
-# Size: 2410
+# Last Updated: 2024-10-04T01:42:37.868Z
+# Size: 2411
 # 
 #########################################
 s3.c.im
@@ -1760,6 +1760,7 @@ creativajs.altervista.org
 packages.argotunnel.com
 agi.armorgames.com
 cache.armorgames.com
+files.armorgames.com
 lib.arvancloud.com
 cdn.autoketing.org
 +.bestjavcdn.com
