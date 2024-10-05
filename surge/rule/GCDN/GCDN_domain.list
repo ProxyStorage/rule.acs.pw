@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-05T15:20:59.417Z
-# Size: 2415
+# Last Updated: 2024-10-05T18:26:31.491Z
+# Size: 2418
 # 
 #########################################
 s3.c.im
@@ -768,6 +768,7 @@ p.inari.site
 .ipfscdn.io
 cf.javfree.me
 .javtxt.com
+.jbkcdn.com
 .jitpack.io
 code.jquery.com
 fiddle.jshell.net
@@ -1457,6 +1458,7 @@ app.roboflow.com
 cdn.roboflow.com
 .rocketcdn.me
 .rollupjs.org
+.roseimgs.com
 public.saasexch.com
 embed.savvycal.com
 cdn.mcauto-images-production.sendgrid.net
@@ -1791,6 +1793,7 @@ cf-assets.www.cloudflare.com
 .csp-reporting.cloudflare.com
 favicons.teams.cloudflare.com
 .privacy-gateway.cloudflare.com
+.cloudflare.ltd
 .cloudfront.net
 res.cloudinary.com
 fiverr-res.cloudinary.com
