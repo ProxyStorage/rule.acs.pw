@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-07T18:27:32.416Z
+# Last Updated: 2024-10-07T21:20:26.570Z
 # Size: 319
 # 
 #########################################
@@ -195,7 +195,6 @@ DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,indaznlab.com
-DOMAIN-SUFFIX,itvstatic.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,peacocktv.com
@@ -244,6 +243,7 @@ DOMAIN-SUFFIX,dokusho-ojikan.jp
 DOMAIN-SUFFIX,paramountplus.com
 DOMAIN-SUFFIX,smartmediarep.com
 DOMAIN-SUFFIX,spotifycharts.com
+DOMAIN-SUFFIX,tvlicensing.co.uk
 DOMAIN-SUFFIX,youtubegaming.com
 DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,spotifynewsroom.jp

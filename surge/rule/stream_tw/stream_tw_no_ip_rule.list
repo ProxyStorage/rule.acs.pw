@@ -1,14 +1,13 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-07T18:27:32.419Z
-# Size: 43
+# Last Updated: 2024-10-07T21:20:26.574Z
+# Size: 38
 # 
 #########################################
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN,4gtvfreepcvod-cds.cdn.hinet.net
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
-DOMAIN,apm-misaka.biliapi.net
 DOMAIN,manifest.prod.boltdns.net
 DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
 DOMAIN,hboasia1-i.akamaihd.net
@@ -20,8 +19,6 @@ DOMAIN,bcbolthboa-a.akamaihd.net
 DOMAIN,hbounify-prod.evergent.com
 DOMAIN,hboasialive.akamaized.net
 DOMAIN,hbogoprod-vod.akamaized.net
-DOMAIN,upos-bstar-mirrorakam.akamaized.net
-DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN,s3-ap-southeast-1.amazonaws.com
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,hbolb.onwardsmg.com
@@ -33,11 +30,9 @@ DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,linetv.tw
-DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,viblast.com
-DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-KEYWORD,.hbogoasia.

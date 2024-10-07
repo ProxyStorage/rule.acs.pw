@@ -1,8 +1,7 @@
 #########################################
 # DreamyTZK's Process Name Rule
-# Last Updated: 2024-10-07T18:27:32.420Z
-# Size: 2
+# Last Updated: 2024-10-07T21:20:26.575Z
+# Size: 1
 # Only available on macOS
 #########################################
 PROCESS-NAME,com.linecorp.linetv
-PROCESS-NAME,com.bstar.intl

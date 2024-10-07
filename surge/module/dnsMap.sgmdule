@@ -1,5 +1,5 @@
 #!name=DNS映射
-#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-10-07T18:27:32.572Z
+#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-10-07T21:20:26.731Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -347,6 +347,7 @@ hellobike.com = server:quic://dns.alidns.com:853
 dns.pub = server:https://doh.pub/dns-query
 *.dns.pub = server:https://doh.pub/dns-query
 *.doh.pub = server:https://doh.pub/dns-query
+*.dot.pub = server:https://doh.pub/dns-query
 *.gtimg.com = server:https://doh.pub/dns-query
 *.gtimg.com.cn = server:https://doh.pub/dns-query
 *.gdtimg.com = server:https://doh.pub/dns-query
@@ -457,8 +458,6 @@ xiaomiev.com = server:https://doh.pub/dns-query
 *.xiaomiev.com = server:https://doh.pub/dns-query
 xiaomiyoupin.com = server:https://doh.pub/dns-query
 *.xiaomiyoupin.com = server:https://doh.pub/dns-query
-saxyit.com = server:https://doh.pub/dns-query
-*.saxyit.com = server:https://doh.pub/dns-query
 *.bytecdn.cn = server:180.184.2.2
 *.toutiaoimg.com = server:180.184.2.2
 *.toutiaoimg.cn = server:180.184.2.2
