@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-07T15:23:11.506Z
-# Size: 2443
+# Last Updated: 2024-10-07T18:27:32.433Z
+# Size: 2449
 # 
 #########################################
 s3.c.im
@@ -1379,6 +1379,7 @@ media.hachyderm.io
 cdn.hashnode.com
 newassets.hcaptcha.com
 cdn.heysavvy.com
+.hgagecdn.com
 cdn10.hiftporn.fun
 fastporndelivery.hqporner.com
 .ibyteimg.com
@@ -1785,6 +1786,10 @@ cache.armorgames.com
 files.armorgames.com
 lib.arvancloud.com
 cdn.autoketing.org
+i2.bahamut.com.tw
+p2.bahamut.com.tw
+truth.bahamut.com.tw
+avatar2.bahamut.com.tw
 .bestjavcdn.com
 proxy.beyondwords.io
 cdn-www.bluestacks.com
@@ -1897,6 +1902,7 @@ w2.influxdata.com
 .storage.infomaniak.com
 .infura-ipfs.io
 cdn.ip2location.io
+weather.istatmenus.app
 pkg-cdn.jetbrains.team
 packages.jetbrains.team
 ww2.justanswer.com

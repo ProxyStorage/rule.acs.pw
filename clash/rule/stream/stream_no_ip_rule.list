@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-10-07T15:23:11.485Z
-# Size: 268
+# Last Updated: 2024-10-07T18:27:32.417Z
+# Size: 267
 # 
 #########################################
 DOMAIN,cdn.registerdisney.go.com
@@ -35,7 +35,6 @@ DOMAIN,bcbolthboa-a.akamaihd.net
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,hbounify-prod.evergent.com
-DOMAIN,bahamut.akamaized.net
 DOMAIN,hboasialive.akamaized.net
 DOMAIN,hbogoprod-vod.akamaized.net
 DOMAIN,staticasiafox.akamaized.net
