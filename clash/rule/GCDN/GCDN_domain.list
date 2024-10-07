@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-07T03:28:46.020Z
-# Size: 2442
+# Last Updated: 2024-10-07T06:30:52.351Z
+# Size: 2443
 # 
 #########################################
 s3.c.im
@@ -99,6 +99,7 @@ ooo.0o0.ooo
 adkit.9pub.io
 content.any.run
 static2.avg.com
++.marketing.aws.dev
 seal-newyork.bbb.org
 gn-web-assets.api.bbc.com
 cdn.bfe.dev

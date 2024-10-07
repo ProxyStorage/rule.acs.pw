@@ -1,10 +1,12 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-10-07T03:28:45.989Z
-# Size: 767
+# Last Updated: 2024-10-07T06:30:52.319Z
+# Size: 769
 # 
 #########################################
 DOMAIN,www.intel.cn
+DOMAIN,dl.ubnt.com
+DOMAIN,config.ubnt.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,gstore.val.manlaxy.com
 DOMAIN,lv.queniujq.cn
