@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-08T09:22:50.193Z
-# Size: 2459
+# Last Updated: 2024-10-08T12:40:23.724Z
+# Size: 2464
 # 
 #########################################
 s3.c.im
@@ -1649,6 +1649,7 @@ config.extension.grammarly.com
 static.institution.grammarly.com
 +.cdn.greenhouse.io
 boards.greenhouse.io
+cdn.growthbook.io
 gtranslate.io
 cdn.headwayapp.co
 assets0.headwayapp.co
@@ -1880,7 +1881,10 @@ fonts.googleapis.com
 +.storage.googleapis.com
 +.firestore.googleapis.com
 safebrowsing.googleapis.com
+firebaselogging.googleapis.com
 +.firebasestorage.googleapis.com
+clientmetrics-pa.googleapis.com
+firebaselogging-pa.googleapis.com
 optimizationguide-pa.googleapis.com
 +.crashlyticsreports-pa.googleapis.com
 +.content-storage-upload.googleapis.com
@@ -2028,6 +2032,7 @@ ddcdn.comtucdncom.com
 images.contentstack.io
 +.e.crashlytics.com
 +.settings.crashlytics.com
+firebase-settings.crashlytics.com
 js.createsend1.com
 css.createsend1.com
 images.store.crowdstrike.com

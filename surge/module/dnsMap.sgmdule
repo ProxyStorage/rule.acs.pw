@@ -1,5 +1,5 @@
 #!name=DNS映射
-#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-10-08T09:22:50.332Z
+#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-10-08T12:40:23.869Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -408,6 +408,7 @@ anticheatexpert.com = server:https://doh.pub/dns-query
 upos-sz-estgoss.bilivideo.com = server:quic://dns.alidns.com:853
 upos-sz-mirrorbd.bilivideo.com = server:180.76.76.76
 upos-sz-mirrorcoso1.bilivideo.com = server:https://doh.pub/dns-query
+upos-sz-mirrorcosbstar1.bilivideo.com = server:https://doh.pub/dns-query
 acg.tv = server:https://doh.pub/dns-query
 b23.tv = server:https://doh.pub/dns-query
 bilibili.cn = server:https://doh.pub/dns-query
