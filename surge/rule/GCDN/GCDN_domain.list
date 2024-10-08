@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-07T21:20:26.589Z
-# Size: 2457
+# Last Updated: 2024-10-08T01:42:33.127Z
+# Size: 2459
 # 
 #########################################
 s3.c.im
@@ -937,6 +937,7 @@ static.tumblr.com
 .assets.ubuntu.com
 j.udn.com.tw
 s.udn.com.tw
+craftassets.unraid.net
 .ipfs.uploads.nu
 .devrum.uptime.com
 img.utdstc.com
@@ -1918,6 +1919,7 @@ ww2-secure.justanswer.com
 content.jwplatform.com
 .ipfs.kinematiks.com
 .liangzipic.com
+cdn.libravatar.org
 seccdn.libravatar.org
 mantisloader.mantis-awx.com
 assets.mastercard.com
