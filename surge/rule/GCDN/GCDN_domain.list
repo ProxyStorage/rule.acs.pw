@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-10T09:23:12.447Z
-# Size: 2464
+# Last Updated: 2024-10-10T12:41:27.439Z
+# Size: 2466
 # 
 #########################################
 s3.c.im
@@ -318,6 +318,7 @@ images-assets.nasa.gov
 image.nmb.best
 nodei.co
 registry.npmjs.cf
+.nxcli.io
 static.osdn.net
 static-cdn.osdn.net
 cdn.piano.io
@@ -553,6 +554,7 @@ registry.npmjs.com
 replicate.npmjs.com
 static-production.npmjs.com
 registry.npmjs.org
+.nxedge.io
 static.oomol.com
 .pages.dev
 cdn.pagic.org
