@@ -1,15 +1,18 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-11T12:41:02.357Z
-# Size: 163
+# Last Updated: 2024-10-11T15:22:26.249Z
+# Size: 166
 # 
 #########################################
 DOMAIN-SUFFIX,m2m
+DOMAIN-SUFFIX,_tcp
 DOMAIN-SUFFIX,home
+DOMAIN-SUFFIX,bogon
 DOMAIN-SUFFIX,unifi
 DOMAIN-SUFFIX,bt.byr.cn
 DOMAIN-SUFFIX,msg.vg
 DOMAIN-SUFFIX,ts.net
+DOMAIN-SUFFIX,_msdcs
 DOMAIN-SUFFIX,router
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,acm.org
@@ -59,6 +62,7 @@ DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,oppaiti.me
 DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,router.com
 DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,sdbits.org
 DOMAIN-SUFFIX,skyey2.com
@@ -149,7 +153,6 @@ DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,tplinkplclogin.net
 DOMAIN-SUFFIX,tplinkrepeater.net
 DOMAIN-SUFFIX,huaweimobilewifi.com
-DOMAIN-SUFFIX,_adb-tls-connect._tcp
 DOMAIN-SUFFIX,blackwell-synergy.com
 DOMAIN-SUFFIX,classix-unlimited.co.uk
 DOMAIN-SUFFIX,download.555mac.com
