@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's Process Name Rule
-# Last Updated: 2024-10-11T03:25:50.058Z
+# Last Updated: 2024-10-11T06:30:08.874Z
 # Size: 15
 # Only available on Desktop
 #########################################
@@ -8,10 +8,10 @@ PROCESS-NAME,com.amazon.avod.thirdpartyclient
 PROCESS-NAME,tv
 PROCESS-NAME,music
 PROCESS-NAME,com.bstar.intl
+PROCESS-NAME,com.wbd.stream
 PROCESS-NAME,com.hulu.plus
 PROCESS-NAME,com.tencent.ibg.joox
 PROCESS-NAME,com.linecorp.linetv
-PROCESS-NAME,com.wbd.stream
 PROCESS-NAME,com.netflix.mediaclient
 PROCESS-NAME,com.twgood.android
 PROCESS-NAME,tv.twitch.android.app

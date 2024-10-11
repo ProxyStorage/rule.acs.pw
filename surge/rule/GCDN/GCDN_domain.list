@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-11T03:25:50.073Z
-# Size: 2466
+# Last Updated: 2024-10-11T06:30:08.890Z
+# Size: 2469
 # 
 #########################################
 s3.c.im
@@ -264,6 +264,8 @@ production-cmp.isgprivacy.cbsi.com
 .media.ci-en.jp
 zephr-templates.cnbc.com
 sf-coze-web-cdn.coze.com
+res.craft.do
+secure-res.craft.do
 load.csell.co
 .cthd.icu
 imgur.dcard.tw
@@ -1586,6 +1588,7 @@ edge-consumer-static.azureedge.net
 cdn.babylonjs.com
 secure.beer7live.com
 img.bigcloud.cyou
+upos-sz-mirroralibstar1.bilivideo.com
 js-cdn.blockchair.io
 loutre.blockchair.io
 .bnbstatic.com

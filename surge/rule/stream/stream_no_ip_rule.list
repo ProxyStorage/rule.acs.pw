@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-11T03:25:50.057Z
+# Last Updated: 2024-10-11T06:30:08.874Z
 # Size: 319
 # 
 #########################################
@@ -290,6 +290,7 @@ USER-AGENT,FOX NOW*
 USER-AGENT,FOXPlus*
 USER-AGENT,HBO NOW*
 USER-AGENT,HBOMAX*
+USER-AGENT,Max
 USER-AGENT,HBO GO PROD HKG*
 USER-AGENT,HBO*
 USER-AGENT,Himalaya*
@@ -301,7 +302,6 @@ USER-AGENT,WeMusic*
 USER-AGENT,com.kktv.ios.kktv*
 USER-AGENT,KKTV*
 USER-AGENT,LINE TV*
-USER-AGENT,Max*
 USER-AGENT,My5*
 USER-AGENT,mytv*
 USER-AGENT,Argo*
