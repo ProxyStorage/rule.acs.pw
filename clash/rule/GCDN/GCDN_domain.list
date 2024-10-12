@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-12T01:39:32.754Z
-# Size: 2472
+# Last Updated: 2024-10-12T03:24:21.371Z
+# Size: 2476
 # 
 #########################################
 s3.c.im
@@ -338,6 +338,7 @@ skills-assets.pstmn.io
 cdn.rauno.me
 cdn.redoc.ly
 www-static.ripe.net
+cdn.rive.app
 +.rss3.dev
 rules.ac
 +.www.s81c.com
@@ -362,6 +363,7 @@ sites.super.so
 assets-v2.super.so
 +.surge.sh
 static.t-ru.org
+static.tenki.jp
 assets.time.com
 image.tmdb.org
 app-static.turtl.co
@@ -2243,6 +2245,7 @@ cdn.manageengine.com
 +.mangadex.network
 +.media-amazon.com
 +.meetupstatic.com
++.mirror-media.xyz
 +.olemovienews.com
 +.omnisnippet1.com
 web.onekey-asset.com
@@ -2361,6 +2364,7 @@ static.killedbygoogle.com
 na-library.klarnaservices.com
 +.licensebuttons.net
 assets-next.mattersprotocol.io
+images.microcms-assets.io
 image.email.microsoftemail.com
 cdn.networklessons.com
 cdn-forum.networklessons.com
