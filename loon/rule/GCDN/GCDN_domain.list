@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-12T03:24:21.371Z
-# Size: 2476
+# Last Updated: 2024-10-12T06:27:49.370Z
+# Size: 2478
 # 
 #########################################
 s3.c.im
@@ -754,6 +754,7 @@ static.corp.google.com
 .usercontent.google.com
 safebrowsing.google.com
 .crashlytics2.l.google.com
+.ogads-pa.clients6.google.com
 android-safebrowsing.google.com
 repo.gradle.org
 plugins-artifacts.gradle.org
@@ -1887,11 +1888,12 @@ ajax.googleapis.com
 chart.googleapis.com
 fonts.googleapis.com
 .storage.googleapis.com
+.ogads-pa.googleapis.com
 .firestore.googleapis.com
 safebrowsing.googleapis.com
 firebaselogging.googleapis.com
 .firebasestorage.googleapis.com
-clientmetrics-pa.googleapis.com
+.clientmetrics-pa.googleapis.com
 firebaselogging-pa.googleapis.com
 optimizationguide-pa.googleapis.com
 .crashlyticsreports-pa.googleapis.com
