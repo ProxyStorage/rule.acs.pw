@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-15T06:30:28.805Z
-# Size: 2478
+# Last Updated: 2024-10-15T09:23:18.994Z
+# Size: 2482
 # 
 #########################################
 s3.c.im
@@ -111,6 +111,7 @@ ajax.cat.net
 cdnjs.cat.net
 fonts.cat.net
 gravatar.cat.net
+cdn.cbd.int
 cdn.cnn.com
 media.cnn.com
 proxy.cors.sh
@@ -893,6 +894,7 @@ wimg.rule34.xxx
 embed.runkit.com
 .sc-cdn.com
 images.scalero.io
+s7d1.scene7.com
 ec-prod.scene7.com
 assets.scroll.com
 static.scroll.com
@@ -1530,6 +1532,7 @@ renderer-assets.typeform.com
 assets.unifi-ai.com
 plus.unsplash.com
 images.unsplash.com
+widget.usepylon.com
 js.userflow.com
 widget.usersnap.com
 crl.verisign.com
@@ -2010,6 +2013,7 @@ storage.withfabric.xyz
 .ziffstatic.com
 .zippyshare.com
 .zohostatic.com
+cdn2.abiresearch.com
 assets.aboutamazon.com
 showcase.abovemarket.com
 easylist-downloads.adblockplus.org

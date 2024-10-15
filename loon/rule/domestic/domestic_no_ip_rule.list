@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-15T06:30:28.776Z
-# Size: 762
+# Last Updated: 2024-10-15T09:23:18.963Z
+# Size: 763
 # 
 #########################################
 DOMAIN,www.intel.cn
@@ -706,6 +706,7 @@ DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,autohome.com.cn
 DOMAIN-SUFFIX,baidustatic.com
 DOMAIN-SUFFIX,bilibilipay.com
+DOMAIN-SUFFIX,byteacctimg.com
 DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,cowtransfer.com
 DOMAIN-SUFFIX,didichuxing.com

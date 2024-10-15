@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-15T06:30:28.817Z
-# Size: 601
+# Last Updated: 2024-10-15T09:23:19.005Z
+# Size: 602
 # 
 #########################################
 .cdn.ea.com
@@ -40,6 +40,7 @@ mirror.xtom.sg
 mirrors.xtom.sg
 mirror.xtom.us
 mirrors.xtom.us
+cdn.zoom.us
 .files.1drv.com
 dlcdnets.asus.com
 down.filen.io
