@@ -1,47 +1,47 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-15T09:23:18.775Z
+# Last Updated: 2024-10-15T12:42:48.326Z
 # Size: 41
 # 
 #########################################
-DOMAIN,dns.jd.com
-DOMAIN,dns.weixin.qq.com
-DOMAIN,httpdns.music.163.com
-DOMAIN,music.httpdns.c.163.com
-DOMAIN,lofter.httpdns.c.163.com
+DOMAIN,daisydiskapp.com
 DOMAIN,dns.weibo.cn
+DOMAIN,dns.jd.com
 DOMAIN,httpdns.baidu.com
 DOMAIN,httpsdns.baidu.com
-DOMAIN,dns.weixin.qq.com.cn
-DOMAIN,httpdns.c.cdnhwc2.com
 DOMAIN,httpdns.meituan.com
 DOMAIN,httpdnsvip.meituan.com
-DOMAIN,httpdns.n.netease.com
 DOMAIN,httpdns-sc.aliyuncs.com
 DOMAIN,httpdns-api.aliyuncs.com
 DOMAIN,httpdns.baidubce.com
 DOMAIN,httpdns.bilivideo.com
 DOMAIN,httpdns.yunxindns.com
-DOMAIN,httpdns.push.oppomobile.com
-DOMAIN,daisydiskapp.com
 DOMAIN,httpdns.volcengineapi.com
+DOMAIN,dns.weixin.qq.com
+DOMAIN,httpdns.music.163.com
+DOMAIN,httpdns.c.cdnhwc2.com
+DOMAIN,httpdns.n.netease.com
+DOMAIN,httpdns.push.oppomobile.com
+DOMAIN,dns.weixin.qq.com.cn
+DOMAIN,music.httpdns.c.163.com
+DOMAIN,lofter.httpdns.c.163.com
 DOMAIN-SUFFIX,null
-DOMAIN-SUFFIX,geo2.adobe.com
 DOMAIN-SUFFIX,undefined
-DOMAIN-SUFFIX,adobe.io
-DOMAIN-SUFFIX,httpdns.pro
-DOMAIN-SUFFIX,genuine.autodesk.com
+DOMAIN-SUFFIX,geo2.adobe.com
 DOMAIN-SUFFIX,parallels.cn
 DOMAIN-SUFFIX,parallels.de
 DOMAIN-SUFFIX,parallels.es
 DOMAIN-SUFFIX,parallels.fr
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobestats.io
 DOMAIN-SUFFIX,parallels.nl
 DOMAIN-SUFFIX,parallels.pt
 DOMAIN-SUFFIX,parallels.ru
-DOMAIN-SUFFIX,adobestats.io
 DOMAIN-SUFFIX,parallels.com
-DOMAIN-SUFFIX,parallels.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,myparallels.com
 DOMAIN-SUFFIX,parallelskorea.com
+DOMAIN-SUFFIX,httpdns.pro
+DOMAIN-SUFFIX,genuine.autodesk.com
+DOMAIN-SUFFIX,parallels.com.cdn.cloudflare.net
 DOMAIN-KEYWORD,bahoom
 AND,((DOMAIN-KEYWORD,genuine), (DOMAIN-KEYWORD,autodesk))

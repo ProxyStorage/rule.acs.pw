@@ -1,11 +1,11 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-15T09:23:18.997Z
+# Last Updated: 2024-10-15T12:42:48.511Z
 # Size: 196
 # 
 #########################################
-DOMAIN,api.smoot.apple.cn
 DOMAIN,gs-loc-cn.apple.com
+DOMAIN,api.smoot.apple.cn
 DOMAIN,res.cdn.office.net
 DOMAIN,res-1.cdn.office.net
 DOMAIN,statics.teams.cdn.office.net
@@ -181,22 +181,22 @@ DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,www.apple.com.edgekey.net
 DOMAIN-SUFFIX,www.apple.com
 DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,cn.apple.com
 DOMAIN-SUFFIX,cn.ls.apple.com
 DOMAIN-SUFFIX,cn-ssl.ls.apple.com
-DOMAIN-SUFFIX,apple.com.cn
-DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,fs.microsoft.com
 DOMAIN-SUFFIX,sdx.microsoft.com
 DOMAIN-SUFFIX,build.microsoft.com
 DOMAIN-SUFFIX,download.microsoft.com
 DOMAIN-SUFFIX,officecdn.microsoft.com
-DOMAIN-SUFFIX,wscont1.apps.microsoft.com
-DOMAIN-SUFFIX,wscont2.apps.microsoft.com
-DOMAIN-SUFFIX,download.prss.microsoft.com
-DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
-DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
-DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,cn.windowssearch.com
 DOMAIN-SUFFIX,ctldl.windowsupdate.com
 DOMAIN-SUFFIX,download.windowsupdate.com
+DOMAIN-SUFFIX,wscont1.apps.microsoft.com
+DOMAIN-SUFFIX,wscont2.apps.microsoft.com
+DOMAIN-SUFFIX,download.prss.microsoft.com
+DOMAIN-SUFFIX,download.visualstudio.microsoft.com
+DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com

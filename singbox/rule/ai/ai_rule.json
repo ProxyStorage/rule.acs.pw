@@ -55,17 +55,17 @@
         "x.ai",
         "dify.ai",
         "meta.ai",
-        "poe.com",
         "jasper.ai",
+        "openart.ai",
+        "perplexity.ai",
+        "clipdrop.co",
+        "poe.com",
+        "notebooklm.google",
         "aistudio.google.com",
         "makersuite.google.com",
         "notebooklm.google.com",
-        "openart.ai",
-        "clipdrop.co",
-        "perplexity.ai",
         "geller-pa.googleapis.com",
-        "generativelanguage.googleapis.com",
-        "notebooklm.google"
+        "generativelanguage.googleapis.com"
       ],
       "domain_keyword": [
         "openai",

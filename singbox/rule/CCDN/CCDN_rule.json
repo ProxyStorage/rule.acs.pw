@@ -3,8 +3,8 @@
   "rules": [
     {
       "domain": [
-        "api.smoot.apple.cn",
         "gs-loc-cn.apple.com",
+        "api.smoot.apple.cn",
         "res.cdn.office.net",
         "res-1.cdn.office.net",
         "statics.teams.cdn.office.net"
@@ -182,25 +182,25 @@
         "www.apple.com.edgekey.net",
         "www.apple.com",
         "xp.apple.com",
+        "apple.com.cn",
+        "icloud.com.cn",
         "cn.apple.com",
         "cn.ls.apple.com",
         "cn-ssl.ls.apple.com",
-        "apple.com.cn",
-        "icloud.com.cn",
         "fs.microsoft.com",
         "sdx.microsoft.com",
         "build.microsoft.com",
         "download.microsoft.com",
         "officecdn.microsoft.com",
+        "cn.windowssearch.com",
+        "ctldl.windowsupdate.com",
+        "download.windowsupdate.com",
         "wscont1.apps.microsoft.com",
         "wscont2.apps.microsoft.com",
         "download.prss.microsoft.com",
-        "dl.delivery.mp.microsoft.com",
-        "storeedgefd.dsx.mp.microsoft.com",
         "download.visualstudio.microsoft.com",
-        "cn.windowssearch.com",
-        "ctldl.windowsupdate.com",
-        "download.windowsupdate.com"
+        "storeedgefd.dsx.mp.microsoft.com",
+        "dl.delivery.mp.microsoft.com"
       ],
       "domain_keyword": [],
       "process_name": [],
