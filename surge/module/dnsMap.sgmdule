@@ -1,5 +1,5 @@
 #!name=DNS映射
-#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-10-16T03:28:56.970Z
+#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-10-16T06:30:08.487Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -339,10 +339,7 @@ hellobike.com = server:quic://dns.alidns.com:853
 *.hellobike.com = server:quic://dns.alidns.com:853
 *.hichina.com = server:quic://dns.alidns.com:853
 *.yunos.com = server:quic://dns.alidns.com:853
-dns.pub = server:https://doh.pub/dns-query
-*.dns.pub = server:https://doh.pub/dns-query
-*.doh.pub = server:https://doh.pub/dns-query
-*.dot.pub = server:https://doh.pub/dns-query
+dns.pub = 120.53.53.53, 1.12.12.12, 1.12.34.56
 *.gtimg.com = server:https://doh.pub/dns-query
 *.gtimg.com.cn = server:https://doh.pub/dns-query
 *.gdtimg.com = server:https://doh.pub/dns-query
@@ -535,6 +532,8 @@ yunpan.com.cn = server:https://dns.360.net/dns-query
 *.qh-cdn.com = server:https://dns.360.net/dns-query
 baomitu.com = server:https://dns.360.net/dns-query
 *.baomitu.com = server:https://dns.360.net/dns-query
+qiku.com = server:https://dns.360.net/dns-query
+*.qiku.com = server:https://dns.360.net/dns-query
 securelogin.com.cn = server:syslib
 *.securelogin.com.cn = server:syslib
 captive.apple.com = server:syslib

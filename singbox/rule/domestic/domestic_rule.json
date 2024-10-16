@@ -14,6 +14,7 @@
       "domain_suffix": [
         "chaoxing.cc",
         "3.cn",
+        "6.cn",
         "t.cn",
         "22.cn",
         "sm.cn",
@@ -30,6 +31,7 @@
         "gov.cn",
         "itc.cn",
         "nmc.cn",
+        "org.cn",
         "php.cn",
         "url.cn",
         "wps.cn",
@@ -79,6 +81,7 @@
         "mifile.cn",
         "mybank.cn",
         "neixin.cn",
+        "pplive.cn",
         "qqmail.cn",
         "roblox.cn",
         "sinajs.cn",
@@ -139,6 +142,7 @@
         "oppoer.me",
         "acg.tv",
         "b23.tv",
+        "fun.tv",
         "pps.tv",
         "douyu.tv",
         "maoyun.tv",
@@ -163,6 +167,7 @@
         "bh3.com",
         "ccb.com",
         "id6.com",
+        "ku6.com",
         "qcc.com",
         "vip.com",
         "ys7.com",
@@ -190,7 +195,9 @@
         "mubu.com",
         "oppo.com",
         "oray.com",
+        "pptv.com",
         "psbc.com",
+        "qiku.com",
         "qiyi.com",
         "qyer.com",
         "sina.com",
@@ -701,9 +708,6 @@
         "aliapp.org",
         "docschina.org",
         "icourse163.org",
-        "dns.pub",
-        "doh.pub",
-        "dot.pub",
         "landian.vip",
         "126.link",
         "yqkk.link",
@@ -755,8 +759,6 @@
         "ubionline.com.cn",
         "chinatelecom.com.cn",
         "assets.msn.cn",
-        "ntp.org.cn",
-        "moegirl.org.cn",
         "71.am.com",
         "steam.ksyna.com",
         "steam.clngaa.com",
@@ -766,10 +768,7 @@
         "dl.delivery.mp.microsoft.com"
       ],
       "domain_keyword": [],
-      "process_name": [
-        "WeChat",
-        "WeCom"
-      ],
+      "process_name": [],
       "domain_regex": []
     }
   ]
