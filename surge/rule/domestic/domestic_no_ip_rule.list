@@ -1,9 +1,12 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-16T06:30:08.297Z
+# Last Updated: 2024-10-16T09:23:36.797Z
 # Size: 764
 # 
 #########################################
+DOMAIN,url.cn
+DOMAIN,acg.tv
+DOMAIN,b23.tv
 DOMAIN,www.intel.cn
 DOMAIN,lv.queniujq.cn
 DOMAIN,dl.ubnt.com
@@ -32,7 +35,6 @@ DOMAIN-SUFFIX,itc.cn
 DOMAIN-SUFFIX,nmc.cn
 DOMAIN-SUFFIX,org.cn
 DOMAIN-SUFFIX,php.cn
-DOMAIN-SUFFIX,url.cn
 DOMAIN-SUFFIX,wps.cn
 DOMAIN-SUFFIX,2144.cn
 DOMAIN-SUFFIX,cctv.cn
@@ -139,8 +141,6 @@ DOMAIN-SUFFIX,id6.me
 DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,coding.me
 DOMAIN-SUFFIX,oppoer.me
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,b23.tv
 DOMAIN-SUFFIX,fun.tv
 DOMAIN-SUFFIX,pps.tv
 DOMAIN-SUFFIX,douyu.tv
@@ -441,7 +441,6 @@ DOMAIN-SUFFIX,myzaker.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,oppopay.com
 DOMAIN-SUFFIX,orayimg.com
-DOMAIN-SUFFIX,qhimgs?.com
 DOMAIN-SUFFIX,qihucdn.com
 DOMAIN-SUFFIX,qingcdn.com
 DOMAIN-SUFFIX,qiyipic.com
@@ -765,6 +764,7 @@ DOMAIN-SUFFIX,dl.eccdnx.com
 DOMAIN-SUFFIX,dl.pinyuncloud.com
 DOMAIN-SUFFIX,dl.bscstorage.net
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-WILDCARD,*.qhimgs?.com
 USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap

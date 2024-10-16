@@ -3,6 +3,9 @@
   "rules": [
     {
       "domain": [
+        "url.cn",
+        "acg.tv",
+        "b23.tv",
         "www.intel.cn",
         "lv.queniujq.cn",
         "dl.ubnt.com",
@@ -33,7 +36,6 @@
         "nmc.cn",
         "org.cn",
         "php.cn",
-        "url.cn",
         "wps.cn",
         "2144.cn",
         "cctv.cn",
@@ -140,8 +142,6 @@
         "qbox.me",
         "coding.me",
         "oppoer.me",
-        "acg.tv",
-        "b23.tv",
         "fun.tv",
         "pps.tv",
         "douyu.tv",
@@ -442,7 +442,6 @@
         "netease.com",
         "oppopay.com",
         "orayimg.com",
-        "qhimgs?.com",
         "qihucdn.com",
         "qingcdn.com",
         "qiyipic.com",
