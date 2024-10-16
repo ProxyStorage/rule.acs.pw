@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-16T09:23:36.808Z
-# Size: 188
+# Last Updated: 2024-10-16T12:42:15.127Z
+# Size: 187
 # 
 #########################################
 DOMAIN,unifi
@@ -87,7 +87,6 @@ DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,huaweimobilewifi.com
 DOMAIN-SUFFIX,blackwell-synergy.com
-DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,joyhd.net
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,pthome.net

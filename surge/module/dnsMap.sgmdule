@@ -1,5 +1,5 @@
 #!name=DNS映射
-#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-10-16T09:23:36.993Z
+#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-10-16T12:42:15.300Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -567,7 +567,6 @@ ntt.setup = server:syslib
 pi.hole = server:syslib
 *.plex.direct = server:syslib
 *.m2m = server:syslib
-*.ts.net = server:syslib
 injections.adguard.org = server:syslib
 local.adguard.org = server:syslib
 *.bogon = server:syslib
