@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-10-16T01:44:04.255Z
-# Size: 7
+# Last Updated: 2024-10-16T02:41:52.474Z
+# Size: 6
 # 
 #########################################
 DOMAIN-SUFFIX,coze.com
@@ -9,5 +9,4 @@ DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,.byteoversea.com
 DOMAIN-SUFFIX,oceanapi-i18n.com
-DOMAIN-SUFFIX,marscode.cn
 DOMAIN-SUFFIX,marscode.com
