@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-17T06:30:21.591Z
-# Size: 2483
+# Last Updated: 2024-10-17T09:23:00.761Z
+# Size: 2485
 # 
 #########################################
 rules.ac
@@ -1482,6 +1482,8 @@ c.marsflag.com
 static.mendeley.com
 api.mintlify.com
 thumbnailer.mixcloud.com
+api.mixpanel.com
+api-eu.mixpanel.com
 cdn.modrinth.com
 cdn-raw.modrinth.com
 .sny.monosnap.com
