@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-18T09:23:22.683Z
-# Size: 604
+# Last Updated: 2024-10-18T12:41:30.896Z
+# Size: 605
 # 
 #########################################
 .file.io
@@ -218,6 +218,7 @@ content6.steampowered.com
 content7.steampowered.com
 content8.steampowered.com
 content-origin.steampowered.com
+updates-cdn.bravesoftware.com
 ctldl.windowsupdate.com
 ftp.androidfilehost.com
 ava6.androidfilehost.com

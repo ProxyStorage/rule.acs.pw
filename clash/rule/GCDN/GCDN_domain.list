@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-18T09:23:22.666Z
-# Size: 2485
+# Last Updated: 2024-10-18T12:41:30.881Z
+# Size: 2491
 # 
 #########################################
 rules.ac
@@ -631,6 +631,8 @@ t2.picb.cc
 t3.picb.cc
 t4.picb.cc
 pics.vpdmm.cc
+s.gishan.cc
+fonts.gishan.cc
 cdn.arduino.cc
 content.arduino.cc
 +.aayinltcs.arduino.cc
@@ -1170,6 +1172,7 @@ static.hotjar.com
 bst.icons8.com
 img.icons8.com
 +.cdn.ifixit.com
+i.iheart.com
 code.jquery.com
 cdn.kinsta.com
 assets.kraken.com
@@ -1582,6 +1585,7 @@ snyk-widget.herokuapp.com
 freeshippingbar.herokuapp.com
 v.hillwaver.com
 static.incapsula.com
+platform.instagram.com
 cdn.jetphotos.com
 images.macrumors.com
 polyfill.mailchimp.com
@@ -2407,6 +2411,8 @@ content.product.glitch.com
 +.crashlytics2.l.google.com
 static.corp.google.com
 +.ogads-pa.clients6.google.com
+web-static.pages.iheart.com
+static.inferno.iheart.com
 prego-cache.prod.sketch.com
 resources-cache.prod.sketch.com
 image.ship.vercel.com
