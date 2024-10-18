@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-18T06:30:14.672Z
+# Last Updated: 2024-10-18T09:23:22.666Z
 # Size: 41
 # 
 #########################################
@@ -37,11 +37,11 @@ DOMAIN-WILDCARD,vip-videoprem*-thumbnail?.fc2.com
 DOMAIN-WILDCARD,blog-imgs-??.2nt.com
 DOMAIN-WILDCARD,blog-imgs-??.fc2.com
 DOMAIN-WILDCARD,rr?---??.ouo.si
-DOMAIN-WILDCARD,ffzy-online?.com
-DOMAIN-WILDCARD,ffzy-play?.com
-DOMAIN-WILDCARD,kuaikan-cdn?.com
-DOMAIN-WILDCARD,lz-cdn?.com
-DOMAIN-WILDCARD,lz-cdn??.com
-DOMAIN-WILDCARD,fsvod?.com
+DOMAIN-WILDCARD,*.ffzy-online?.com
+DOMAIN-WILDCARD,*.ffzy-play?.com
+DOMAIN-WILDCARD,*.kuaikan-cdn?.com
+DOMAIN-WILDCARD,*.lz-cdn?.com
+DOMAIN-WILDCARD,*.lz-cdn??.com
+DOMAIN-WILDCARD,*.fsvod?.com
 URL-REGEX,^http://www\.microsoft\.com/pki/
 URL-REGEX,^http://www\.microsoft\.com/pkiops/
