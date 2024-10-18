@@ -1,5 +1,5 @@
 #!name==Github Host 映射
-#!desc=来源于：https://github.com/521xueweihan/GitHub520 update:2024-10-18T12:41:31.312Z
+#!desc=来源于：https://github.com/521xueweihan/GitHub520 update:2024-10-18T15:22:42.910Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -9,15 +9,15 @@
 [Host]
 alive.github.com = 140.82.114.25
 api.github.com = 140.82.113.5
-assets-cdn.github.com = 185.199.109.153
+assets-cdn.github.com = 185.199.110.153
 avatars.githubusercontent.com = 185.199.111.133
-avatars0.githubusercontent.com = 185.199.111.133
+avatars0.githubusercontent.com = 185.199.108.133
 avatars1.githubusercontent.com = 185.199.108.133
-avatars2.githubusercontent.com = 185.199.108.133
-avatars3.githubusercontent.com = 185.199.108.133
+avatars2.githubusercontent.com = 185.199.111.133
+avatars3.githubusercontent.com = 185.199.111.133
 avatars4.githubusercontent.com = 185.199.111.133
 avatars5.githubusercontent.com = 185.199.111.133
-camo.githubusercontent.com = 185.199.111.133
+camo.githubusercontent.com = 185.199.108.133
 central.github.com = 140.82.114.21
 cloud.githubusercontent.com = 185.199.111.133
 codeload.github.com = 140.82.114.10
@@ -25,10 +25,10 @@ collector.github.com = 140.82.114.21
 desktop.githubusercontent.com = 185.199.111.133
 favicons.githubusercontent.com = 185.199.111.133
 gist.github.com = 140.82.114.3
-github-cloud.s3.amazonaws.com = 3.5.29.56
-github-com.s3.amazonaws.com = 54.231.168.153
-github-production-release-asset-2e65be.s3.amazonaws.com = 52.217.138.129
-github-production-repository-file-5c1aeb.s3.amazonaws.com = 52.217.191.25
+github-cloud.s3.amazonaws.com = 54.231.193.113
+github-com.s3.amazonaws.com = 52.216.244.220
+github-production-release-asset-2e65be.s3.amazonaws.com = 16.182.32.113
+github-production-repository-file-5c1aeb.s3.amazonaws.com = 3.5.7.101
 github-production-user-asset-6210df.s3.amazonaws.com = 16.182.74.233
 github.blog = 192.0.66.2
 github.com = 140.82.114.4
@@ -40,9 +40,10 @@ github.map.fastly.net = 185.199.111.133
 githubstatus.com = 185.199.109.153
 live.github.com = 140.82.114.25
 media.githubusercontent.com = 185.199.111.133
-objects.githubusercontent.com = 185.199.111.133
+objects.githubusercontent.com = 185.199.108.133
 pipelines.actions.githubusercontent.com = 13.107.42.16
-raw.githubusercontent.com = 185.199.111.133
+raw.githubusercontent.com = 185.199.108.133
 user-images.githubusercontent.com = 185.199.111.133
+vscode.dev = 13.107.246.51
 education.github.com = 140.82.112.22
 private-user-images.githubusercontent.com = 185.199.111.133

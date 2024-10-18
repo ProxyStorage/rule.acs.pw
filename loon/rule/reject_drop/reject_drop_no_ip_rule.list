@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-18T12:41:30.542Z
-# Size: 41
+# Last Updated: 2024-10-18T15:22:42.163Z
+# Size: 46
 # 
 #########################################
 DOMAIN,daisydiskapp.com
@@ -16,11 +16,15 @@ DOMAIN,httpdns-api.aliyuncs.com
 DOMAIN,httpdns.baidubce.com
 DOMAIN,httpdns.bilivideo.com
 DOMAIN,httpdns.yunxindns.com
+DOMAIN,httpdns-push.heytapmobile.com
+DOMAIN,httpdns-ocloud.heytapmobile.com
+DOMAIN,httpdns-euex-push.heytapmobile.com
 DOMAIN,httpdns.volcengineapi.com
 DOMAIN,dns.weixin.qq.com
 DOMAIN,httpdns.music.163.com
 DOMAIN,httpdns.c.cdnhwc2.com
 DOMAIN,httpdns.n.netease.com
+DOMAIN,httpdns.push.heytapmobi.com
 DOMAIN,httpdns.push.oppomobile.com
 DOMAIN,dns.weixin.qq.com.cn
 DOMAIN,music.httpdns.c.163.com
@@ -28,6 +32,7 @@ DOMAIN,lofter.httpdns.c.163.com
 DOMAIN-SUFFIX,null
 DOMAIN-SUFFIX,undefined
 DOMAIN-SUFFIX,geo2.adobe.com
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
 DOMAIN-SUFFIX,parallels.cn
 DOMAIN-SUFFIX,parallels.de
 DOMAIN-SUFFIX,parallels.es

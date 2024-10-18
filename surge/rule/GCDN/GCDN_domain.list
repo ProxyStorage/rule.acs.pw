@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-18T12:41:30.879Z
-# Size: 2491
+# Last Updated: 2024-10-18T15:22:42.492Z
+# Size: 2493
 # 
 #########################################
 rules.ac
@@ -639,6 +639,7 @@ content.arduino.cc
 registry.npmjs.cf
 .ipfs.xoqq.ch
 static.infomaniak.ch
+.applicationinsights.azure.cn
 i.ibb.co
 image.ibb.co
 s.w-x.co
@@ -1042,6 +1043,7 @@ public-cdn.bblmw.com
 images.bfmtv.com
 tags.bkrtx.com
 assets.bnidx.com
+safebrowsing.brave.com
 designsystem.brevo.com
 cdn.cameo.com
 ajax.cdnjs.com
