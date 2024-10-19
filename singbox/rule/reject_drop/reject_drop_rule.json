@@ -8,6 +8,7 @@
         "dns.jd.com",
         "httpdns.baidu.com",
         "httpsdns.baidu.com",
+        "httpdns.alicdn.com",
         "httpdns.meituan.com",
         "httpdnsvip.meituan.com",
         "httpdns-sc.aliyuncs.com",
@@ -22,12 +23,9 @@
         "dns.weixin.qq.com",
         "httpdns.music.163.com",
         "httpdns.c.cdnhwc2.com",
-        "httpdns.n.netease.com",
         "httpdns.push.heytapmobi.com",
         "httpdns.push.oppomobile.com",
-        "dns.weixin.qq.com.cn",
-        "music.httpdns.c.163.com",
-        "lofter.httpdns.c.163.com"
+        "dns.weixin.qq.com.cn"
       ],
       "domain_suffix": [
         "null",
@@ -48,6 +46,8 @@
         "parallelskorea.com",
         "httpdns.pro",
         "genuine.autodesk.com",
+        "httpdns.c.163.com",
+        "httpdns.n.netease.com",
         "parallels.com.cdn.cloudflare.net"
       ],
       "domain_keyword": [

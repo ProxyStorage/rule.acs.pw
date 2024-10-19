@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-10-19T06:28:07.800Z
+# Last Updated: 2024-10-19T09:20:16.145Z
 # Size: 45
 # 
 #########################################
@@ -9,6 +9,7 @@ DOMAIN,dns.weibo.cn
 DOMAIN,dns.jd.com
 DOMAIN,httpdns.baidu.com
 DOMAIN,httpsdns.baidu.com
+DOMAIN,httpdns.alicdn.com
 DOMAIN,httpdns.meituan.com
 DOMAIN,httpdnsvip.meituan.com
 DOMAIN,httpdns-sc.aliyuncs.com
@@ -23,12 +24,9 @@ DOMAIN,httpdns.volcengineapi.com
 DOMAIN,dns.weixin.qq.com
 DOMAIN,httpdns.music.163.com
 DOMAIN,httpdns.c.cdnhwc2.com
-DOMAIN,httpdns.n.netease.com
 DOMAIN,httpdns.push.heytapmobi.com
 DOMAIN,httpdns.push.oppomobile.com
 DOMAIN,dns.weixin.qq.com.cn
-DOMAIN,music.httpdns.c.163.com
-DOMAIN,lofter.httpdns.c.163.com
 DOMAIN-SUFFIX,null
 DOMAIN-SUFFIX,undefined
 DOMAIN-SUFFIX,geo2.adobe.com
@@ -47,5 +45,7 @@ DOMAIN-SUFFIX,myparallels.com
 DOMAIN-SUFFIX,parallelskorea.com
 DOMAIN-SUFFIX,httpdns.pro
 DOMAIN-SUFFIX,genuine.autodesk.com
+DOMAIN-SUFFIX,httpdns.c.163.com
+DOMAIN-SUFFIX,httpdns.n.netease.com
 DOMAIN-SUFFIX,parallels.com.cdn.cloudflare.net
 DOMAIN-KEYWORD,bahoom
