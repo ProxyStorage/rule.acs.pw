@@ -1,12 +1,15 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-19T15:20:26.694Z
-# Size: 764
+# Last Updated: 2024-10-19T18:26:55.248Z
+# Size: 767
 # 
 #########################################
 DOMAIN,url.cn
 DOMAIN,acg.tv
 DOMAIN,b23.tv
+DOMAIN,dns.pub
+DOMAIN,doh.pub
+DOMAIN,dot.pub
 DOMAIN,www.intel.cn
 DOMAIN,lv.queniujq.cn
 DOMAIN,dl.ubnt.com

@@ -1,12 +1,11 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-10-19T15:20:26.704Z
-# Size: 186
+# Last Updated: 2024-10-19T18:26:55.257Z
+# Size: 184
 # 
 #########################################
 DOMAIN,unifi
 DOMAIN,aterm.me
-DOMAIN,router.com
 DOMAIN,homerouter.cpe
 DOMAIN,pi.hole
 DOMAIN,ntt.setup
@@ -81,7 +80,6 @@ DOMAIN-SUFFIX,leaguehd.com
 DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,nanyangpt.com
-DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,asusrouter.com
 DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,springernature.com
