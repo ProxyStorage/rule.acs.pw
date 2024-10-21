@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-20T15:21:32.903Z
-# Size: 767
+# Last Updated: 2024-10-21T03:32:54.900Z
+# Size: 774
 # 
 #########################################
 DOMAIN,url.cn
@@ -12,6 +12,8 @@ DOMAIN,doh.pub
 DOMAIN,dot.pub
 DOMAIN,www.intel.cn
 DOMAIN,lv.queniujq.cn
+DOMAIN,assets1.xboxlive.cn
+DOMAIN,assets2.xboxlive.cn
 DOMAIN,dl.ubnt.com
 DOMAIN,config.ubnt.com
 DOMAIN,www.layuicdn.com
@@ -103,6 +105,7 @@ DOMAIN-SUFFIX,oneplus.cn
 DOMAIN-SUFFIX,outlook.cn
 DOMAIN-SUFFIX,rsproxy.cn
 DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,soulapp.cn
 DOMAIN-SUFFIX,tripcdn.cn
 DOMAIN-SUFFIX,51ctocdn.cn
 DOMAIN-SUFFIX,bilibili.cn
@@ -278,6 +281,7 @@ DOMAIN-SUFFIX,tvzhe.com
 DOMAIN-SUFFIX,upyun.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,wifi8.com
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiniu.com
 DOMAIN-SUFFIX,xmcdn.com
@@ -456,8 +460,10 @@ DOMAIN-SUFFIX,tbcache.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tnkjmec.com
 DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,udqqimg.com
 DOMAIN-SUFFIX,volccdn.com
 DOMAIN-SUFFIX,weidian.com
+DOMAIN-SUFFIX,xoyocdn.com
 DOMAIN-SUFFIX,xycloud.com
 DOMAIN-SUFFIX,zhangzs.com
 DOMAIN-SUFFIX,163jiasu.com
@@ -696,6 +702,7 @@ DOMAIN-SUFFIX,bilivideo.net
 DOMAIN-SUFFIX,netstatic.net
 DOMAIN-SUFFIX,pinduoduo.net
 DOMAIN-SUFFIX,aliyundrive.net
+DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 DOMAIN-SUFFIX,coolapkmarket.net
 DOMAIN-SUFFIX,tencent-cloud.net

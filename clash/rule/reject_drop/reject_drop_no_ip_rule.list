@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-10-20T15:21:32.606Z
-# Size: 45
+# Last Updated: 2024-10-21T03:32:54.603Z
+# Size: 74
 # 
 #########################################
 DOMAIN,daisydiskapp.com
@@ -17,13 +17,18 @@ DOMAIN,httpdns-api.aliyuncs.com
 DOMAIN,httpdns.baidubce.com
 DOMAIN,httpdns.bilivideo.com
 DOMAIN,httpdns.yunxindns.com
+DOMAIN,hd.xiaojukeji.com
 DOMAIN,httpdns-push.heytapmobile.com
 DOMAIN,httpdns-ocloud.heytapmobile.com
 DOMAIN,httpdns-euex-push.heytapmobile.com
 DOMAIN,httpdns.volcengineapi.com
 DOMAIN,dns.weixin.qq.com
+DOMAIN,httpdns-v6.gslb.yy.com
+DOMAIN,union-httpdns.gslb.yy.com
+DOMAIN,yyapp-httpdns.gslb.yy.com
 DOMAIN,httpdns.music.163.com
 DOMAIN,httpdns.c.cdnhwc2.com
+DOMAIN,httpdns-sdk.n.netease.com
 DOMAIN,httpdns.push.heytapmobi.com
 DOMAIN,httpdns.push.oppomobile.com
 DOMAIN,dns.weixin.qq.com.cn
@@ -40,11 +45,35 @@ DOMAIN-SUFFIX,adobestats.io
 DOMAIN-SUFFIX,parallels.nl
 DOMAIN-SUFFIX,parallels.pt
 DOMAIN-SUFFIX,parallels.ru
+DOMAIN-SUFFIX,uhabo.com
+DOMAIN-SUFFIX,xycdn.com
+DOMAIN-SUFFIX,szbdyd.com
+DOMAIN-SUFFIX,saxysec.com
+DOMAIN-SUFFIX,kuiniuca.com
+DOMAIN-SUFFIX,pkoplink.com
 DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,myparallels.com
+DOMAIN-SUFFIX,onethingpcs.com
 DOMAIN-SUFFIX,parallelskorea.com
 DOMAIN-SUFFIX,httpdns.pro
+DOMAIN-SUFFIX,p2plog.douyucdn.cn
+DOMAIN-SUFFIX,p2p-ali.douyucdn.cn
+DOMAIN-SUFFIX,dyp2p-hw.douyucdn.cn
+DOMAIN-SUFFIX,dyp2p-ali.douyucdn.cn
+DOMAIN-SUFFIX,p2pvod-ws.douyucdn.cn
+DOMAIN-SUFFIX,p2plive-ws.douyucdn.cn
+DOMAIN-SUFFIX,p2pchunk-hw.douyucdn.cn
+DOMAIN-SUFFIX,p2pchunk-ws.douyucdn.cn
+DOMAIN-SUFFIX,p2perrorlog.douyucdn.cn
+DOMAIN-SUFFIX,p2plive-ali.douyucdn.cn
+DOMAIN-SUFFIX,p2pchunk-table.douyucdn.cn
+DOMAIN-SUFFIX,p2p.qq.com
+DOMAIN-SUFFIX,p2ptun.qq.com
+DOMAIN-SUFFIX,p2p.huya.com
+DOMAIN-SUFFIX,pcdn.yximgs.com
 DOMAIN-SUFFIX,genuine.autodesk.com
+DOMAIN-SUFFIX,p2pupdate.gamedl.qq.com
+DOMAIN-SUFFIX,p2pupgrade.gamedl.qq.com
 DOMAIN-SUFFIX,httpdns.c.163.com
 DOMAIN-SUFFIX,httpdns.n.netease.com
 DOMAIN-SUFFIX,parallels.com.cdn.cloudflare.net

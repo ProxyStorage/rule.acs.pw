@@ -1,5 +1,5 @@
 #!name=DNS映射
-#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-10-20T15:21:33.082Z
+#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-10-21T03:32:55.084Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -348,6 +348,7 @@ hellobike.com = server:quic://dns.alidns.com:853
 *.gtimg.com = server:https://doh.pub/dns-query
 *.gtimg.com.cn = server:https://doh.pub/dns-query
 *.gdtimg.com = server:https://doh.pub/dns-query
+*.udqqimg.com = server:https://doh.pub/dns-query
 igamecj.com = server:https://doh.pub/dns-query
 *.igamecj.com = server:https://doh.pub/dns-query
 myapp.com = server:https://doh.pub/dns-query
