@@ -1,37 +1,10 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-21T06:31:44.177Z
-# Size: 75
+# Last Updated: 2024-10-22T02:25:50.100Z
+# Size: 45
 # 
 #########################################
 DOMAIN,daisydiskapp.com
-DOMAIN,dns.weibo.cn
-DOMAIN,dns.jd.com
-DOMAIN,httpdns.baidu.com
-DOMAIN,httpsdns.baidu.com
-DOMAIN,httpdns.alicdn.com
-DOMAIN,httpdns.meituan.com
-DOMAIN,httpdnsvip.meituan.com
-DOMAIN,httpdns-sc.aliyuncs.com
-DOMAIN,httpdns-api.aliyuncs.com
-DOMAIN,httpdns.baidubce.com
-DOMAIN,httpdns.bilivideo.com
-DOMAIN,httpdns.yunxindns.com
-DOMAIN,hd.xiaojukeji.com
-DOMAIN,httpdns-push.heytapmobile.com
-DOMAIN,httpdns-ocloud.heytapmobile.com
-DOMAIN,httpdns-euex-push.heytapmobile.com
-DOMAIN,httpdns.volcengineapi.com
-DOMAIN,dns.weixin.qq.com
-DOMAIN,httpdns-v6.gslb.yy.com
-DOMAIN,union-httpdns.gslb.yy.com
-DOMAIN,yyapp-httpdns.gslb.yy.com
-DOMAIN,httpdns.music.163.com
-DOMAIN,httpdns.c.cdnhwc2.com
-DOMAIN,httpdns-sdk.n.netease.com
-DOMAIN,httpdns.push.heytapmobi.com
-DOMAIN,httpdns.push.oppomobile.com
-DOMAIN,dns.weixin.qq.com.cn
 DOMAIN-SUFFIX,null
 DOMAIN-SUFFIX,undefined
 DOMAIN-SUFFIX,geo2.adobe.com
@@ -55,7 +28,6 @@ DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,myparallels.com
 DOMAIN-SUFFIX,onethingpcs.com
 DOMAIN-SUFFIX,parallelskorea.com
-DOMAIN-SUFFIX,httpdns.pro
 DOMAIN-SUFFIX,p2plog.douyucdn.cn
 DOMAIN-SUFFIX,p2p-ali.douyucdn.cn
 DOMAIN-SUFFIX,dyp2p-hw.douyucdn.cn
@@ -74,8 +46,6 @@ DOMAIN-SUFFIX,pcdn.yximgs.com
 DOMAIN-SUFFIX,genuine.autodesk.com
 DOMAIN-SUFFIX,p2pupdate.gamedl.qq.com
 DOMAIN-SUFFIX,p2pupgrade.gamedl.qq.com
-DOMAIN-SUFFIX,httpdns.c.163.com
-DOMAIN-SUFFIX,httpdns.n.netease.com
 DOMAIN-SUFFIX,parallels.com.cdn.cloudflare.net
 DOMAIN-KEYWORD,bahoom
 AND,((DOMAIN-KEYWORD,genuine), (DOMAIN-KEYWORD,autodesk))
