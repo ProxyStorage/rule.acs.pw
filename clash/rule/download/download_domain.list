@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-23T15:23:18.166Z
-# Size: 611
+# Last Updated: 2024-10-23T18:28:53.107Z
+# Size: 612
 # 
 #########################################
 +.file.io
@@ -302,6 +302,7 @@ nobara-images.nobaraproject.org
 get.pixelexperience.org
 download.pixelexperience.org
 +.copr.fedorainfracloud.org
+mirror.apad.pro
 boot.netboot.xyz
 +.repo.jing.rocks
 mirror.xtom.com.hk

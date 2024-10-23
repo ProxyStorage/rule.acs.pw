@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-10-23T15:23:18.124Z
-# Size: 730
+# Last Updated: 2024-10-23T18:28:53.063Z
+# Size: 729
 # 
 #########################################
 DOMAIN,url.cn
@@ -314,7 +314,6 @@ DOMAIN-SUFFIX,chuimg.com
 DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,ctfile.com
 DOMAIN-SUFFIX,dnspod.com
-DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,dpfile.com
 DOMAIN-SUFFIX,duokan.com

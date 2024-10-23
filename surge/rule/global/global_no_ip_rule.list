@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-23T15:23:18.135Z
-# Size: 642
+# Last Updated: 2024-10-23T18:28:53.074Z
+# Size: 647
 # 
 #########################################
 DOMAIN,pki.goog
@@ -10,6 +10,7 @@ DOMAIN,ccmdl.adobe.com
 DOMAIN,ees.elsevier.com
 DOMAIN,media.steampowered.com
 DOMAIN,store.ui.com.cn
+DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,character.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,linkedin.at
@@ -70,6 +71,7 @@ DOMAIN-SUFFIX,libgen.is
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,pin.it
 DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,buyee.jp
 DOMAIN-SUFFIX,blogimg.jp
 DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,twitter.jp
@@ -261,6 +263,7 @@ DOMAIN-SUFFIX,tineye.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,adguard.com
@@ -490,6 +493,7 @@ DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,dynu.net
+DOMAIN-SUFFIX,sony.net
 DOMAIN-SUFFIX,whrq.net
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,fbcdn.net
@@ -539,6 +543,7 @@ DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,rfa.org
+DOMAIN-SUFFIX,4chan.org
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,scpdb.org
