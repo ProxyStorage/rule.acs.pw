@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-24T15:22:12.305Z
-# Size: 2515
+# Last Updated: 2024-10-24T18:29:15.879Z
+# Size: 2516
 # 
 #########################################
 rules.ac
@@ -1808,6 +1808,7 @@ media.gettyimages.com
 static.gettyimages.com
 media.graphassets.com
 media.istockphoto.com
+settings.kiwibrowser.com
 cdn.linearicons.com
 cdn.livechatinc.com
 assets0.lottiefiles.com
