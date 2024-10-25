@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-24T21:20:15.678Z
-# Size: 170
+# Last Updated: 2024-10-25T01:43:39.233Z
+# Size: 171
 # 
 #########################################
 +.xp.apple.com
@@ -55,6 +55,7 @@
 +.weather-data.apple.com
 +.weather-map2.apple.com
 +.configuration.apple.com
++.devimages-cdn.apple.com
 +.itunesconnect.apple.com
 +.reserve-prime.apple.com
 +.devstreaming-cdn.apple.com

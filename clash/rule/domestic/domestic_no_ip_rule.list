@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-10-24T21:20:15.642Z
-# Size: 729
+# Last Updated: 2024-10-25T01:43:39.197Z
+# Size: 731
 # 
 #########################################
 DOMAIN,url.cn
@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,wps.cn
 DOMAIN-SUFFIX,2144.cn
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,cntv.cn
+DOMAIN-SUFFIX,didi.cn
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,neea.cn
@@ -225,6 +226,7 @@ DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,bdatu.com
 DOMAIN-SUFFIX,bdimg.com
+DOMAIN-SUFFIX,ccrgt.com
 DOMAIN-SUFFIX,china.com
 DOMAIN-SUFFIX,cowcs.com
 DOMAIN-SUFFIX,ctrip.com
