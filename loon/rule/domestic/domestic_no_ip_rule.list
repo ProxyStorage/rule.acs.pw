@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-26T09:20:28.795Z
-# Size: 739
+# Last Updated: 2024-10-26T12:38:53.804Z
+# Size: 740
 # 
 #########################################
 DOMAIN,url.cn
@@ -722,6 +722,7 @@ DOMAIN-SUFFIX,8866.org
 DOMAIN-SUFFIX,9966.org
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,docschina.org
+DOMAIN-SUFFIX,miot-spec.org
 DOMAIN-SUFFIX,icourse163.org
 DOMAIN-SUFFIX,landian.vip
 DOMAIN-SUFFIX,126.link

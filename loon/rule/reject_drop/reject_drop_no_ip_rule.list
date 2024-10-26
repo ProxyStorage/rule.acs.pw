@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-26T09:20:28.468Z
-# Size: 45
+# Last Updated: 2024-10-26T12:38:53.503Z
+# Size: 44
 # 
 #########################################
 DOMAIN,daisydiskapp.com
@@ -24,7 +24,6 @@ DOMAIN-SUFFIX,szbdyd.com
 DOMAIN-SUFFIX,saxysec.com
 DOMAIN-SUFFIX,kuiniuca.com
 DOMAIN-SUFFIX,pkoplink.com
-DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,myparallels.com
 DOMAIN-SUFFIX,onethingpcs.com
 DOMAIN-SUFFIX,parallelskorea.com
@@ -44,8 +43,8 @@ DOMAIN-SUFFIX,p2ptun.qq.com
 DOMAIN-SUFFIX,p2p.huya.com
 DOMAIN-SUFFIX,pcdn.yximgs.com
 DOMAIN-SUFFIX,genuine.autodesk.com
+DOMAIN-SUFFIX,my.parallels.com
 DOMAIN-SUFFIX,p2pupdate.gamedl.qq.com
 DOMAIN-SUFFIX,p2pupgrade.gamedl.qq.com
-DOMAIN-SUFFIX,parallels.com.cdn.cloudflare.net
 DOMAIN-KEYWORD,bahoom
 AND,((DOMAIN-KEYWORD,genuine), (DOMAIN-KEYWORD,autodesk))

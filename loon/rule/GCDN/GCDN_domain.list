@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-26T09:20:28.825Z
-# Size: 2530
+# Last Updated: 2024-10-26T12:38:53.834Z
+# Size: 2531
 # 
 #########################################
 rules.ac
@@ -946,6 +946,7 @@ cdn.donmai.us
 cdn.rive.app
 static.linear.app
 .cms-cdn.linear.app
+pic.macked.app
 videos.elephas.app
 cdn.langshop.app
 weather.istatmenus.app
