@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-26T06:28:30.030Z
-# Size: 735
+# Last Updated: 2024-10-26T09:20:28.795Z
+# Size: 739
 # 
 #########################################
 DOMAIN,url.cn
@@ -17,6 +17,7 @@ DOMAIN,assets2.xboxlive.cn
 DOMAIN,dl.ubnt.com
 DOMAIN,config.ubnt.com
 DOMAIN,www.layuicdn.com
+DOMAIN,cdnstatic.tencentcs.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,gstore.val.manlaxy.com
 DOMAIN-SUFFIX,chaoxing.cc
@@ -138,6 +139,7 @@ DOMAIN-SUFFIX,douban.fm
 DOMAIN-SUFFIX,jd.hk
 DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,netease.im
+DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,jianshu.io
 DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,openinstall.io
@@ -462,6 +464,7 @@ DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tnkjmec.com
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,udqqimg.com
+DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,volccdn.com
 DOMAIN-SUFFIX,weidian.com
 DOMAIN-SUFFIX,xoyocdn.com
@@ -668,6 +671,7 @@ DOMAIN-SUFFIX,263.net
 DOMAIN-SUFFIX,360.net
 DOMAIN-SUFFIX,3322.net
 DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,cz88.net
 DOMAIN-SUFFIX,duba.net
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,jb51.net
