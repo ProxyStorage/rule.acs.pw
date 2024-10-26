@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-26T12:38:53.834Z
-# Size: 2531
+# Last Updated: 2024-10-26T15:20:22.151Z
+# Size: 2532
 # 
 #########################################
 rules.ac
@@ -2033,6 +2033,7 @@ npm.antfu.dev
 fonts.upset.dev
 plugins.dprint.dev
 fiddle.fastly.dev
+assets.github.dev
 packages.termux.dev
 packages-cf.termux.dev
 .mirrors.utermux.dev
