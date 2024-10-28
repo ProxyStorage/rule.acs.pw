@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-28T09:24:24.269Z
-# Size: 741
+# Last Updated: 2024-10-28T12:44:10.960Z
+# Size: 742
 # 
 #########################################
 DOMAIN,url.cn
@@ -562,6 +562,7 @@ DOMAIN-SUFFIX,feishupkg.com
 DOMAIN-SUFFIX,freshhema.com
 DOMAIN-SUFFIX,hellobike.com
 DOMAIN-SUFFIX,ibuscloud.com
+DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,iesdouyin.com
 DOMAIN-SUFFIX,kaiyanapp.com
 DOMAIN-SUFFIX,livechina.com
