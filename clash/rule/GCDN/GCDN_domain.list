@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-29T18:29:49.186Z
-# Size: 2541
+# Last Updated: 2024-10-29T21:20:31.486Z
+# Size: 2544
 # 
 #########################################
 rules.ac
@@ -216,6 +216,7 @@ app-spm.com
 +.githack.com
 +.hardbin.com
 +.ignimgs.com
++.imgikzy.com
 +.imgyzzy.com
 +.kym-cdn.com
 +.lzzyimg.com
@@ -321,6 +322,7 @@ cdn-sellix.com
 +.dummyimage.com
 +.ebaystatic.com
 +.hs-scripts.com
++.imgikuncdn.com
 +.liangzipic.com
 +.media-imdb.com
 +.myfilebase.com
@@ -907,6 +909,7 @@ s3.dzeninfra.ru
 static.dzeninfra.ru
 avatars.dzeninfra.ru
 +.ipfs.best-practice.se
+flo.uri.sh
 proxy.cors.sh
 static.scarf.sh
 binaries.prisma.sh

@@ -1,5 +1,5 @@
 #!name=DNS映射
-#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-10-29T18:29:49.359Z
+#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-10-29T21:20:31.649Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -362,7 +362,6 @@ tencentmusic.com = server:https://doh.pub/dns-query
 *.tencentmusic.com = server:https://doh.pub/dns-query
 weixinbridge.com = server:https://doh.pub/dns-query
 weixin.com = server:https://doh.pub/dns-query
-wechat.com = server:https://doh.pub/dns-query
 weiyun.com = server:https://doh.pub/dns-query
 soso.com = server:https://doh.pub/dns-query
 *.soso.com = server:https://doh.pub/dns-query
