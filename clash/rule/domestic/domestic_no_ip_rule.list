@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-10-29T12:43:14.080Z
-# Size: 738
+# Last Updated: 2024-10-29T15:24:05.725Z
+# Size: 739
 # 
 #########################################
 DOMAIN,url.cn
@@ -628,6 +628,7 @@ DOMAIN-SUFFIX,jcloudcache.com
 DOMAIN-SUFFIX,laiqukankan.com
 DOMAIN-SUFFIX,landiannews.com
 DOMAIN-SUFFIX,leetcode-cn.com
+DOMAIN-SUFFIX,oceanengine.com
 DOMAIN-SUFFIX,taopiaopiao.com
 DOMAIN-SUFFIX,toutiaopage.com
 DOMAIN-SUFFIX,xiaoaisound.com

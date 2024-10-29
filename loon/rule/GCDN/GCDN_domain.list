@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-29T12:43:14.116Z
-# Size: 2538
+# Last Updated: 2024-10-29T15:24:05.760Z
+# Size: 2541
 # 
 #########################################
 rules.ac
@@ -848,6 +848,7 @@ r.r10s.jp
 ias.r10s.jp
 .media.ci-en.jp
 static.tenki.jp
+img.atwiki.jp
 img.dlsite.jp
 image.gyutto.jp
 mangaz-books.j-comi.jp
@@ -949,6 +950,7 @@ st2.zoom.us
 st3.zoom.us
 cdn.donmai.us
 cdn.rive.app
+public.linear.app
 static.linear.app
 .cms-cdn.linear.app
 pic.macked.app
@@ -1491,6 +1493,7 @@ snippet.growsumo.com
 cdn.hashnode.com
 newassets.hcaptcha.com
 cdn.heysavvy.com
+cdn.hinative.com
 fastporndelivery.hqporner.com
 static-00.iconduck.com
 .cdn.imghaste.com
