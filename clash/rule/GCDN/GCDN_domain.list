@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-30T06:33:18.592Z
-# Size: 2544
+# Last Updated: 2024-10-30T09:23:24.029Z
+# Size: 2549
 # 
 #########################################
 rules.ac
@@ -409,6 +409,7 @@ yummlystatic.com
 +.dropboxstatic.com
 +.envato-static.com
 +.highwinds-cdn.com
++.mcusercontent.com
 +.mvnrepository.com
 +.notion-static.com
 +.oreillystatic.com
@@ -1550,6 +1551,8 @@ cdn.roboflow.com
 public.saasexch.com
 embed.savvycal.com
 +.cdn.signalfx.com
+cdn.skymavis.com
++.static.skymavis.com
 static.snapchat.com
 rv-assets.softonic.com
 assets.stickpng.com
@@ -1902,6 +1905,7 @@ widgets.zohosalesiq.com
 cdn.9to5terminal.com
 photos5.appleinsider.com
 +.ipfs.arching-kaos.com
+cdn.axieinfinity.com
 axiecdn.axieinfinity.com
 cdnjs.buymeacoffee.com
 cdn.clever-cloud.com
@@ -2270,6 +2274,7 @@ archive.mozilla.org
 fonts.codeberg.org
 assets.exercism.org
 image.lichess1.org
+demotiles.maplibre.org
 static.socratic.org
 useruploads.socratic.org
 static.tronscan.org
