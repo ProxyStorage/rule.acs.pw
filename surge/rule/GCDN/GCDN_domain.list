@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-10-31T12:41:59.304Z
+# Last Updated: 2024-10-31T15:23:33.222Z
 # Size: 2550
 # 
 #########################################
@@ -37,7 +37,6 @@ eep.io
 .gcr.io
 .gw3.io
 .k8s.io
-.ghcr.io
 .iili.io
 .jspm.io
 .logz.io
@@ -886,6 +885,7 @@ static.start.me
 cdn.glitch.me
 cdn.picrew.me
 cf.javfree.me
+api.crashguard.me
 .ipfs.tayfundogdas.me
 s3.acg.mn
 cdn01.jotfor.ms

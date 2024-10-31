@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-10-31T12:41:59.271Z
-# Size: 743
+# Last Updated: 2024-10-31T15:23:33.190Z
+# Size: 744
 # 
 #########################################
 DOMAIN,url.cn
@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,dxy.cn
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,itc.cn
+DOMAIN-SUFFIX,mcd.cn
 DOMAIN-SUFFIX,nmc.cn
 DOMAIN-SUFFIX,org.cn
 DOMAIN-SUFFIX,php.cn

@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-10-31T12:41:59.282Z
-# Size: 651
+# Last Updated: 2024-10-31T15:23:33.201Z
+# Size: 652
 # 
 #########################################
 DOMAIN,pki.goog
@@ -187,6 +187,7 @@ DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,bibox.com
 DOMAIN-SUFFIX,bitly.com
 DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,cisco.com
 DOMAIN-SUFFIX,cpuid.com
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,deepl.com
