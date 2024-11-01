@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-01T06:32:00.942Z
-# Size: 2550
+# Last Updated: 2024-11-01T09:22:27.984Z
+# Size: 2556
 # 
 #########################################
 rules.ac
@@ -825,6 +825,7 @@ boards.greenhouse.io
 cdn.growthbook.io
 link.storjshare.io
 proxy.beyondwords.io
+stats.codesandbox.io
 uploads.codesandbox.io
 screenshots.codesandbox.io
 prod-packager-packages.codesandbox.io
@@ -1442,6 +1443,11 @@ img.youtube.com
 web-assets.zendesk.com
 static.addtoany.com
 assets.adobedtm.com
+cdn1.airdroid.com
+cdn2.airdroid.com
+img3.airdroid.com
+img4.airdroid.com
+img6.airdroid.com
 cdn.amcharts.com
 .repo.anaconda.com
 assets.apilayer.com
