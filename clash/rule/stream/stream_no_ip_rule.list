@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-11-01T18:29:18.314Z
-# Size: 267
+# Last Updated: 2024-11-01T21:19:34.915Z
+# Size: 268
 # 
 #########################################
 DOMAIN,ocvideo.apple.com
@@ -115,6 +115,7 @@ DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,joox.com
 DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,vudu.com
 DOMAIN-SUFFIX,dnitv.com
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,kkbox.com

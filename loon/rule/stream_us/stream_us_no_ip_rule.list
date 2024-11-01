@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-01T18:29:18.316Z
-# Size: 43
+# Last Updated: 2024-11-01T21:19:34.917Z
+# Size: 44
 # 
 #########################################
 DOMAIN,bcbolt446c5271-a.akamaihd.net
@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,sho.com
 DOMAIN-SUFFIX,cbsi.com
 DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,vudu.com
 DOMAIN-SUFFIX,dnitv.com
 DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,huluim.com

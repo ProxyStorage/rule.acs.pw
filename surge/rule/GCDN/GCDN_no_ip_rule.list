@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-01T18:29:18.331Z
-# Size: 41
+# Last Updated: 2024-11-01T21:19:34.932Z
+# Size: 43
 # 
 #########################################
 DOMAIN,cdn-msp.jmcomic.me
@@ -43,5 +43,7 @@ DOMAIN-WILDCARD,*.kuaikan-cdn?.com
 DOMAIN-WILDCARD,*.lz-cdn?.com
 DOMAIN-WILDCARD,*.lz-cdn??.com
 DOMAIN-WILDCARD,*.fsvod?.com
+DOMAIN-WILDCARD,image*.cloudokyo.cloud
+DOMAIN-WILDCARD,video*.cloudokyo.cloud
 URL-REGEX,^http://www\.microsoft\.com/pki/
 URL-REGEX,^http://www\.microsoft\.com/pkiops/

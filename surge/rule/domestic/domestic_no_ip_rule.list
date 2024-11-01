@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-01T18:29:18.295Z
-# Size: 744
+# Last Updated: 2024-11-01T21:19:34.897Z
+# Size: 745
 # 
 #########################################
 DOMAIN,url.cn
@@ -18,6 +18,7 @@ DOMAIN,www.layuicdn.com
 DOMAIN,cdnstatic.tencentcs.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,gstore.val.manlaxy.com
+DOMAIN,media.cdn.queniuqe.com
 DOMAIN-SUFFIX,chaoxing.cc
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,6.cn

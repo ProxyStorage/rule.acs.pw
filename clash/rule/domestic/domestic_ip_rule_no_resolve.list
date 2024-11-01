@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's IP Rule
-# Last Updated: 2024-11-01T18:29:18.299Z
-# Size: 4200
+# Last Updated: 2024-11-01T21:19:34.900Z
+# Size: 4199
 # No Resolve
 #########################################
 IP-CIDR,140.205.1.0/24,no-resolve
@@ -2906,7 +2906,6 @@ IP-CIDR,156.232.13.0/24,no-resolve
 IP-CIDR,156.236.119.0/24,no-resolve
 IP-CIDR,156.239.0.0/20,no-resolve
 IP-CIDR,156.239.64.0/18,no-resolve
-IP-CIDR,156.239.224.0/19,no-resolve
 IP-CIDR,156.247.8.0/22,no-resolve
 IP-CIDR,156.247.12.0/23,no-resolve
 IP-CIDR,156.247.14.0/24,no-resolve
