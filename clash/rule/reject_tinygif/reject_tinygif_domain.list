@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-02T18:26:40.648Z
-# Size: 109654
+# Last Updated: 2024-11-02T21:18:58.626Z
+# Size: 109660
 # 
 #########################################
 +.say.ac
@@ -7099,6 +7099,7 @@ adcloud.jp
 +.morict.com
 +.mors22.com
 +.mosspf.com
++.mossru.com
 +.movcpm.com
 +.mpay69.com
 +.mrelko.com
@@ -44335,6 +44336,7 @@ samsungcloudsolution.net
 +.qfjsliy.top
 +.qkitery.top
 +.qnalzly.top
++.qoubliy.top
 +.qsyliey.top
 +.qtyusiy.top
 +.quresdy.top
@@ -52282,8 +52284,10 @@ nmbr.info
 +.appspeed.monster
 +.headshot.monster
 +.progaming.monster
++.webfreesave.monster
 +.opengalaxyapps.monster
 +.10skhbdhjfsdf100.monster
++.synchroparomologyauditable.monster
 +.pub.network
 +.cdn7.network
 +.admax.network
@@ -72264,7 +72268,6 @@ applog.mobike.com
 +.zozwyc.moscot.com
 +.click.moselo.com
 +.click-testing.moselo.com
-+.adx.mossru.com
 +.app.motiwy.com
 +.ercamj.motogp.com
 +.m1tm.motor1.com
@@ -73581,6 +73584,7 @@ hydra.alibaba.com
 +.goo-access-analytics.appspot.com
 +.tracker-dot-optimeeze.appspot.com
 +.leiki-doubleclick-proxy.appspot.com
++.event-dot-learning-piano.appspot.com
 +.ga-tracker-dot-detmir-bonus.appspot.com
 +.event-reporting-dot-webylytics.appspot.com
 +.tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
@@ -83872,6 +83876,8 @@ analytics3.starschina.com
 +.sitecats.troweprice.com
 +.xgspzv.troyestore.com
 +.ads-router-noneu.truecaller.com
++.ads-config-engine-noneu.truecaller.com
++.insights-categorizer-noneu.truecaller.com
 +.sstats.truist-prd.com
 +.sstats.truist-tst.com
 +.invitejs.trustpilot.com
