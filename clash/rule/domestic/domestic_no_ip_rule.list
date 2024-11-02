@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-11-02T12:39:05.617Z
-# Size: 741
+# Last Updated: 2024-11-02T15:23:44.563Z
+# Size: 742
 # 
 #########################################
 DOMAIN,url.cn
@@ -135,6 +135,7 @@ DOMAIN-SUFFIX,sharepoint.cn
 DOMAIN-SUFFIX,toutiaoimg.cn
 DOMAIN-SUFFIX,baishancdnx.cn
 DOMAIN-SUFFIX,chinaunicom.cn
+DOMAIN-SUFFIX,cnspeedtest.cn
 DOMAIN-SUFFIX,mobileservice.cn
 DOMAIN-SUFFIX,officewebapps.cn
 DOMAIN-SUFFIX,authing.co
