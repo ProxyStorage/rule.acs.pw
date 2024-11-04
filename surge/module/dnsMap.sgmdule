@@ -1,5 +1,5 @@
 #!name=DNS映射
-#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-11-04T01:45:33.784Z
+#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-11-04T03:29:56.102Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -436,7 +436,10 @@ xiaomiev.com = server:https://doh.pub/dns-query
 *.xiaomiev.com = server:https://doh.pub/dns-query
 xiaomiyoupin.com = server:https://doh.pub/dns-query
 *.xiaomiyoupin.com = server:https://doh.pub/dns-query
+bytedance.com.com = server:180.184.2.2
+*.bytedance.com.com = server:180.184.2.2
 *.bytecdn.cn = server:180.184.2.2
+*.volccdn.com = server:180.184.2.2
 *.toutiaoimg.com = server:180.184.2.2
 *.toutiaoimg.cn = server:180.184.2.2
 *.toutiaostatic.com = server:180.184.2.2
@@ -461,7 +464,6 @@ huoshanzhibo.com = server:180.184.2.2
 ixigua.com = server:180.184.2.2
 *.ixiguavideo.com = server:180.184.2.2
 *.ixgvideo.com = server:180.184.2.2
-*.volccdn.com = server:180.184.2.2
 volces.com = server:180.184.2.2
 *.volces.com = server:180.184.2.2
 baike.com = server:180.184.2.2

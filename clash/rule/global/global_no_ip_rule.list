@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-11-04T01:45:33.603Z
-# Size: 711
+# Last Updated: 2024-11-04T03:29:55.909Z
+# Size: 712
 # 
 #########################################
 DOMAIN,pki.goog
@@ -635,6 +635,7 @@ DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wireshark.org
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,greasyfork.org

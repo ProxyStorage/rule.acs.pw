@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-04T01:45:33.625Z
-# Size: 2628
+# Last Updated: 2024-11-04T03:29:55.932Z
+# Size: 2630
 # 
 #########################################
 rules.ac
@@ -637,6 +637,7 @@ turbo.build
 +.ipfs-gateway.cloud
 +.icon.horse
 +.pstorage.space
+eslint.style
 vanilla-extract.style
 +.picsum.photos
 +.static.domains
@@ -2447,6 +2448,7 @@ static.bit.cloud
 +.ipfs.tubby.cloud
 +.gateway.pinata.cloud
 resources-live.sketch.cloud
++.cloud-object-storage.appdomain.cloud
 media.cleanshot.cloud
 assets.buttondown.email
 +.ipfs.telos.miami

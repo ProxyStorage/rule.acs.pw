@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-04T01:45:33.594Z
-# Size: 748
+# Last Updated: 2024-11-04T03:29:55.898Z
+# Size: 749
 # 
 #########################################
 DOMAIN,url.cn
@@ -742,6 +742,7 @@ DOMAIN-SUFFIX,mijia.tech
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,assets.msn.cn
 DOMAIN-SUFFIX,71.am.com
+DOMAIN-SUFFIX,bytedance.com.com
 DOMAIN-SUFFIX,steam.ksyna.com
 DOMAIN-SUFFIX,steam.clngaa.com
 DOMAIN-SUFFIX,dl.eccdnx.com
