@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-04T09:24:56.230Z
-# Size: 713
+# Last Updated: 2024-11-04T12:43:29.102Z
+# Size: 715
 # 
 #########################################
 DOMAIN,pki.goog
@@ -130,6 +130,7 @@ DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,shopee.tw
+DOMAIN-SUFFIX,moegirl.tw
 DOMAIN-SUFFIX,moegirl.uk
 DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,missav.ws
@@ -155,6 +156,7 @@ DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,ask.com
 DOMAIN-SUFFIX,avg.com
 DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,cal.com
 DOMAIN-SUFFIX,cbs.com
 DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,fc2.com
