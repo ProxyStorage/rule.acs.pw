@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-05T15:22:46.241Z
-# Size: 610
+# Last Updated: 2024-11-05T18:28:33.899Z
+# Size: 601
 # 
 #########################################
 .file.io
@@ -24,6 +24,7 @@ pixeldrain.com
 .catbox.moe
 .filebin.net
 .steamserver.net
+.archive.org
 .tmpfiles.org
 fedorapeople.org
 .1fichier.info
@@ -54,7 +55,6 @@ dl.cloudsmith.io
 download.projectbluefin.io
 mirror.xtom.jp
 mirrors.xtom.jp
-file24-d.kuku.lu
 releases.obsidian.md
 mirror.xtom.nl
 mirrors.xtom.nl
@@ -217,14 +217,6 @@ deb.nodesource.com
 .egdownload.fastly-edge.com
 downloads.raspberrypi.com
 .content.steampowered.com
-content1.steampowered.com
-content2.steampowered.com
-content3.steampowered.com
-content4.steampowered.com
-content5.steampowered.com
-content6.steampowered.com
-content7.steampowered.com
-content8.steampowered.com
 content-origin.steampowered.com
 updates-cdn.bravesoftware.com
 ctldl.windowsupdate.com
@@ -270,8 +262,8 @@ packages.virtfusion.net
 .dl.sourceforge.net
 downloads.sourceforge.net
 ftp.gnu.org
+cdn.kde.org
 invent.kde.org
-binary-factory.kde.org
 download.gimp.org
 cdimage.kali.org
 .deb.debian.org
@@ -496,7 +488,6 @@ download-core.sys.truenas.net
 .content.cdp.bethesda.net
 .download.cdp.bethesda.net
 .debian.map.fastlydns.net
-gog-cdn-lumen.secure2.footprint.net
 .ftp2.de.debian.org
 mirrors.edge.kernel.org
 versioncheck-bg.addons.mozilla.org

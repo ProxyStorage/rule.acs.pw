@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-05T15:22:46.209Z
-# Size: 716
+# Last Updated: 2024-11-05T18:28:33.865Z
+# Size: 717
 # 
 #########################################
 DOMAIN,pki.goog
@@ -573,6 +573,7 @@ DOMAIN-SUFFIX,jkforum.net
 DOMAIN-SUFFIX,kisscos.net
 DOMAIN-SUFFIX,nhentai.net
 DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,waifu2x.net
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,cachefly.net
