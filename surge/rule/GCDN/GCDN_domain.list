@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-05T06:29:41.556Z
-# Size: 2633
+# Last Updated: 2024-11-05T09:22:04.983Z
+# Size: 2636
 # 
 #########################################
 rules.ac
@@ -1104,6 +1104,8 @@ corp-backend.brevo.com
 designsystem.brevo.com
 s1.bycsi.com
 cdn.cameo.com
+static.canva.com
+content-management-files.canva.com
 ajax.cdnjs.com
 media-s3-eu-west-1.ceros.com
 media-s3-us-east-1.ceros.com
@@ -1139,6 +1141,7 @@ talk.hyvor.com
 assets.ifttt.com
 web-assets.ifttt.com
 i.imgur.com
+s.imgur.com
 .stack.imgur.com
 static.javhd.com
 creator-image.javhd.com
@@ -2338,6 +2341,7 @@ assets-fe.change.org
 proxy.golang.org
 repo.gradle.org
 plugins-artifacts.gradle.org
+img.moedog.org
 telemetry.nextjs.org
 assets.repair.org
 updates.signal.org
@@ -2451,7 +2455,6 @@ static.bit.cloud
 .ipfs.tubby.cloud
 .gateway.pinata.cloud
 resources-live.sketch.cloud
-.cloud-object-storage.appdomain.cloud
 media.cleanshot.cloud
 assets.buttondown.email
 .ipfs.telos.miami

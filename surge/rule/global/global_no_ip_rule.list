@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-05T06:29:41.536Z
-# Size: 715
+# Last Updated: 2024-11-05T09:22:04.962Z
+# Size: 716
 # 
 #########################################
 DOMAIN,pki.goog
@@ -161,6 +161,7 @@ DOMAIN-SUFFIX,cbs.com
 DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,fc2.com
 DOMAIN-SUFFIX,hbg.com
+DOMAIN-SUFFIX,ibm.com
 DOMAIN-SUFFIX,kik.com
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,okx.com

@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-05T06:29:41.569Z
-# Size: 609
+# Last Updated: 2024-11-05T09:22:04.996Z
+# Size: 610
 # 
 #########################################
 .file.io
@@ -305,6 +305,7 @@ download.pixelexperience.org
 .copr.fedorainfracloud.org
 mirror.apad.pro
 boot.netboot.xyz
+.cloud-object-storage.appdomain.cloud
 .repo.jing.rocks
 mirror.xtom.com.hk
 mirrors.xtom.com.hk
