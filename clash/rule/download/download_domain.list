@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-06T06:29:51.839Z
-# Size: 601
+# Last Updated: 2024-11-06T09:24:45.548Z
+# Size: 609
 # 
 #########################################
 +.file.io
@@ -13,6 +13,7 @@ iterm2.com
 +.1fichier.com
 +.fuwamofu.com
 pixeldrain.com
++.epicgamescdn.com
 +.steamcontent.com
 +.vultrobjects.com
 +.linodeobjects.com
@@ -87,6 +88,7 @@ mirrors.xtom.com
 mirror-cdn.xtom.com
 +.swupdate.chaos.com
 download.cpuid.com
+cdn-patch.swtor.com
 downloads.xrite.com
 download.beeper.com
 +.dl.dlsite.com
@@ -131,6 +133,7 @@ desktop.wifiman.com
 +.oss-accelerate-overseas.aliyuncs.com
 +.download.autodesk.com
 +.cdn.blizzard.com
+dist.blizzard.com
 level3.blizzard.com
 +.mirror.constant.com
 download.gigabyte.com
@@ -243,8 +246,11 @@ down.filen-5.net
 +.dyn.riotcdn.net
 origin-a.akamaihd.net
 blzddist1-a.akamaihd.net
+blzddist2-a.akamaihd.net
+blzddist3-a.akamaihd.net
 blzddistkr1-a.akamaihd.net
 dlgarenanow-a.akamaihd.net
++.cdn.nintendo.net
 steampipe.akamaized.net
 steampipe-kr.akamaized.net
 steampipe-partner.akamaized.net
@@ -487,6 +493,8 @@ az764295.vo.msecnd.net
 download-core.sys.truenas.net
 +.content.cdp.bethesda.net
 +.download.cdp.bethesda.net
++.wup.shop.nintendo.net
++.wup.eshop.nintendo.net
 +.debian.map.fastlydns.net
 +.ftp2.de.debian.org
 mirrors.edge.kernel.org

@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-06T06:29:51.826Z
-# Size: 2607
+# Last Updated: 2024-11-06T09:24:45.537Z
+# Size: 2612
 # 
 #########################################
 rules.ac
@@ -328,6 +328,7 @@ thumbsnap.com
 .anpoimages.com
 .bestjavcdn.com
 .cdn-spurit.com
+.cdnclouder.com
 .dummyimage.com
 .ebaystatic.com
 .hs-scripts.com
@@ -705,7 +706,6 @@ cdn.ipregistry.co
 .ipfs.slang.cx
 sp-spiegel-de.spiegel.de
 .tile.openstreetmap.de
-staticmap.openstreetmap.de
 res.craft.do
 secure-res.craft.do
 st.agrd.eu
@@ -1144,6 +1144,8 @@ static-exp1.licdn.com
 static-exp2.licdn.com
 static-exp3.licdn.com
 assets.monei.com
+cdn.music.com
+static.music.com
 fesdk.nexon.com
 skimdb.npmjs.com
 static.npmjs.com
@@ -1242,6 +1244,7 @@ staging-pubfeed.linkby.com
 cdn2.macpaw.com
 cdn2-imgix.macpaw.com
 static-assets.mapbox.com
+twemoji.maxcdn.com
 miro.medium.com
 glyph.medium.com
 cdn-client.medium.com
@@ -1372,6 +1375,7 @@ avatar.freepik.com
 images.g2crowd.com
 .static.gartner.com
 .app.gitbook.com
+integrations.gitbook.com
 ocsp.godaddy.com
 rsi.grafana.com
 t0.gstatic.com
@@ -1556,6 +1560,7 @@ assets.leetcode.com
 static-lccn.leetcode.com
 services.linkfire.com
 linkstorage.linkfire.com
+cdn.linkmink.com
 media.loom-app.com
 img-api.mac4ever.com
 imag.malavida.com
@@ -1743,7 +1748,6 @@ cdn-www.bluestacks.com
 app.brightback.com
 cdn.britannica.com
 public-pages.cbinsights.com
-pic.cdnclouder.com
 .static.chaosgroup.com
 js.chilipiper.com
 cp2.cloudflare.com
@@ -1991,6 +1995,7 @@ image.shutterstock.com
 .ipfs.soul-network.com
 media.steampowered.com
 cdn.sunofbeaches.com
+cdn.unrealengine.com
 cdn1.unrealengine.com
 cdn2.unrealengine.com
 cdn3.unrealengine.com
@@ -2130,6 +2135,7 @@ s.wsj.net
 vir.wsj.net
 sts3.wsj.net
 images.wsj.net
+optimizely.wsj.net
 .mm.bing.net
 .ipfs.mttk.net
 static.osdn.net
@@ -2533,7 +2539,6 @@ static.news.bitcoin.com
 static.iris.informa.com
 .push.services.mozilla.com
 stubdownloader.services.mozilla.com
-ton.local.twitter.com
 widgets.media.weather.com
 widgets-red.media.weather.com
 static.community.workday.com

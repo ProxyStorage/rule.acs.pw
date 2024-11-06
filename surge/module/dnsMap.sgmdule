@@ -1,5 +1,5 @@
 #!name=DNS映射
-#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-11-06T06:29:51.987Z
+#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2024-11-06T09:24:45.703Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -333,6 +333,10 @@ alios.cn = server:quic://dns.alidns.com:853
 *.alios.cn = server:quic://dns.alidns.com:853
 wandoujia.com = server:quic://dns.alidns.com:853
 *.wandoujia.com = server:quic://dns.alidns.com:853
+aligames.com = server:quic://dns.alidns.com:853
+*.aligames.com = server:quic://dns.alidns.com:853
+25pp.com = server:quic://dns.alidns.com:853
+*.25pp.com = server:quic://dns.alidns.com:853
 tanx.com = server:quic://dns.alidns.com:853
 *.tanx.com = server:quic://dns.alidns.com:853
 hellobike.com = server:quic://dns.alidns.com:853
