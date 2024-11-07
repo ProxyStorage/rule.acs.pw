@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-07T09:22:03.238Z
-# Size: 65
+# Last Updated: 2024-11-07T12:40:24.606Z
+# Size: 66
 # 
 #########################################
 DOMAIN,cdn.usefathom.com
@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,makersuite.google.com
