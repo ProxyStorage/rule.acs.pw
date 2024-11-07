@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-07T15:22:32.293Z
-# Size: 2616
+# Last Updated: 2024-11-07T18:28:21.418Z
+# Size: 2613
 # 
 #########################################
 rules.ac
@@ -1724,7 +1724,6 @@ static.test-beta.com
 hawk.tomsguide.com
 ui.trailhead.com
 cdn.transifex.com
-cdn-txweb.transifex.com
 cdn.travis-ci.com
 cdn.ttgtmedia.com
 cdn.up-timely.com
@@ -2139,7 +2138,6 @@ s.wsj.net
 vir.wsj.net
 sts3.wsj.net
 images.wsj.net
-optimizely.wsj.net
 +.mm.bing.net
 +.ipfs.mttk.net
 static.osdn.net
@@ -2428,7 +2426,6 @@ res2.weblium.site
 pkg-cdn.jetbrains.team
 packages.jetbrains.team
 ipfs.d.tube
-pic.ziyuan.wang
 +.ipfs.litnet.work
 img.itch.zone
 static.bit.cloud
@@ -2485,6 +2482,7 @@ static.zaobao.com.sg
 j.udn.com.tw
 s.udn.com.tw
 static.cnbeta.com.tw
+event.ithome.com.tw
 i2.bahamut.com.tw
 p2.bahamut.com.tw
 truth.bahamut.com.tw
@@ -2525,7 +2523,6 @@ assets.fonts.adobe.com
 pkgs.dev.azure.com
 cdn.search.brave.com
 imgs.search.brave.com
-img.merch.cameo.com
 static.cloud.coveo.com
 media.ra.kroll.com
 yep.video.yahoo.com

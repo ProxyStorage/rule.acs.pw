@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-07T15:22:32.271Z
-# Size: 717
+# Last Updated: 2024-11-07T18:28:21.398Z
+# Size: 718
 # 
 #########################################
 DOMAIN,pki.goog
@@ -703,6 +703,7 @@ DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,line.naver.jp
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN-SUFFIX,ithome.com.tw
 DOMAIN-SUFFIX,linefriends.com.tw
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,dailymail.co.uk
