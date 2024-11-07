@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-07T06:29:13.929Z
-# Size: 2612
+# Last Updated: 2024-11-07T09:22:03.233Z
+# Size: 2615
 # 
 #########################################
 rules.ac
@@ -37,6 +37,7 @@ eep.io
 .gcr.io
 .gw3.io
 .k8s.io
+.npm.io
 .iili.io
 .jspm.io
 .logz.io
@@ -725,6 +726,7 @@ cdn.unwire.hk
 .ipfs.trusti.id
 s3.c.im
 images.spot.im
+launcher.spot.im
 static-cdn.spot.im
 sn-s3-cdn.angry.im
 badges.gitter.im
@@ -2002,6 +2004,7 @@ cdn3.unrealengine.com
 typescript.visualstudio.com
 assets.xboxservices.com
 cms-assets.xboxservices.com
+jac.yahoosandbox.com
 .images.arcpublishing.com
 images.arigatotravel.com
 static.cloudcachetci.com
