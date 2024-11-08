@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-08T18:28:26.881Z
-# Size: 2617
+# Last Updated: 2024-11-08T21:19:12.621Z
+# Size: 2622
 # 
 #########################################
 rules.ac
@@ -39,6 +39,7 @@ eep.io
 .k8s.io
 .npm.io
 .iili.io
+.ipfs.io
 .jspm.io
 .logz.io
 .pnpm.io
@@ -116,6 +117,7 @@ curl.se
 .ninjastream.to
 .99av.tv
 .7mmtv.tv
+.storry.tv
 cloudflare.tv
 .pimg.tw
 .imageshack.us
@@ -485,6 +487,7 @@ runkit-packages-static-executables.com
 .workers.dev
 pkg-size.dev
 .usercontent.dev
+.delegated-ipfs.dev
 .vsmarketplacebadges.dev
 .cthd.icu
 .ipfs.ink
@@ -610,11 +613,13 @@ akidoo.top
 .dogehls.xyz
 .pornimg.xyz
 .zorocdn.xyz
+.flk-ipfs.xyz
 .imgmrplay.xyz
 .mirror-media.xyz
 phishing.army
 .porn5.asia
 .ymq.cool
+.ipfs.cyou
 .nel.goog
 .usercontent.goog
 .assets-servd.host
@@ -625,6 +630,7 @@ phishing.army
 .gitcdn.link
 nightly.link
 .nftstorage.link
+.trustless-gateway.link
 .doppiocdn.live
 .kinsta.page
 .instant.page
@@ -657,6 +663,7 @@ i.snap.as
 .ipfs.greyh.at
 .newscdn.com.au
 .abc-cdn.net.au
+static.k2s.cc
 static-cache.k2s.cc
 images.ptt.cc
 pic.imge.cc
@@ -741,7 +748,6 @@ npm.jsr.io
 adkit.9pub.io
 assets.bwbx.io
 badge.fury.io
-.gateway.ipfs.io
 static.itch.io
 dl.nwjs.io
 dl2.nwjs.io
@@ -898,6 +904,7 @@ img.xjh.me
 media.e4le.me
 pic.7mmtv.me
 emoji-css.afeld.me
+static.fboom.me
 static-cache.fboom.me
 cdn.judge.me
 cdn.rauno.me
@@ -952,7 +959,6 @@ img.kemono.su
 piccdn.7mmtv.sx
 video1.7mmtv.sx
 video2.7mmtv.sx
-.ipfs.alloyxuast.tk
 media.dev.to
 media.mas.to
 embed.tawk.to
@@ -2508,7 +2514,6 @@ scripts.dailymail.co.uk
 static.fasthosts.co.uk
 secure.telegraph.co.uk
 static.telegraph.co.uk
-.ipfs.chisdealhd.co.uk
 static.independent.co.uk
 cdn.mcr.ea.com
 media.contentapi.ea.com

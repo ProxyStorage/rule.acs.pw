@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-08T18:28:26.857Z
-# Size: 722
+# Last Updated: 2024-11-08T21:19:12.600Z
+# Size: 718
 # 
 #########################################
 DOMAIN,pki.goog
@@ -100,15 +100,11 @@ DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,ping.pe
 DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,jav.pw
-DOMAIN-SUFFIX,singlelogin.re
 DOMAIN-SUFFIX,libgen.rs
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,tgstat.ru
 DOMAIN-SUFFIX,yandex.ru
-DOMAIN-SUFFIX,z-library.se
-DOMAIN-SUFFIX,singlelogin.se
 DOMAIN-SUFFIX,annas-archive.se
-DOMAIN-SUFFIX,zlibrary-global.se
 DOMAIN-SUFFIX,ouo.si
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,notion.so
