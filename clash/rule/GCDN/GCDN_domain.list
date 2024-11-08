@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-08T03:24:57.979Z
-# Size: 2613
+# Last Updated: 2024-11-08T06:29:24.766Z
+# Size: 2616
 # 
 #########################################
 rules.ac
@@ -945,6 +945,7 @@ assets.vantage.sh
 images.spr.so
 sites.super.so
 assets-v2.super.so
+cdn.birdie.so
 cdn.circle.so
 image-forwarder.notaku.so
 img.kemono.su
@@ -1470,6 +1471,7 @@ assets.vidyard.com
 cdn.viglink.com
 api.weather.com
 mparticle.weather.com
+screenshots.webflow.com
 +.uploads-ssl.webflow.com
 static.workday.com
 cdne-pics.youjizz.com
@@ -1948,6 +1950,7 @@ static.tradingview.com
 s3-symbol-logo.tradingview.com
 widgets.tree-nation.com
 cdn.trustedsite.com
+psp-logos.uptimerobot.com
 userfiles.uptimerobot.com
 asset-cdn.uscardforum.com
 +.js.usemessages.com
