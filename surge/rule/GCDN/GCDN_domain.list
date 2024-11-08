@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-08T15:22:29.133Z
-# Size: 2616
+# Last Updated: 2024-11-08T18:28:26.880Z
+# Size: 2617
 # 
 #########################################
 rules.ac
@@ -979,10 +979,12 @@ st1.zoom.us
 st2.zoom.us
 st3.zoom.us
 cdn.donmai.us
+cdn.bsky.app
 cdn.rive.app
 public.linear.app
 static.linear.app
 .cms-cdn.linear.app
+webassets.linear.app
 pic.macked.app
 videos.elephas.app
 cdn.langshop.app
@@ -2116,7 +2118,6 @@ tuf-repo-cdn.sigstore.dev
 i.jpg.dog
 cdn.onetime.dog
 cdn.usd.fan
-static.mikuclub.fun
 cdn7.pornmaster.fun
 images-assets.nasa.gov
 cdn.cbd.int

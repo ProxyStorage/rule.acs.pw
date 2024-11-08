@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-08T15:22:29.110Z
-# Size: 720
+# Last Updated: 2024-11-08T18:28:26.856Z
+# Size: 722
 # 
 #########################################
 DOMAIN,pki.goog
@@ -136,6 +136,7 @@ DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,ajay.app
+DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,grep.app
 DOMAIN-SUFFIX,knock.app
 DOMAIN-SUFFIX,linear.app
@@ -697,6 +698,7 @@ DOMAIN-SUFFIX,dnscheck.tools
 DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,x.company
+DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,news.com.au
 DOMAIN-SUFFIX,abc.net.au
