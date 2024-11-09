@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-09T15:21:49.715Z
-# Size: 609
+# Last Updated: 2024-11-09T18:25:52.759Z
+# Size: 610
 # 
 #########################################
 .file.io
@@ -212,6 +212,7 @@ mirror.navercorp.com
 desktop.parallels.com
 download.parallels.com
 softwareupdate.pilotmoon.com
+dl.tailscale.com
 pkgs.tailscale.com
 download.todesktop.com
 .swupdate.chaosgroup.com

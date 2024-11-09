@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-09T15:21:49.703Z
-# Size: 2622
+# Last Updated: 2024-11-09T18:25:52.747Z
+# Size: 2626
 # 
 #########################################
 rules.ac
@@ -21,6 +21,7 @@ pengtu.cc
 nodei.co
 .prcdn.co
 .unpkg.co
+.doodcdn.co
 .smilecdn.co
 .placehold.co
 waitlisted.co
@@ -301,6 +302,7 @@ redircdn.com
 .dummyjson.com
 .embedgram.com
 .ensighten.com
+.fastlycdn.com
 .fiverrcdn.com
 .fncstatic.com
 .forbesimg.com
@@ -363,6 +365,7 @@ optimizely.com
 .bleepstatic.com
 .bstarstatic.com
 .cdn-website.com
+.cloudatacdn.com
 .firebaseapp.com
 .fontawesome.com
 .intercomcdn.com
@@ -2310,6 +2313,7 @@ media.npr.org
 bundles.npr.org
 static-assets.npr.org
 .tile.osm.org
+image.4fuk.org
 .ipfs.busy.org
 static.ietf.org
 o.n1mp.org
