@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-10T06:27:33.471Z
-# Size: 2626
+# Last Updated: 2024-11-10T09:19:25.649Z
+# Size: 2629
 # 
 #########################################
 rules.ac
@@ -1198,6 +1198,7 @@ staticw2.yotpo.com
 cdn-yotpo-images-production.yotpo.com
 .glass.adidas.com
 .assets.adidas.com
+static.ahrefs.com
 dims.apnews.com
 assets.apnews.com
 www.bbthat.com
@@ -1221,6 +1222,7 @@ cdn.cxense.com
 media.dlsite.com
 .fastly.docker.com
 .cloudflare.docker.com
+videos2.edclub.com
 s3.envato.com
 assets.fastly.com
 s1.feedly.com
@@ -2099,6 +2101,7 @@ static2.sharepointonline.com
 telemetry.1passwordservices.com
 assets.positional-bucket.com
 demo.unified-streaming.com
+media.datacenterdynamics.com
 cdn.cms-twdigitalassets.com
 screenshots.downloadtorrentfile.com
 loader.mantis-intelligence.com
