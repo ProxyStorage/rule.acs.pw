@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-11T03:26:11.929Z
-# Size: 719
+# Last Updated: 2024-11-11T06:30:09.737Z
+# Size: 720
 # 
 #########################################
 DOMAIN,pki.goog
@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,coveralls.io
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,shattered.io
+DOMAIN-SUFFIX,globalping.io
 DOMAIN-SUFFIX,greenhouse.io
 DOMAIN-SUFFIX,codesandbox.io
 DOMAIN-SUFFIX,azurecontainer.io
