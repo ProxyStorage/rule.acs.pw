@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-11T06:30:09.758Z
-# Size: 2629
+# Last Updated: 2024-11-11T09:23:37.193Z
+# Size: 2632
 # 
 #########################################
 rules.ac
@@ -1727,6 +1727,9 @@ media.shopimind.com
 uploads.sitepoint.com
 static.skyassets.com
 cdn-public.sociabble.com
+blob.sololearn.com
+assets.sololearn.com
+lecontent.sololearn.com
 static.spankbang.com
 .proxy.startpage.com
 .proxy1.startpage.com
