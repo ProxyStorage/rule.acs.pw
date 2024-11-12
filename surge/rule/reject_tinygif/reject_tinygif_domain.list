@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-12T12:42:21.159Z
-# Size: 109210
+# Last Updated: 2024-11-12T15:21:35.990Z
+# Size: 109224
 # 
 #########################################
 .say.ac
@@ -67073,6 +67073,7 @@ free-aos-cdn-image.amap.com
 .som.cbsi.com
 .intent.cbsi.com
 .ad.cctv.com
+httpdns.cctv.com
 .mdws.cdcu.com
 .smetrics.cfox.com
 .analytic.cibc.com
@@ -71866,6 +71867,7 @@ impservice.youdao.com
 .ssp.zryydi.com
 .link.zulily.com
 .cdn.zxclan.com
+httpdns.zybang.com
 .ck.zzipps.com
 .asg.zzipps.com
 .cdn.007moms.com
@@ -83635,6 +83637,7 @@ httpdns.calorietech.com
 .rtb-apac.houseofpubs.com
 .rtb-useast.houseofpubs.com
 .smetrics.howifightms.com
+httpdns.huaweicloud.com
 .cdn.hunteryvely.com
 emma-414870e223.huodonghezi.com
 .nzqrfa.hushpuppies.com
@@ -85574,6 +85577,7 @@ httpdns-euex-push.heytapmobile.com
 .ukaxwr.leastedisoha.com
 .ioxqdp.leatherology.com
 .analytics.leavemanager.com
+stats.leavemealone.com
 .zodxgk.lecoqsportif.com
 .wallaby.legendkeeper.com
 .smetrics.lenscrafters.com
@@ -100364,6 +100368,7 @@ adx-drcn.op.dbankcloud.cn
 .ubacollect-drcn.cloud.dbankcloud.cn
 .dnkeeper.platform.dbankcloud.cn
 .logservice-dre.platform.dbankcloud.cn
+httpdns-browser.platform.dbankcloud.cn
 .cookies.jll.com.co
 .email-am.jll.com.co
 .email-em.jll.com.co
@@ -103007,6 +103012,7 @@ grs.platform.dbankcloud.ru
 .analitik.bik.gov.tr
 .tr.email.d8.tv
 .tr.email.d17.tv
+doh.ptqy.gitv.tv
 .cupid.ptqy.gitv.tv
 .streamstats.prd.dlive.tv
 .api.cid.samba.tv
@@ -104189,6 +104195,7 @@ tools.3g.qq.com
 .up-hl.3g.qq.com
 .yun-hl.3g.qq.com
 activeqq.3g.qq.com
+httpdns.kg.qq.com
 adv.app.qq.com
 adpm.app.qq.com
 .beacon.cdn.qq.com
@@ -104532,6 +104539,7 @@ calopenupdate.comm.miui.com
 .r.browser.miui.com
 hot.browser.miui.com
 qsb.browser.miui.com
+httpdns.browser.miui.com
 security.browser.miui.com
 mp.huangye.miui.com
 .images.fans.mlse.com
@@ -105081,6 +105089,7 @@ web.data.pplive.com
 .images.stanleyhealthcare.sbdinc.com
 .tr.recouvrement.seeric.com
 .jpaasne.e.shifen.com
+httpdns.n.shifen.com
 .click.em.soothe.com
 .link.email.soothe.com
 .t2.click.subway.com
@@ -105273,6 +105282,7 @@ gvod.aiseejapp.atianqi.com
 .images.e.brother.com
 .tracking.server.bytecon.com
 httpdns.c.cdnhwc2.com
+httpdns1.cc.cdnhwc5.com
 .s.info.cemexgo.com
 .app.global.certain.com
 .tr.newsletter.chandon.com
@@ -105526,6 +105536,7 @@ ad.bn.netease.com
 .6519114.automated.tajawal.com
 .19035955.automated.tajawal.com
 .a8cv.store.tavenal.com
+httpdns.danuoyi.tbcache.com
 .images.info.telogis.com
 .content.wire.telstra.com
 .forms.businessnews.telstra.com
@@ -106388,6 +106399,7 @@ sousuo.xm.sjzhushou.com
 adx-dra.op.dbankcloud.com
 adx-dre.op.dbankcloud.com
 adx-drru.op.dbankcloud.com
+httpdns.platform.dbankcloud.com
 .openlocation-drcn.platform.dbankcloud.com
 .mit.researchlog.dbresearch.com
 .trck.internalnews.dbschenker.com
@@ -106427,6 +106439,7 @@ adx-drru.op.dbankcloud.com
 .tms.hft.hellofresh.com
 .trk.discover.herculesrx.com
 httpdns.push.heytapmobi.com
+httpdns.ocloud.heytapmobi.com
 .pages.feedback.hofvillage.com
 .images.mailaway.homelidays.com
 .data.emails.imaginbank.com
@@ -106500,6 +106513,7 @@ httpdns.push.heytapmobi.com
 .dragate.dc.oppomobile.com
 .stat-in.dc.oppomobile.com
 httpdns.push.oppomobile.com
+httpdns.ocloud.oppomobile.com
 .a8clk.cart.ordersupli.com
 .tracking.ent.oviahealth.com
 .images.link.pentonauto.com

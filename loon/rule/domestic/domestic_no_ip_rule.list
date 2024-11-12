@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-12T12:42:21.225Z
-# Size: 755
+# Last Updated: 2024-11-12T15:21:36.059Z
+# Size: 757
 # 
 #########################################
 DOMAIN,url.cn
@@ -434,6 +434,7 @@ DOMAIN-SUFFIX,fqnovel.com
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,gitcode.com
+DOMAIN-SUFFIX,goofish.com
 DOMAIN-SUFFIX,hemamax.com
 DOMAIN-SUFFIX,hichina.com
 DOMAIN-SUFFIX,hicloud.com
@@ -672,6 +673,7 @@ DOMAIN-SUFFIX,toutiaostatic.com
 DOMAIN-SUFFIX,chinanetcenter.com
 DOMAIN-SUFFIX,heytapdownload.com
 DOMAIN-SUFFIX,samsungcloudcn.com
+DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,kingsoft-office-service.com
