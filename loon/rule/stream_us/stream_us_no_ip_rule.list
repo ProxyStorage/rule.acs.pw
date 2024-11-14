@@ -1,12 +1,12 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-14T12:43:35.328Z
+# Last Updated: 2024-11-14T15:23:31.198Z
 # Size: 44
 # 
 #########################################
 DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,dashasiafox.akamaized.net
 DOMAIN,staticasiafox.akamaized.net
-DOMAIN,dashasiafox.akamaized.netflix
 DOMAIN,cbsservice.aws.syncbak.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
 DOMAIN,edge.api.brightcove.com

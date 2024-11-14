@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-14T12:43:35.355Z
-# Size: 610
+# Last Updated: 2024-11-14T15:23:31.227Z
+# Size: 612
 # 
 #########################################
 .file.io
@@ -16,6 +16,7 @@ pixeldrain.com
 .epicgamescdn.com
 .steamcontent.com
 .vultrobjects.com
+.cdn77-storage.com
 .linodeobjects.com
 .androidfilehost.com
 .cloudflaremirrors.com
@@ -47,6 +48,7 @@ dl.iina.io
 dl-portal.iina.io
 down.filen.io
 dl.pstmn.io
+disks.webvm.io
 store1.gofile.io
 download.typora.io
 cdn.cypress.io

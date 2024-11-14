@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-11-14T12:43:35.326Z
+# Last Updated: 2024-11-14T15:23:31.196Z
 # Size: 257
 # 
 #########################################
@@ -13,6 +13,7 @@ DOMAIN,hamifans.emome.net
 DOMAIN,apm-misaka.biliapi.net
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,dashasiafox.akamaized.net
 DOMAIN,staticasiafox.akamaized.net
 DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
@@ -32,7 +33,6 @@ DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN,d3196yreox78o9.cloudfront.net
 DOMAIN,d349g9zuie06uo.cloudfront.net
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
-DOMAIN,dashasiafox.akamaized.netflix
 DOMAIN,cdn.registerdisney.go.com
 DOMAIN,linear.tv.apple.com
 DOMAIN,hls.itunes.apple.com
