@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-14T09:22:54.703Z
-# Size: 109276
+# Last Updated: 2024-11-14T12:43:35.253Z
+# Size: 109281
 # 
 #########################################
 .say.ac
@@ -37603,6 +37603,7 @@ samsungcloudsolution.com
 .ve0ke.icu
 .vmr6t.icu
 .vn-rb.icu
+.vnuuh.icu
 .wcd2l.icu
 .whgh1.icu
 .x0or8.icu
@@ -63721,6 +63722,7 @@ x.o2.pl
 .yefktd.avito.ru
 .bvexmf.bigtv.ru
 .bans.bride.ru
+.stats.bunkr.ru
 .analytics.chita.ru
 .cnb.cnews.ru
 .edirect.efind.ru
@@ -101300,6 +101302,8 @@ httpdns-browser.platform.dbankcloud.cn
 .lararforbundet.analytics.ozzi.io
 .join.staging.spur.io
 .join-test.pre-prod.spur.io
+.ads-image.production-public.tubi.io
+.user-signals.production-public.tubi.io
 .analytics-ingestion.production-public.tubi.io
 .geoip.apps.avada.io
 .link.team.bnext.io
@@ -104333,6 +104337,7 @@ clientlog3.music.163.com
 .securefamilylink.wireless.att.com
 .a1.api.bbc.com
 .ev.api.bdg.com
+.ev2.api.bdg.com
 .response.b2b.bea.com
 .images.go.bge.com
 .images.learn.blr.com

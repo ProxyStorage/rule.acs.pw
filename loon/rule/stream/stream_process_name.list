@@ -1,14 +1,13 @@
 #########################################
 # DreamyTZK's Process Name Rule
-# Last Updated: 2024-11-14T09:22:54.778Z
-# Size: 15
+# Last Updated: 2024-11-14T12:43:35.326Z
+# Size: 14
 # Only available on macOS
 #########################################
 PROCESS-NAME,com.amazon.avod.thirdpartyclient
 PROCESS-NAME,tv
 PROCESS-NAME,music
 PROCESS-NAME,com.bstar.intl
-PROCESS-NAME,com.wbd.stream
 PROCESS-NAME,com.hulu.plus
 PROCESS-NAME,com.tencent.ibg.joox
 PROCESS-NAME,com.linecorp.linetv

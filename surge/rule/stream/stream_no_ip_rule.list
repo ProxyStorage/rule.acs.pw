@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-14T09:22:54.777Z
-# Size: 319
+# Last Updated: 2024-11-14T12:43:35.325Z
+# Size: 306
 # 
 #########################################
 DOMAIN,ocvideo.apple.com
@@ -11,21 +11,12 @@ DOMAIN,youtube.googleapis.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,hamifans.emome.net
 DOMAIN,apm-misaka.biliapi.net
-DOMAIN,hboasia1-i.akamaihd.net
-DOMAIN,hboasia2-i.akamaihd.net
-DOMAIN,hboasia3-i.akamaihd.net
-DOMAIN,hboasia4-i.akamaihd.net
-DOMAIN,hboasia5-i.akamaihd.net
-DOMAIN,bcbolthboa-a.akamaihd.net
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN,bcbolt446c5271-a.akamaihd.net
-DOMAIN,hboasialive.akamaized.net
-DOMAIN,hbogoprod-vod.akamaized.net
 DOMAIN,staticasiafox.akamaized.net
 DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN,players.brightcove.net
-DOMAIN,dai3fd1oh325y.cloudfront.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
 DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN,d151l6v8er5bdm.cloudfront.net
@@ -62,7 +53,6 @@ DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,cbsi.live.ott.irdeto.com
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
-DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,primevideo.cc
 DOMAIN-SUFFIX,amazonvideo.cc
@@ -290,9 +280,6 @@ USER-AGENT,FOX NOW*
 USER-AGENT,FOXPlus*
 USER-AGENT,HBO NOW*
 USER-AGENT,HBOMAX*
-USER-AGENT,Max
-USER-AGENT,HBO GO PROD HKG*
-USER-AGENT,HBO*
 USER-AGENT,Himalaya*
 USER-AGENT,Hulu*
 USER-AGENT,HWTVMobile*
