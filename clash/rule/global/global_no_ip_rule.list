@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-11-14T06:30:35.736Z
-# Size: 722
+# Last Updated: 2024-11-14T09:22:54.774Z
+# Size: 723
 # 
 #########################################
 DOMAIN,pki.goog
@@ -552,6 +552,7 @@ DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,dynu.net
+DOMAIN-SUFFIX,ripe.net
 DOMAIN-SUFFIX,sony.net
 DOMAIN-SUFFIX,whrq.net
 DOMAIN-SUFFIX,1e100.net

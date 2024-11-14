@@ -1,12 +1,11 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-14T06:30:35.740Z
-# Size: 320
+# Last Updated: 2024-11-14T09:22:54.777Z
+# Size: 319
 # 
 #########################################
 DOMAIN,ocvideo.apple.com
 DOMAIN,hbounify-prod.evergent.com
-DOMAIN,s3-ap-southeast-1.amazonaws.com
 DOMAIN,hbolb.onwardsmg.com
 DOMAIN,youtube.googleapis.com
 DOMAIN,youtubei.googleapis.com

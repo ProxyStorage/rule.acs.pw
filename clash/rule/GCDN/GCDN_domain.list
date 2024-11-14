@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-14T06:30:35.758Z
-# Size: 2658
+# Last Updated: 2024-11-14T09:22:54.797Z
+# Size: 2659
 # 
 #########################################
 rules.ac
@@ -588,6 +588,7 @@ vuejs.org
 +.rawgit.org
 +.f-droid.org
 +.reactjs.org
++.typedoc.org
 +.ziglang.org
 +.cdnmania.org
 david-dm.org

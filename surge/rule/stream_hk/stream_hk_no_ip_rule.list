@@ -1,11 +1,10 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-14T06:30:35.748Z
-# Size: 39
+# Last Updated: 2024-11-14T09:22:54.787Z
+# Size: 38
 # 
 #########################################
 DOMAIN,hbounify-prod.evergent.com
-DOMAIN,s3-ap-southeast-1.amazonaws.com
 DOMAIN,hbolb.onwardsmg.com
 DOMAIN,apm-misaka.biliapi.net
 DOMAIN,hboasia1-i.akamaihd.net
