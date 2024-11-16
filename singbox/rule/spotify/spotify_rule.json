@@ -32,8 +32,7 @@
         "tospotify.com"
       ],
       "domain_keyword": [
-        "-spotify-",
-        "spotify.com"
+        "spotify"
       ],
       "process_name": [
         "com.spotify.music"
