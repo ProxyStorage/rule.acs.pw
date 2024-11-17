@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-11-17T06:30:06.561Z
-# Size: 723
+# Last Updated: 2024-11-17T09:22:09.862Z
+# Size: 726
 # 
 #########################################
 DOMAIN,pki.goog
@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,imo.im
 DOMAIN-SUFFIX,npm.im
 DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,gh.io
+DOMAIN-SUFFIX,cnn.io
 DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,npm.io
@@ -107,6 +108,7 @@ DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,tgstat.ru
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,annas-archive.se
+DOMAIN-SUFFIX,crt.sh
 DOMAIN-SUFFIX,ouo.si
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,notion.so
@@ -300,6 +302,7 @@ DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,vercel.com
 DOMAIN-SUFFIX,vikacg.com
+DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,adguard.com

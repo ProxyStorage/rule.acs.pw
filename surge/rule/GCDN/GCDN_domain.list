@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-17T06:30:06.581Z
-# Size: 2666
+# Last Updated: 2024-11-17T09:22:09.882Z
+# Size: 2672
 # 
 #########################################
 rules.ac
@@ -451,6 +451,7 @@ yummlystatic.com
 .invisionapp-cdn.com
 .makeuseofimages.com
 .motherlessmedia.com
+.msftconnecttest.com
 openseauserdata.com
 searchserverapi.com
 .squarespace-cdn.com
@@ -1079,6 +1080,7 @@ drop.ndtv.com
 edata.ndtv.com
 sdata.ndtv.com
 .www.s81c.com
+cdn.sedo.com
 assets.time.com
 media.user.com
 widget.user.com
@@ -1721,6 +1723,7 @@ static.mediafire.com
 js.memberful.com
 ajax.microsoft.com
 wcpstatic.microsoft.com
+.smartscreen.microsoft.com
 store-images.microsoft.com
 cdn.miohentai.com
 public.mocortech.com
@@ -1803,6 +1806,7 @@ apple-relay.cloudflare.com
 res.cloudinary.com
 fiverr-res.cloudinary.com
 cloudinary-res.cloudinary.com
+cdn.commandbar.com
 frames-commandbar-prod.commandbar.com
 cdn.contentful.com
 images.contentful.com
@@ -2476,6 +2480,7 @@ ipfs.d.tube
 .ipfs.litnet.work
 img.itch.zone
 static.bit.cloud
+fscdn.eppo.cloud
 patterns.hiive.cloud
 .ipfs.tubby.cloud
 .gateway.pinata.cloud
@@ -2647,6 +2652,7 @@ confluence-v1.prod.atl-paas.net
 cdn.mcauto-images-production.sendgrid.net
 cdn.c1.amplience.net
 cdn.media.amplience.net
+static.edge.microsoftapp.net
 .cdn.prod.atlassian-dev.net
 repo.maven.apache.org
 assets.auth.magic.link
