@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-17T12:40:00.594Z
-# Size: 2677
+# Last Updated: 2024-11-17T15:20:54.532Z
+# Size: 2678
 # 
 #########################################
 rules.ac
@@ -1336,6 +1336,7 @@ assets.shazam.com
 cdn.sketch.com
 cdn.solvvy.com
 web-assets.strava.com
+js.stripe.com
 checkout.stripe.com
 img.supjav.com
 assets.swoogo.com

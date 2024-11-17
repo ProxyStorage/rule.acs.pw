@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-17T12:40:00.518Z
-# Size: 109372
+# Last Updated: 2024-11-17T15:20:54.435Z
+# Size: 109375
 # 
 #########################################
 +.say.ac
@@ -64162,6 +64162,7 @@ x.o2.pl
 +.smetrics.schindler.sa
 +.agxwhz.bloomingdales.sa
 +.stat.u.sb
+stat.dns.sb
 +.stats.tnc.sc
 +.sms.3.se
 +.mitt.3.se
@@ -98166,6 +98167,8 @@ bad.third-party.site
 +.frdoki.heisei-housewarming.work
 +.intextlinks.idg.zone
 +.somni.rkt.zone
+cwa.html.zone
+umm.html.zone
 +.prod.adjoe.zone
 +.fraud.adjoe.zone
 +.play.wavelength.zone
