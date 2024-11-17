@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-17T09:22:09.863Z
-# Size: 727
+# Last Updated: 2024-11-17T12:40:00.573Z
+# Size: 728
 # 
 #########################################
 DOMAIN,pki.goog
@@ -695,6 +695,7 @@ DOMAIN-SUFFIX,privacytest.info
 DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,page.link
 DOMAIN-SUFFIX,sketch.cloud
+DOMAIN-SUFFIX,discourse.group
 DOMAIN-SUFFIX,spankbang.party
 DOMAIN-SUFFIX,javhd.today
 DOMAIN-SUFFIX,archive.today

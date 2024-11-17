@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-17T09:22:09.822Z
-# Size: 109378
+# Last Updated: 2024-11-17T12:40:00.531Z
+# Size: 109372
 # 
 #########################################
 .say.ac
@@ -52403,9 +52403,7 @@ applog-perf.uc.cn
 .channel-analysis-js.gmw.cn
 .g.hsw.cn
 .g.mnw.cn
-ntp.msn.cn
 .srtb.msn.cn
-assets.msn.cn
 .mbbank.net.cn
 .fanzhuang.net.cn
 .dm.pw0.cn
@@ -52462,7 +52460,6 @@ delivery-pc.wasu.cn
 .u.xogu.cn
 .xue.zbyw.cn
 render-web.11222.cn
-ad.12306.cn
 .ent1.12584.cn
 .m5.66077.cn
 .1.66law.cn
@@ -66779,8 +66776,6 @@ h.msn.com
 .h2.msn.com
 .ac3.msn.com
 .ads.msn.com
-api.msn.com
-ntp.msn.com
 otf.msn.com
 .rad.msn.com
 .rel.msn.com
@@ -81855,7 +81850,6 @@ analytics.infomaniak.com
 .info.josephmday.com
 .smetrics.jre-travel.com
 .loon.jrmyfranck.com
-.ele26126.jscrambler.com
 .www.jsnzoe301m.com
 .track.junexgames.com
 .track.junexgreen.com
