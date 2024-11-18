@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-18T06:32:27.420Z
-# Size: 2678
+# Last Updated: 2024-11-18T09:25:31.854Z
+# Size: 2680
 # 
 #########################################
 rules.ac
@@ -654,6 +654,7 @@ turbo.build
 +.pstorage.space
 eslint.style
 vanilla-extract.style
++.ant.design
 +.picsum.photos
 +.static.domains
 +.cdnjs.network
@@ -1555,6 +1556,7 @@ cds.connatix.com
 img.connatix.com
 cdn.credible.com
 cdn.datacamp.com
+api.dicebear.com
 avatars.dicebear.com
 ocsp.digicert.com
 cacerts.digicert.com
