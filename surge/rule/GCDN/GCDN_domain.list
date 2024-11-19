@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-19T01:48:19.382Z
-# Size: 2680
+# Last Updated: 2024-11-19T03:32:06.802Z
+# Size: 2684
 # 
 #########################################
 rules.ac
@@ -665,6 +665,8 @@ vanilla-extract.style
 bot.ivy.ai
 .cdn.s7s.ai
 assets.dify.ai
+widget.kapa.ai
+metrics.kapa.ai
 media.evolv.ai
 participants.evolv.ai
 s3.masto.ai
@@ -1745,6 +1747,7 @@ img.picacomic.com
 storage-b.picacomic.com
 .assets.pinterest.com
 js.qualified.com
+jfe-cdn.qualtrics.com
 .siteintercept.qualtrics.com
 img.represent.com
 img.riskified.com
@@ -1766,6 +1769,7 @@ static.spankbang.com
 .eu-proxy.startpage.com
 .eu-browse.startpage.com
 .a.storyblok.com
+.media.strapiapp.com
 events.tableplus.com
 static.test-beta.com
 hawk.tomsguide.com
