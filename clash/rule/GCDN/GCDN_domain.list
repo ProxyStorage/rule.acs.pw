@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-19T09:24:18.437Z
-# Size: 2684
+# Last Updated: 2024-11-19T12:45:19.661Z
+# Size: 2681
 # 
 #########################################
 rules.ac
@@ -1108,7 +1108,6 @@ static-cdn.123rf.com
 e3.365dm.com
 wwwimages2.adobe.com
 pba.apple.com
-ocsp2.apple.com
 events-live.apple.com
 lcdn-locator.apple.com
 events-delivery.apple.com
@@ -1840,8 +1839,6 @@ dam.freshworks.com
 widget.freshworks.com
 euc-widget.freshworks.com
 sync.getpublica.com
-ocsp.globalsign.com
-ocsp2.globalsign.com
 ajax.googleapis.com
 chart.googleapis.com
 fonts.googleapis.com

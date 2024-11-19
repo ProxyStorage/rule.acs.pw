@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-11-19T09:24:18.402Z
-# Size: 753
+# Last Updated: 2024-11-19T12:45:19.628Z
+# Size: 755
 # 
 #########################################
 DOMAIN,url.cn
@@ -16,6 +16,8 @@ DOMAIN,dl.ubnt.com
 DOMAIN,config.ubnt.com
 DOMAIN,www.layuicdn.com
 DOMAIN,cdnstatic.tencentcs.com
+DOMAIN,ocsp.globalsign.com
+DOMAIN,ocsp2.globalsign.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,gstore.val.manlaxy.com
 DOMAIN,media.cdn.queniuqe.com
