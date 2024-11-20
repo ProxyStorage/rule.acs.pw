@@ -15,6 +15,7 @@
         "ai.google.dev",
         "alkalimakersuite-pa.clients6.google.com",
         "makersuite.google.com",
+        "api.github.com",
         "alkalicore-pa.clients6.google.com",
         "gateway.ai.cloudflare.com"
       ],
@@ -61,6 +62,7 @@
         "clipdrop.co",
         "poe.com",
         "chat.com",
+        "groq.com",
         "notebooklm.google",
         "aistudio.google.com",
         "makersuite.google.com",

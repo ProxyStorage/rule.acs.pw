@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-20T06:31:43.015Z
-# Size: 2681
+# Last Updated: 2024-11-20T09:24:09.289Z
+# Size: 2683
 # 
 #########################################
 rules.ac
@@ -670,6 +670,7 @@ metrics.kapa.ai
 media.evolv.ai
 participants.evolv.ai
 s3.masto.ai
+r2.leadsy.ai
 prod-cdn.webtune.ai
 pplx-next-static-public.perplexity.ai
 i.snap.as
@@ -1775,6 +1776,7 @@ hawk.tomsguide.com
 ui.trailhead.com
 cdn.transifex.com
 cdn.travis-ci.com
+tag.trovo-tag.com
 cdn.ttgtmedia.com
 cdn.up-timely.com
 crl.usertrust.com
