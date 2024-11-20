@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-20T09:24:09.288Z
-# Size: 2683
+# Last Updated: 2024-11-20T12:44:43.076Z
+# Size: 2684
 # 
 #########################################
 rules.ac
@@ -256,6 +256,7 @@ p-smith.com
 +.badoocdn.com
 +.blogblog.com
 +.bytedapm.com
++.cdnfonts.com
 +.chasecdn.com
 eightcha.com
 +.favicone.com
@@ -1370,6 +1371,7 @@ img.xhacgn.com
 static.zaobao.com
 cdn.zapier.com
 fonts.zapier.com
+assets.zilliz.com
 static.4shared.com
 s.abcnews.com
 assets-cdn.abcnews.com
@@ -1544,7 +1546,6 @@ assets.bravenet.com
 assets.byteplus.com
 assets.calendly.com
 assets.capterra.com
-fonts.cdnfonts.com
 app.chatwoot.com
 cdn-assets.circleci.com
 logo.clearbit.com

@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-20T09:24:09.219Z
-# Size: 110121
+# Last Updated: 2024-11-20T12:44:43.012Z
+# Size: 110120
 # 
 #########################################
 .say.ac
@@ -103012,7 +103012,6 @@ httpdns-browser.platform.dbankcloud.cn
 .analysis.sooplive.co.kr
 .eventapi.sooplive.co.kr
 .adballoon.sooplive.co.kr
-.collector1.sooplive.co.kr
 .vod-mplayer.sooplive.co.kr
 .cmxqcv.sundayup.co.kr
 .nmgagm.teamflex.co.kr
