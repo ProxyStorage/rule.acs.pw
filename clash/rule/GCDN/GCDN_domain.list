@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-20T12:44:43.076Z
-# Size: 2684
+# Last Updated: 2024-11-20T15:23:57.225Z
+# Size: 2685
 # 
 #########################################
 rules.ac
@@ -1601,6 +1601,7 @@ img.jsdelivr.com
 data.jsdelivr.com
 cdn.jwplayer.com
 img.kbhgames.com
+cdn.leandata.com
 assets.leetcode.com
 static-lccn.leetcode.com
 services.linkfire.com
