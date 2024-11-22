@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-22T03:31:55.219Z
-# Size: 615
+# Last Updated: 2024-11-22T06:31:23.280Z
+# Size: 616
 # 
 #########################################
 .file.io
@@ -299,6 +299,7 @@ releases.whatpulse.org
 downloads.wordpress.org
 artifacts.electronjs.org
 releases.grapheneos.org
+update.greasyfork.org
 update.sleazyfork.org
 dl-cdn.alpinelinux.org
 mirrors.fedoraproject.org
