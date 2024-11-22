@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-11-22T15:23:27.891Z
-# Size: 760
+# Last Updated: 2024-11-22T18:30:14.056Z
+# Size: 759
 # 
 #########################################
 DOMAIN,url.cn
@@ -144,7 +144,6 @@ DOMAIN-SUFFIX,officewebapps.cn
 DOMAIN-SUFFIX,authing.co
 DOMAIN-SUFFIX,douban.fm
 DOMAIN-SUFFIX,jd.hk
-DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,netease.im
 DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,jianshu.io

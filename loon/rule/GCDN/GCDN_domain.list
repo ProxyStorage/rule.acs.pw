@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-22T15:23:27.925Z
-# Size: 2702
+# Last Updated: 2024-11-22T18:30:14.088Z
+# Size: 2704
 # 
 #########################################
 rules.ac
@@ -113,6 +113,7 @@ curl.se
 .gcr.si
 .gitapp.si
 .gitpage.si
+.cdn-zlib.sk
 0x0.st
 .pixhost.to
 .easylist.to
@@ -1801,6 +1802,7 @@ image.westinyou.com
 s0.wordpress.com
 .files.wordpress.com
 assets.zerohedge.com
+cdn.zhujiwiki.com
 static.adguardvpn.com
 packages.argotunnel.com
 agi.armorgames.com
