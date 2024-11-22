@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-22T09:24:01.483Z
-# Size: 2700
+# Last Updated: 2024-11-22T12:43:55.100Z
+# Size: 2702
 # 
 #########################################
 rules.ac
@@ -1704,6 +1704,7 @@ badge.buildkite.com
 doppler-config.cbsivideo.com
 cdn.ceres9350.com
 js.chargebee.com
+js1.chargebee.com
 assets.coingecko.com
 static.coingecko.com
 cdn.configcat.com
@@ -2321,6 +2322,7 @@ spoppe-b.azureedge.net
 ni-assets.azureedge.net
 edgestatic.azureedge.net
 typescript.azureedge.net
+decart-oasis.azureedge.net
 mobilecenter.azureedge.net
 claritystatic.azureedge.net
 xpaywalletcdn.azureedge.net
