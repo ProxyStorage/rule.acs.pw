@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-23T03:30:17.600Z
-# Size: 2704
+# Last Updated: 2024-11-23T06:30:00.308Z
+# Size: 2707
 # 
 #########################################
 rules.ac
@@ -2271,6 +2271,8 @@ js.hsforms.net
 js-eu1.hsforms.net
 .cdn2.hubspot.net
 avatars.hubspot.net
+file.izanmei.net
+static.izanmei.net
 pg2dhpc3p5ec22g3.jkforum.net
 opt.moovweb.net
 .cdn.mozilla.net
@@ -2562,6 +2564,7 @@ media.cmx.edu.kg
 s3.m.0x.mk
 secure.fanboy.co.nz
 static.zaobao.com.sg
+imgcdn.cna.com.tw
 j.udn.com.tw
 s.udn.com.tw
 static.cnbeta.com.tw
