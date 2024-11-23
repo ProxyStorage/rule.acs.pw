@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-23T06:30:00.307Z
-# Size: 2707
+# Last Updated: 2024-11-23T09:20:41.185Z
+# Size: 2710
 # 
 #########################################
 rules.ac
@@ -2212,6 +2212,7 @@ cdnjs.cat.net
 fonts.cat.net
 gravatar.cat.net
 cdn.css.net
+static.j51.net
 m.wsj.net
 s.wsj.net
 vir.wsj.net
@@ -2272,6 +2273,7 @@ js-eu1.hsforms.net
 +.cdn2.hubspot.net
 avatars.hubspot.net
 file.izanmei.net
+play.izanmei.net
 static.izanmei.net
 pg2dhpc3p5ec22g3.jkforum.net
 opt.moovweb.net
@@ -2411,6 +2413,7 @@ pcz.javidol.org
 cdn.mathjax.org
 archive.mozilla.org
 +.proxy.ustclug.org
+static.aizanmei.org
 fonts.codeberg.org
 assets.exercism.org
 image.lichess1.org
