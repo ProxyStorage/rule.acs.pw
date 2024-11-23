@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-23T09:20:41.186Z
-# Size: 2710
+# Last Updated: 2024-11-23T12:40:53.120Z
+# Size: 2713
 # 
 #########################################
 rules.ac
@@ -990,6 +990,7 @@ media.mas.to
 embed.tawk.to
 img.sflix.to
 static.cracked.to
+embed-v2.testimonial.to
 lain.bgm.tv
 4gtvimg2.4gtv.tv
 cdn.18jav.tv
@@ -2162,6 +2163,7 @@ oss-binaries.phusionpassenger.com
 static2.sharepointonline.com
 telemetry.1passwordservices.com
 assets.positional-bucket.com
+media.theresanaiforthat.com
 demo.unified-streaming.com
 media.datacenterdynamics.com
 cdn.cms-twdigitalassets.com
@@ -2629,6 +2631,7 @@ static.iris.informa.com
 .push.services.mozilla.com
 stubdownloader.services.mozilla.com
 app-static.eu.posthog.com
+ton.local.twitter.com
 widgets.media.weather.com
 widgets-red.media.weather.com
 static.community.workday.com

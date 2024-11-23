@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-23T09:20:41.196Z
-# Size: 616
+# Last Updated: 2024-11-23T12:40:53.131Z
+# Size: 617
 # 
 #########################################
 .file.io
@@ -36,6 +36,7 @@ fedorapeople.org
 .fnbuilds.services
 mirror.xtom.au
 mirrors.xtom.au
+download.mersenne.ca
 file.chobit.cc
 builds.paranoidandroid.co
 mirror.xtom.de
