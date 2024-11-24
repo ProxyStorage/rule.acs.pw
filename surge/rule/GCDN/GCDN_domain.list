@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-24T06:30:21.405Z
-# Size: 2713
+# Last Updated: 2024-11-24T09:20:31.157Z
+# Size: 2714
 # 
 #########################################
 rules.ac
@@ -1832,6 +1832,7 @@ apple-relay.cloudflare.com
 res.cloudinary.com
 fiverr-res.cloudinary.com
 cloudinary-res.cloudinary.com
+static-assets.codecademy.com
 cdn.commandbar.com
 frames-commandbar-prod.commandbar.com
 cdn.contentful.com
