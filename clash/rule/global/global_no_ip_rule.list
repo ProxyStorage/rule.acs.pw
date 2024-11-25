@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-11-25T03:34:10.416Z
-# Size: 658
+# Last Updated: 2024-11-25T06:32:38.032Z
+# Size: 659
 # 
 #########################################
 DOMAIN,wego.here.com
@@ -319,6 +319,7 @@ DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blogblog.com
+DOMAIN-SUFFIX,broadcom.com
 DOMAIN-SUFFIX,capitalg.com
 DOMAIN-SUFFIX,cbslocal.com
 DOMAIN-SUFFIX,coinbase.com
