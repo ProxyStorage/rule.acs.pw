@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-25T06:32:38.053Z
-# Size: 2714
+# Last Updated: 2024-11-25T09:25:19.753Z
+# Size: 2716
 # 
 #########################################
 rules.ac
@@ -1497,6 +1497,7 @@ cdn.shopify.com
 sdk.snapkit.com
 static.srcspot.com
 assets.st-note.com
+cdn.svgator.com
 wpmedia.tealium.com
 cdn.termius.com
 autoupdate.termius.com
@@ -1567,6 +1568,7 @@ downloads.coindesk.com
 crt.comodoca.com
 cds.connatix.com
 img.connatix.com
+assets.controld.com
 cdn.credible.com
 cdn.datacamp.com
 api.dicebear.com

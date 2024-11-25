@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-25T06:32:38.065Z
-# Size: 617
+# Last Updated: 2024-11-25T09:25:19.765Z
+# Size: 618
 # 
 #########################################
 +.file.io
@@ -506,6 +506,7 @@ download-core.sys.truenas.net
 +.debian.map.fastlydns.net
 +.ftp2.de.debian.org
 mirrors.edge.kernel.org
+versioncheck.addons.mozilla.org
 versioncheck-bg.addons.mozilla.org
 +.s3.fr-par.scw.cloud
 +.s3-website.fr-par.scw.cloud
