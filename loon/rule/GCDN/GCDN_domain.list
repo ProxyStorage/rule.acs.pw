@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-25T12:46:03.313Z
-# Size: 2716
+# Last Updated: 2024-11-25T15:24:19.243Z
+# Size: 2718
 # 
 #########################################
 rules.ac
@@ -1177,6 +1177,7 @@ web-assets.ifttt.com
 i.imgur.com
 s.imgur.com
 .stack.imgur.com
+i.ioiox.com
 static.javhd.com
 creator-image.javhd.com
 wandi-6402.kxcdn.com
@@ -2245,6 +2246,7 @@ img.biguz.net
 fonts.bunny.net
 thumbnails.cbsig.net
 static-act.imoim.net
+jsdelivr.ioiox.net
 static-cdn.jtvnw.net
 static.monei.net
 img.pawoo.net

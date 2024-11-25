@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-25T12:46:03.325Z
-# Size: 618
+# Last Updated: 2024-11-25T15:24:19.256Z
+# Size: 619
 # 
 #########################################
 +.file.io
@@ -498,6 +498,7 @@ download.visualstudio.microsoft.com
 +.s3.us-west-002.backblazeb2.com
 update.code.visualstudio.com
 az764295.vo.msecnd.net
+download-installer.cdn.mozilla.net
 download-core.sys.truenas.net
 +.content.cdp.bethesda.net
 +.download.cdp.bethesda.net
