@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's IP Rule
-# Last Updated: 2024-11-26T01:48:51.590Z
-# Size: 4191
+# Last Updated: 2024-11-26T03:33:07.770Z
+# Size: 4186
 # No Resolve
 #########################################
 IP-CIDR,140.205.1.0/24,no-resolve
@@ -849,10 +849,7 @@ IP-CIDR,101.132.0.0/15,no-resolve
 IP-CIDR,101.198.0.0/22,no-resolve
 IP-CIDR,101.198.196.0/22,no-resolve
 IP-CIDR,101.199.48.0/20,no-resolve
-IP-CIDR,101.199.97.0/24,no-resolve
-IP-CIDR,101.199.112.0/23,no-resolve
-IP-CIDR,101.199.114.0/24,no-resolve
-IP-CIDR,101.199.125.0/24,no-resolve
+IP-CIDR,101.199.112.0/24,no-resolve
 IP-CIDR,101.199.128.0/23,no-resolve
 IP-CIDR,101.199.196.0/22,no-resolve
 IP-CIDR,101.200.0.0/15,no-resolve
@@ -887,7 +884,6 @@ IP-CIDR,102.32.0.0/15,no-resolve
 IP-CIDR,102.134.32.0/22,no-resolve
 IP-CIDR,102.134.56.0/22,no-resolve
 IP-CIDR,102.141.200.0/22,no-resolve
-IP-CIDR,102.220.88.0/22,no-resolve
 IP-CIDR,103.1.8.0/22,no-resolve
 IP-CIDR,103.1.20.0/22,no-resolve
 IP-CIDR,103.1.168.0/22,no-resolve
@@ -1108,7 +1104,6 @@ IP-CIDR,103.74.24.0/21,no-resolve
 IP-CIDR,103.74.48.0/22,no-resolve
 IP-CIDR,103.74.125.0/24,no-resolve
 IP-CIDR,103.74.126.0/24,no-resolve
-IP-CIDR,103.75.104.0/22,no-resolve
 IP-CIDR,103.75.152.0/22,no-resolve
 IP-CIDR,103.76.60.0/22,no-resolve
 IP-CIDR,103.76.84.0/23,no-resolve
