@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-26T12:46:10.737Z
-# Size: 2718
+# Last Updated: 2024-11-26T15:25:00.946Z
+# Size: 2720
 # 
 #########################################
 rules.ac
@@ -449,6 +449,7 @@ yummlystatic.com
 +.oaiusercontent.com
 +.quip-marketing.com
 +.teamtailor-cdn.com
++.warnermediacdn.com
 +.yourimageshare.com
 +.cloudflare-ipfs.com
 +.howtogeekimages.com
@@ -612,6 +613,7 @@ simpleicons.org
 publicsuffix.org
 +.pythonhosted.org
 +.streamhentai.org
++.featureassets.org
 +.someonewhocares.org
 +.bmp.ovh
 +.esm.run
