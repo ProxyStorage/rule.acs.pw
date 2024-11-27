@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-27T09:24:33.344Z
-# Size: 2720
+# Last Updated: 2024-11-27T12:46:41.161Z
+# Size: 2722
 # 
 #########################################
 rules.ac
@@ -809,6 +809,7 @@ packages.httpie.io
 +.ipfs.infura.io
 +.cdn.ipinfo.io
 website-cdn.ipinfo.io
+edge.marker.io
 +.ipfs1.pixura.io
 cdn.readme.io
 files.readme.io
@@ -2121,6 +2122,7 @@ prod.addictinggames.com
 userimg.customeriomail.com
 userimg-bee.customeriomail.com
 userimg-assets.customeriomail.com
+resources.esportsinsider.com
 cdn-live.foreignaffairs.com
 static-gcp.freepikcompany.com
 code.ionicframework.com
