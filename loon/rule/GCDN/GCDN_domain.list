@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-29T09:24:32.550Z
-# Size: 2728
+# Last Updated: 2024-11-29T12:45:21.847Z
+# Size: 2733
 # 
 #########################################
 rules.ac
@@ -679,6 +679,7 @@ participants.evolv.ai
 s3.masto.ai
 r2.leadsy.ai
 prod-cdn.webtune.ai
+assets.cloudpilot.ai
 pplx-next-static-public.perplexity.ai
 i.snap.as
 .ipfs.greyh.at
@@ -1047,6 +1048,7 @@ front-resource.fs.com
 consent-notice.ft.com
 consent-manager.ft.com
 static.ui.com
+status.ui.com
 secure-uploads.ui.com
 static2.avg.com
 cdn.cnn.com
@@ -1157,6 +1159,7 @@ cdn.db-ip.com
 static.deepl.com
 cdn.faire.com
 static.fc2cn.com
+sprig.figma.com
 static.figma.com
 s3-alpha.figma.com
 s3-alpha-sig.figma.com
@@ -1481,6 +1484,7 @@ img.ltyears.com
 assets.mailgun.com
 img-cos.mandaoo.com
 static.maxmind.com
+image.mgstage.com
 images.moegoat.com
 static.moegoat.com
 static.moonpay.com
@@ -2031,6 +2035,7 @@ cdn.trustedsite.com
 cms.typenetwork.com
 cloud.typenetwork.com
 fastly-cloud.typenetwork.com
+tag.unifyintent.com
 psp-logos.uptimerobot.com
 userfiles.uptimerobot.com
 asset-cdn.uscardforum.com
