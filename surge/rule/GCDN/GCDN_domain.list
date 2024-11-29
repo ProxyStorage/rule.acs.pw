@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-29T12:45:21.846Z
-# Size: 2733
+# Last Updated: 2024-11-29T15:24:24.335Z
+# Size: 2734
 # 
 #########################################
 rules.ac
@@ -1656,6 +1656,7 @@ cdn2.onlyfans.com
 cdn3.onlyfans.com
 static.onlyfans.com
 thumbs.onlyfans.com
+static2.onlyfans.com
 .i.optimole.com
 cdn.osxdaily.com
 widgets.outbrain.com
