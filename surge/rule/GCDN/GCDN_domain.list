@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-11-30T12:40:59.712Z
-# Size: 2734
+# Last Updated: 2024-11-30T15:21:33.394Z
+# Size: 2736
 # 
 #########################################
 rules.ac
@@ -1164,6 +1164,7 @@ static.figma.com
 s3-alpha.figma.com
 s3-alpha-sig.figma.com
 s3-figma-plugin-images-production-sig.figma.com
+cdn.gettr.com
 media.gettr.com
 cdn-1.ggjav.com
 cdns.gigya.com
@@ -1615,6 +1616,7 @@ cdn.ghostery.com
 cdn.gofundme.com
 snippet.growsumo.com
 cdn.hashnode.com
+imgs3.hcaptcha.com
 newassets.hcaptcha.com
 cdn.hinative.com
 fastporndelivery.hqporner.com
