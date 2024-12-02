@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-02T06:33:26.961Z
-# Size: 2738
+# Last Updated: 2024-12-02T09:26:14.101Z
+# Size: 2740
 # 
 #########################################
 rules.ac
@@ -1359,6 +1359,7 @@ cdn.seondf.com
 cdn.setapp.com
 imgix.setapp.com
 stats.setapp.com
+b.sf-syn.com
 assets.shazam.com
 cdn.sketch.com
 web-assets.strava.com
@@ -2081,6 +2082,7 @@ spcdn.incartupsell.com
 static.launchdarkly.com
 cdn-c.leavemealone.com
 icons.leavemealone.com
+unsubscribe-imgs.leavemealone.com
 assets.lemonsqueezy.com
 player.louisvuitton.com
 cdn.manageengine.com

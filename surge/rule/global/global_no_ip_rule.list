@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-12-02T06:33:26.940Z
-# Size: 666
+# Last Updated: 2024-12-02T09:26:14.079Z
+# Size: 668
 # 
 #########################################
 DOMAIN,wego.here.com
@@ -344,6 +344,7 @@ DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,leetcode.com
 DOMAIN-SUFFIX,linecorp.com
 DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,localazy.com
 DOMAIN-SUFFIX,mikrotik.com
 DOMAIN-SUFFIX,mixcloud.com
 DOMAIN-SUFFIX,mypikpak.com
@@ -569,6 +570,7 @@ DOMAIN-SUFFIX,azure-mobile.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,eu.org
+DOMAIN-SUFFIX,kde.org
 DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,4cdn.org
