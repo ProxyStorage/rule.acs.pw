@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-12-02T15:25:17.213Z
-# Size: 760
+# Last Updated: 2024-12-02T18:31:47.070Z
+# Size: 761
 # 
 #########################################
 DOMAIN,url.cn
@@ -561,6 +561,7 @@ DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,bilicomic.com
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,camera360.com
 DOMAIN-SUFFIX,chaoxingv.com
 DOMAIN-SUFFIX,chazidian.com
