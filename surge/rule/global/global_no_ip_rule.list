@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-12-03T06:33:33.027Z
-# Size: 668
+# Last Updated: 2024-12-03T09:24:51.644Z
+# Size: 669
 # 
 #########################################
 DOMAIN,wego.here.com
@@ -94,6 +94,7 @@ DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,line-beta.me
+DOMAIN-SUFFIX,booth.pm
 DOMAIN-SUFFIX,jav.pw
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,muku.tv

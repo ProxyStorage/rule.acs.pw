@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-03T06:33:33.049Z
-# Size: 2740
+# Last Updated: 2024-12-03T09:24:51.666Z
+# Size: 2742
 # 
 #########################################
 rules.ac
@@ -718,6 +718,7 @@ app-static.turtl.co
 img.ifunny.co
 static.ifunny.co
 imageproxy.ifunny.co
+cdn.vector.co
 cdn.decrypt.co
 img.decrypt.co
 cdn.jolipage.co
@@ -1702,6 +1703,7 @@ assets.unifi-ai.com
 plus.unsplash.com
 images.unsplash.com
 widget.usepylon.com
+apichatwidget.usepylon.com
 js.userflow.com
 widget.usersnap.com
 crl.verisign.com
