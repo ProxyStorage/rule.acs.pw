@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-03T03:37:32.354Z
-# Size: 620
+# Last Updated: 2024-12-03T06:33:33.062Z
+# Size: 625
 # 
 #########################################
 ghp.ci
@@ -40,6 +40,7 @@ mirrors.xtom.au
 download.mersenne.ca
 file.chobit.cc
 builds.paranoidandroid.co
+ftp.gwdg.de
 mirror.xtom.de
 mirrors.xtom.de
 mirror.xtom.ee
@@ -91,6 +92,9 @@ download.xbox.com
 mirror.xtom.com
 mirrors.xtom.com
 mirror-cdn.xtom.com
+.s3.brave.com
+go-updater.brave.com
+componentupdater.brave.com
 .swupdate.chaos.com
 download.cpuid.com
 cdn-patch.swtor.com
@@ -226,6 +230,7 @@ update.googleapis.com
 deb.nodesource.com
 dl.cleverfiles.com
 .egdownload.fastly-edge.com
+update.kiwibrowser.com
 downloads.raspberrypi.com
 .content.steampowered.com
 content-origin.steampowered.com
