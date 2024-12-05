@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-12-05T12:47:36.600Z
-# Size: 675
+# Last Updated: 2024-12-05T15:25:34.091Z
+# Size: 678
 # 
 #########################################
 DOMAIN,wego.here.com
@@ -502,6 +502,7 @@ DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,elasticbeanstalk.com
 DOMAIN-SUFFIX,fastly-analytics.com
+DOMAIN-SUFFIX,smashingmagazine.com
 DOMAIN-SUFFIX,surge-activation.com
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,chromeexperiments.com
@@ -659,9 +660,11 @@ DOMAIN-SUFFIX,vercel.live
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,sketch.cloud
 DOMAIN-SUFFIX,discourse.group
+DOMAIN-SUFFIX,smashing.media
 DOMAIN-SUFFIX,javhd.today
 DOMAIN-SUFFIX,archive.today
 DOMAIN-SUFFIX,ant.design
+DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,c.mi.com

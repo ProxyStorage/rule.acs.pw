@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-05T12:47:36.619Z
-# Size: 2752
+# Last Updated: 2024-12-05T15:25:34.111Z
+# Size: 2753
 # 
 #########################################
 rules.ac
@@ -2561,6 +2561,7 @@ patterns.hiive.cloud
 resources-live.sketch.cloud
 media.cleanshot.cloud
 assets.buttondown.email
+files.smashing.media
 .ipfs.telos.miami
 .ipfs.kavin.rocks
 cdn.deta.space
