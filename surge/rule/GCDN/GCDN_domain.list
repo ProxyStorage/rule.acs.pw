@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-05T09:24:56.036Z
-# Size: 2750
+# Last Updated: 2024-12-05T12:47:36.619Z
+# Size: 2752
 # 
 #########################################
 rules.ac
@@ -2055,6 +2055,7 @@ psp-logos.uptimerobot.com
 userfiles.uptimerobot.com
 asset-cdn.uscardforum.com
 .js.usemessages.com
+static-cdn.usertesting.com
 app.viral-loops.com
 img2.xiangbinjun.com
 images.youracclaim.com
@@ -2145,6 +2146,7 @@ js.verygoodvault.com
 explorer-api.walletconnect.com
 cdn.windowsreport.com
 prod.addictinggames.com
+cdn.answeroverflow.com
 userimg.customeriomail.com
 userimg-bee.customeriomail.com
 userimg-assets.customeriomail.com
