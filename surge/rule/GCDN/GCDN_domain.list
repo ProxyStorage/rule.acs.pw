@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-07T09:21:38.367Z
-# Size: 2753
+# Last Updated: 2024-12-07T12:41:45.270Z
+# Size: 2756
 # 
 #########################################
 rules.ac
@@ -285,6 +285,7 @@ redircdn.com
 .stapecdn.com
 .streamhk.com
 .stripcdn.com
+.stylexjs.com
 .tildacdn.com
 .tpdfiles.com
 .ucarecdn.com
@@ -586,6 +587,7 @@ headway-widget.net
 .hsto.org
 .pypi.org
 .91pic.org
+.eggjs.org
 godoc.org
 .lencr.org
 vuejs.org
@@ -1167,6 +1169,7 @@ static.fc2cn.com
 sprig.figma.com
 static.figma.com
 s3-alpha.figma.com
+marketing.figma.com
 s3-alpha-sig.figma.com
 s3-figma-plugin-images-production-sig.figma.com
 a.gawby.com
