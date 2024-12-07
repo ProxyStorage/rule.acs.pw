@@ -1,10 +1,11 @@
 #########################################
 # DreamyTZK's Process Name Rule
-# Last Updated: 2024-12-07T15:21:35.359Z
-# Size: 4
+# Last Updated: 2024-12-07T18:29:11.834Z
+# Size: 5
 # Only available on macOS
 #########################################
 PROCESS-NAME,nekox.messenger
 PROCESS-NAME,org.telegram.messenger
 PROCESS-NAME,telegram-desktop
 PROCESS-NAME,tw.nekomimi.nekogram
+PROCESS-NAME,xyz.nextalone.nagram
