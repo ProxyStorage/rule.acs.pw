@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-08T12:42:40.418Z
-# Size: 2756
+# Last Updated: 2024-12-08T15:22:49.265Z
+# Size: 2761
 # 
 #########################################
 rules.ac
@@ -546,6 +546,7 @@ minotar.net
 .quoracdn.net
 .sitescdn.net
 .smassets.net
+.tildacdn.net
 .turboimg.net
 .yastatic.net
 .ctfassets.net
@@ -650,6 +651,7 @@ phishing.army
 nightly.link
 .nftstorage.link
 .trustless-gateway.link
+.airio3.live
 .doppiocdn.live
 .kinsta.page
 .instant.page
@@ -1159,6 +1161,7 @@ media-s3-us-west-1.ceros.com
 assets-s3-us-east-1.ceros.com
 asset.chase.com
 sites.chase.com
+assets-themes.chess.com
 img.clerk.com
 scdn.clerk.com
 cdn.cliqz.com
@@ -2328,6 +2331,8 @@ t.nhentai.net
 static.nhentai.net
 cdn.perfops.net
 img.perfops.net
+devnull.perfops.net
+rum-cdn.perfops.net
 siloh-ns1.plutotv.net
 p.typekit.net
 use.typekit.net

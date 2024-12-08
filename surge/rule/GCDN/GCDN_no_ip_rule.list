@@ -1,10 +1,11 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-12-08T12:42:40.419Z
-# Size: 43
+# Last Updated: 2024-12-08T15:22:49.265Z
+# Size: 45
 # 
 #########################################
 DOMAIN,cdn-msp.jmcomic.me
+DOMAIN,cdn-msp.jmcomic-zzz.one
 DOMAIN,cdn-msp.18comic.vip
 DOMAIN-SUFFIX,download.jetbrains.com
 DOMAIN-SUFFIX,downloads.marketplace.jetbrains.com
@@ -25,6 +26,7 @@ DOMAIN-WILDCARD,cdn?-thumbs.pornhost.com
 DOMAIN-WILDCARD,cdn?-dl.pornhost.com
 DOMAIN-WILDCARD,cdn-msp?.18comic.vip
 DOMAIN-WILDCARD,cdn-msp?.jmcomic.me
+DOMAIN-WILDCARD,cdn-msp?.jmcomic-zzz.one
 DOMAIN-WILDCARD,static-??-cdn.eporner.com
 DOMAIN-WILDCARD,file?.mikuclub.fun
 DOMAIN-WILDCARD,cdn?.mikuclub.fun
