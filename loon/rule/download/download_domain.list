@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-09T09:26:23.114Z
-# Size: 626
+# Last Updated: 2024-12-09T12:49:01.139Z
+# Size: 627
 # 
 #########################################
 ghp.ci
@@ -286,6 +286,7 @@ cdn.kde.org
 invent.kde.org
 download.gimp.org
 cdimage.kali.org
+downloads.xiph.org
 .deb.debian.org
 .ftp.debian.org
 .archive.debian.org

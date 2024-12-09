@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-12-09T09:26:23.068Z
+# Last Updated: 2024-12-09T12:49:01.094Z
 # Size: 761
 # 
 #########################################
@@ -560,6 +560,7 @@ DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,bilicomic.com
 DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,camera360.com
@@ -754,7 +755,6 @@ DOMAIN-SUFFIX,mijia.tech
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,assets.msn.cn
 DOMAIN-SUFFIX,71.am.com
-DOMAIN-SUFFIX,bytedance.com.com
 DOMAIN-SUFFIX,steam.ksyna.com
 DOMAIN-SUFFIX,steam.clngaa.com
 DOMAIN-SUFFIX,dl.eccdnx.com
