@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-09T06:33:33.114Z
-# Size: 625
+# Last Updated: 2024-12-09T09:26:23.114Z
+# Size: 626
 # 
 #########################################
 ghp.ci
@@ -113,6 +113,7 @@ download.sketch.com
 .archive.ubuntu.com
 security.ubuntu.com
 softwareupdate.vmware.com
+dl.wechat.com
 static.adguard.com
 download.anydesk.com
 dl.devmate.com

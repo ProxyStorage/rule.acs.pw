@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-09T06:33:33.101Z
-# Size: 2761
+# Last Updated: 2024-12-09T09:26:23.101Z
+# Size: 2765
 # 
 #########################################
 rules.ac
@@ -403,6 +403,7 @@ bundlephobia.com
 .img-dpreview.com
 .jinyingimage.com
 .kinja-static.com
+.larksuitecdn.com
 .media-amazon.com
 .meetupstatic.com
 .olemovienews.com
@@ -682,6 +683,7 @@ media.evolv.ai
 participants.evolv.ai
 s3.masto.ai
 r2.leadsy.ai
+static.netify.ai
 prod-cdn.webtune.ai
 assets.cloudpilot.ai
 pplx-next-static-public.perplexity.ai
@@ -1506,6 +1508,7 @@ static.moegoat.com
 static.moonpay.com
 iframe.nbcnews.com
 nodeassets.nbcnews.com
+assets.nflxext.com
 static.olelive.com
 assets.ontrack.com
 cdn.parsely.com
@@ -2462,6 +2465,7 @@ pcz.javidol.org
 cdn.mathjax.org
 archive.mozilla.org
 .proxy.ustclug.org
+tools-static.wmflabs.org
 static.aizanmei.org
 fonts.codeberg.org
 assets.exercism.org

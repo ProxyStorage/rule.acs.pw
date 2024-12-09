@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-12-09T06:33:33.080Z
-# Size: 679
+# Last Updated: 2024-12-09T09:26:23.079Z
+# Size: 680
 # 
 #########################################
 DOMAIN,wego.here.com
@@ -286,6 +286,7 @@ DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,cbsnews.com
 DOMAIN-SUFFIX,dnsleak.com
 DOMAIN-SUFFIX,doujins.com
+DOMAIN-SUFFIX,eporner.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,foxnews.com
 DOMAIN-SUFFIX,godaddy.com
@@ -305,6 +306,7 @@ DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,picacgp.com
 DOMAIN-SUFFIX,picacgy.com
+DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,redtube.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,scpwiki.com
@@ -338,7 +340,6 @@ DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,dribbble.com
 DOMAIN-SUFFIX,engadget.com
 DOMAIN-SUFFIX,euronews.com
-DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,flipkart.com
 DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,ghostery.com
@@ -508,7 +509,6 @@ DOMAIN-SUFFIX,surge-activation.com
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,chromeexperiments.com
 DOMAIN-SUFFIX,cloudflareresolve.com
-DOMAIN-SUFFIX,facebook-hardware.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,lineshoppingseller.com
 DOMAIN-SUFFIX,returnyoutubedislike.com
@@ -609,6 +609,7 @@ DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,toolforge.org
 DOMAIN-SUFFIX,travis-ci.org
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikimedia.org
@@ -676,10 +677,10 @@ DOMAIN-SUFFIX,dnsleak.asn247.net
 DOMAIN-SUFFIX,ip-scan.adspower.net
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,pinterest
-DOMAIN-KEYWORD,porn
 USER-AGENT,Roam*
