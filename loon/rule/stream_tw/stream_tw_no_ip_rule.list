@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-12-10T09:25:41.286Z
+# Last Updated: 2024-12-10T12:48:35.360Z
 # Size: 25
 # 
 #########################################
@@ -22,8 +22,8 @@ DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,viblast.com
 DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,kktv.com.tw
-DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,ani.gamer.com.tw
 DOMAIN-KEYWORD,.hbogoasia.
 USER-AGENT,com.kktv.ios.kktv*
 USER-AGENT,KKTV*

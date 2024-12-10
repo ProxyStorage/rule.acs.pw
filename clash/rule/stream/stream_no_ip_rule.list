@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-12-10T09:25:41.282Z
+# Last Updated: 2024-12-10T12:48:35.356Z
 # Size: 257
 # 
 #########################################
@@ -222,7 +222,6 @@ DOMAIN-SUFFIX,spotify.design
 DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,kktv.com.tw
-DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,kkbox.com.tw
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,skyking.com.tw
@@ -242,6 +241,7 @@ DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
 DOMAIN-SUFFIX,dcalivedazn.akamaized.net
 DOMAIN-SUFFIX,dcblivedazn.akamaized.net
 DOMAIN-SUFFIX,spotify-com.akamaized.net
+DOMAIN-SUFFIX,ani.gamer.com.tw
 DOMAIN-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net
 DOMAIN-SUFFIX,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,psg.cdn.hgc.com.hk

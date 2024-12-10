@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-10T09:25:41.299Z
-# Size: 2765
+# Last Updated: 2024-12-10T12:48:35.373Z
+# Size: 2773
 # 
 #########################################
 rules.ac
@@ -269,6 +269,7 @@ geoip-js.com
 .kirafile.com
 .lowescdn.com
 momentjs.com
+.msftncsi.com
 .muscache.com
 .myavlive.com
 .nitrocdn.com
@@ -393,6 +394,7 @@ optimizely.com
 .uploadhouse.com
 .webpkgcache.com
 .xvideos-cdn.com
+.appsflyersdk.com
 .bootstrapcdn.com
 bundlephobia.com
 .cdninstagram.com
@@ -614,6 +616,7 @@ open-vsx.org
 .getcomposer.org
 .schemastore.org
 simpleicons.org
+.cdn-telegram.org
 publicsuffix.org
 .pythonhosted.org
 .streamhentai.org
@@ -1134,6 +1137,7 @@ static-cdn.123rf.com
 e3.365dm.com
 wwwimages2.adobe.com
 pba.apple.com
+apple-relay.apple.com
 events-live.apple.com
 lcdn-locator.apple.com
 events-delivery.apple.com
@@ -1528,6 +1532,7 @@ cdn.sheetjs.com
 cdn.shopify.com
 sdk.snapkit.com
 static.srcspot.com
+cdn.st-note.com
 assets.st-note.com
 cdn.svgator.com
 wpmedia.tealium.com
@@ -2249,6 +2254,7 @@ objects.hit.moe
 .cdn.skk.moe
 img.skk.moe
 pic.skk.moe
+latency-test.skk.moe
 hv-monsterdb-data.skk.moe
 ovo.wxw.moe
 pic.cangku.moe
@@ -2608,6 +2614,7 @@ tags.news.com.au
 res.abc.net.au
 registry.api.cnn.io
 static-mh.content.disney.io
+.ingest.us.sentry.io
 .cdn.manage.runcloud.io
 at.adtech.redventures.io
 pics.dmm.co.jp
@@ -2725,6 +2732,7 @@ static.na1.visioncritical.com
 static.global.visioncritical.com
 stats.setapp.macpaw.dev
 assets.science.nasa.gov
+latency-test.lab.skk.moe
 assets.video.yahoo.net
 brick.freetls.fastly.net
 practicaldev-herokuapp-com.freetls.fastly.net
