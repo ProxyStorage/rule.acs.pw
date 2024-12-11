@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-12-11T06:32:54.520Z
-# Size: 681
+# Last Updated: 2024-12-11T09:25:10.624Z
+# Size: 682
 # 
 #########################################
 DOMAIN,wego.here.com
@@ -498,6 +498,7 @@ DOMAIN-SUFFIX,redtubepremium.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,businessinsider.com
+DOMAIN-SUFFIX,downdetectorapi.com
 DOMAIN-SUFFIX,perfect-privacy.com
 DOMAIN-SUFFIX,speedtestcustom.com
 DOMAIN-SUFFIX,strongleakstest.com
