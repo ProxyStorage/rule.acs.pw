@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-12T12:48:14.560Z
-# Size: 2776
+# Last Updated: 2024-12-12T15:25:18.515Z
+# Size: 2780
 # 
 #########################################
 rules.ac
@@ -543,6 +543,7 @@ pkg-size.dev
 minotar.net
 .pstatic.net
 .sstatic.net
+.forgecdn.net
 .jsdelivr.net
 .line-cdn.net
 .pixelcdn.net
@@ -1438,6 +1439,7 @@ organizer.bizzabo.com
 .notify.bugsnag.com
 .sessions.bugsnag.com
 static.bytepan.com
+.vodvideo.cbsnews.com
 w.chatlio.com
 cdn.chess24.com
 assets.chess24.com
@@ -1687,6 +1689,7 @@ static2.onlyfans.com
 .i.optimole.com
 cdn.osxdaily.com
 widgets.outbrain.com
+content.overwolf.com
 cdn.playwire.com
 static.politico.com
 cdn-assets.porntube.com
@@ -1885,6 +1888,7 @@ f.convertkit.com
 media.convertkit.com
 assets.convertkit.com
 images.crunchbase.com
+static-beta.curseforge.com
 .cdn.discordapp.com
 icons.duckduckgo.com
 external-content.duckduckgo.com
