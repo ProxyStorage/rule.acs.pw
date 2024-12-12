@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-12-12T15:25:18.494Z
-# Size: 683
+# Last Updated: 2024-12-12T18:32:22.841Z
+# Size: 685
 # 
 #########################################
 DOMAIN,wego.here.com
@@ -135,6 +135,7 @@ DOMAIN-SUFFIX,wix.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,xxx.com
 DOMAIN-SUFFIX,9gag.com
+DOMAIN-SUFFIX,bang.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,dish.com
 DOMAIN-SUFFIX,dynu.com
@@ -360,6 +361,7 @@ DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,nicehash.com
 DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,pastebin.com
+DOMAIN-SUFFIX,porntube.com
 DOMAIN-SUFFIX,quillbot.com
 DOMAIN-SUFFIX,recombee.com
 DOMAIN-SUFFIX,saucenao.com
