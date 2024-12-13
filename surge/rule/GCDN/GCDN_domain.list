@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-13T15:24:30.105Z
-# Size: 2779
+# Last Updated: 2024-12-13T18:31:26.411Z
+# Size: 2776
 # 
 #########################################
 rules.ac
@@ -1273,9 +1273,9 @@ img.bttimg.com
 icons.buffer.com
 static.buffer.com
 start-page.buffer.com
+eu.cdnbye.com
 video.cdnbye.com
 signal.cdnbye.com
-tracker.cdnbye.com
 opensignal.cdnbye.com
 signalcloud.cdnbye.com
 sf-flow-web-cdn.ciciai.com
@@ -1392,7 +1392,6 @@ img.supjav.com
 assets.swoogo.com
 cdn-static.talent.com
 image.thefly.com
-cdn.thisav.com
 cdn.tracxn.com
 cdn.ttloli.com
 cdn2.ttloli.com
@@ -1695,7 +1694,6 @@ widgets.outbrain.com
 content.overwolf.com
 cdn.playwire.com
 static.politico.com
-cdn-thumbs.porntube.com
 api.qrserver.com
 libs.quillbot.com
 assets.quillbot.com
@@ -1753,7 +1751,6 @@ upos-sz-mirrorcosbstar1.bilivideo.com
 media.breitbart.com
 badge.buildkite.com
 doppler-config.cbsivideo.com
-cdn.ceres9350.com
 js.chargebee.com
 js1.chargebee.com
 assets.coingecko.com
