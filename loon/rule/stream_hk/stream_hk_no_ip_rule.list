@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-12-14T12:41:30.505Z
-# Size: 26
+# Last Updated: 2024-12-14T15:21:49.818Z
+# Size: 28
 # 
 #########################################
 DOMAIN,hbounify-prod.evergent.com
@@ -15,6 +15,7 @@ DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN,manifest.prod.boltdns.net
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN-SUFFIX,viu.tv
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,tvb.com
@@ -22,6 +23,7 @@ DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,biliintl.com
+DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,viu.now.com
 DOMAIN-SUFFIX,psg.cdn.hgc.com.hk

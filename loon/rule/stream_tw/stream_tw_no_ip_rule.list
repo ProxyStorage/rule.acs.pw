@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-12-14T12:41:30.500Z
-# Size: 25
+# Last Updated: 2024-12-14T15:21:49.813Z
+# Size: 27
 # 
 #########################################
 DOMAIN,hbounify-prod.evergent.com
@@ -14,12 +14,14 @@ DOMAIN,4gtvfreepcvod-cds.cdn.hinet.net
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,manifest.prod.boltdns.net
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,viblast.com
+DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,bahamut.com.tw

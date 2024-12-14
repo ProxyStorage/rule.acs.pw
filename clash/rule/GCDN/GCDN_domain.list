@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-14T12:41:30.515Z
-# Size: 2776
+# Last Updated: 2024-12-14T15:21:49.827Z
+# Size: 2778
 # 
 #########################################
 rules.ac
@@ -2105,6 +2105,7 @@ cdn.dynamicyield.com
 st-eu.dynamicyield.com
 cdn-eu.dynamicyield.com
 static.filestackapi.com
+m3u8.girigirilove.com
 cdn.hongkongcard.com
 cdn1.identitymind.com
 spcdn.incartupsell.com
@@ -2517,6 +2518,7 @@ playgroundcdn.typescriptlang.org
 i.creativecommons.org
 rawmarkdown.cloudflareaccess.org
 assets.gcore.pro
+play.xfvod.pro
 pics.x-n-x-x.pro
 img.foresightnews.pro
 cms-assets.webediamovies.pro
