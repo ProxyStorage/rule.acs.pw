@@ -75,7 +75,8 @@
         "openai",
         "colab",
         "developerprofiles",
-        "generativelanguage"
+        "generativelanguage",
+        "alkalimakersuite-pa.clients6.google.com"
       ],
       "process_name": [],
       "domain_regex": []
