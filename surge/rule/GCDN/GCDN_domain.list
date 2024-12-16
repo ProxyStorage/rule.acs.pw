@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-16T06:33:48.014Z
-# Size: 2813
+# Last Updated: 2024-12-16T09:26:02.938Z
+# Size: 2819
 # 
 #########################################
 rules.ac
@@ -1096,6 +1096,9 @@ ovp.itv.com
 assets.msn.com
 .cfcdn.mux.com
 image.mux.com
+sp.nba.com
+cdn.nba.com
+tags.nba.com
 g1.nyt.com
 mwcm.nyt.com
 static01.nyt.com
@@ -2616,6 +2619,7 @@ patterns.hiive.cloud
 resources-live.sketch.cloud
 media.cleanshot.cloud
 assets.buttondown.email
+jssdk.opin.media
 files.smashing.media
 .ipfs.telos.miami
 .ipfs.kavin.rocks
@@ -2784,6 +2788,7 @@ res-geo.cdn.office.net
 .myanalytics.cdn.office.net
 cdn.forms.office.net
 cdn.graph.office.net
+support.content.office.net
 avatars.mds.yandex.net
 .crash-reports.browser.yandex.net
 interactive-examples.mdn.mozilla.net
@@ -2817,3 +2822,4 @@ static-resource.np.community.playstation.net
 gfx-data.news-engineering.aws.wapo.pub
 cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
+cdn.prod.ext.web.purview.azure.com
