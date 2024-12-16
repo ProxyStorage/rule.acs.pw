@@ -1,5 +1,5 @@
 #!name==Github Host 映射
-#!desc=来源于：https://github.com/521xueweihan/GitHub520 update:2024-12-16T18:32:09.146Z
+#!desc=来源于：https://github.com/521xueweihan/GitHub520 update:2024-12-16T21:21:30.411Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
@@ -25,11 +25,11 @@ collector.github.com = 140.82.114.22
 desktop.githubusercontent.com = 185.199.108.133
 favicons.githubusercontent.com = 185.199.108.133
 gist.github.com = 140.82.112.4
-github-cloud.s3.amazonaws.com = 3.5.28.79
-github-com.s3.amazonaws.com = 52.217.121.193
-github-production-release-asset-2e65be.s3.amazonaws.com = 52.217.224.161
-github-production-repository-file-5c1aeb.s3.amazonaws.com = 52.216.219.17
-github-production-user-asset-6210df.s3.amazonaws.com = 3.5.30.172
+github-cloud.s3.amazonaws.com = 16.182.40.193
+github-com.s3.amazonaws.com = 52.217.169.65
+github-production-release-asset-2e65be.s3.amazonaws.com = 52.216.244.132
+github-production-repository-file-5c1aeb.s3.amazonaws.com = 52.216.94.3
+github-production-user-asset-6210df.s3.amazonaws.com = 3.5.8.222
 github.blog = 192.0.66.2
 github.com = 140.82.112.3
 github.community = 140.82.112.18
@@ -44,6 +44,5 @@ objects.githubusercontent.com = 185.199.108.133
 pipelines.actions.githubusercontent.com = 13.107.42.16
 raw.githubusercontent.com = 185.199.108.133
 user-images.githubusercontent.com = 185.199.108.133
-vscode.dev = 13.107.246.51
 education.github.com = 140.82.114.22
 private-user-images.githubusercontent.com = 185.199.108.133
