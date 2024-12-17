@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-17T01:51:47.859Z
-# Size: 2819
+# Last Updated: 2024-12-17T03:35:12.326Z
+# Size: 2822
 # 
 #########################################
 rules.ac
@@ -1842,6 +1842,7 @@ jfe-cdn.qualtrics.com
 +.siteintercept.qualtrics.com
 img.represent.com
 img.riskified.com
+cdn.royaleapi.com
 media-cldnry.s-nbcnews.com
 assets.scaleflex.com
 sigma9.scpwikicn.com
@@ -2772,6 +2773,8 @@ s3.eu-central-003.backblazeb2.com
 images.store.crowdstrike.com
 img1.ak.crunchyroll.com
 sts.online.visualstudio.com
+telemetry.business.githubcopilot.com
+telemetry.individual.githubcopilot.com
 image.email.microsoftemail.com
 static.na1.visioncritical.com
 static.global.visioncritical.com
