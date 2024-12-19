@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-12-19T06:31:47.220Z
-# Size: 702
+# Last Updated: 2024-12-19T09:24:16.204Z
+# Size: 703
 # 
 #########################################
 DOMAIN,wego.here.com
@@ -614,6 +614,7 @@ DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,matrix.org
 DOMAIN-SUFFIX,nextjs.org
+DOMAIN-SUFFIX,redhat.org
 DOMAIN-SUFFIX,schema.org
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,webrtc.org

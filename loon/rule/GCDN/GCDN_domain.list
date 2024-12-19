@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-19T06:31:47.243Z
-# Size: 2827
+# Last Updated: 2024-12-19T09:24:16.228Z
+# Size: 2828
 # 
 #########################################
 rules.ac
@@ -1542,6 +1542,7 @@ static.moonpay.com
 iframe.nbcnews.com
 nodeassets.nbcnews.com
 assets.nflxext.com
+lc.nssurge.com
 static.olelive.com
 assets.ontrack.com
 cdn.parsely.com
