@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-20T12:41:15.230Z
-# Size: 2847
+# Last Updated: 2024-12-20T15:21:41.693Z
+# Size: 2855
 # 
 #########################################
 rules.ac
@@ -357,6 +357,7 @@ thumbsnap.com
 .imgikuncdn.com
 .liangzipic.com
 .media-imdb.com
+.msftstatic.com
 .myfilebase.com
 .myshopapps.com
 .netdna-ssl.com
@@ -490,6 +491,7 @@ conversiongorilla.com
 .googleusercontent.com
 navismithapis-cdn.com
 .notionusercontent.com
+.scorecardresearch.com
 .ssl-images-amazon.com
 .storjipfs-gateway.com
 .yammerusercontent.com
@@ -746,6 +748,7 @@ previews.fleek.co
 storageapi.fleek.co
 storageapi2.fleek.co
 app-static.turtl.co
+us-js.zonka.co
 .widget.clutch.co
 img.ifunny.co
 static.ifunny.co
@@ -1055,7 +1058,8 @@ st3.zoom.us
 eu01ccistatic.zoom.us
 us01ccistatic.zoom.us
 cdn.donmai.us
-cdn.bsky.app
+.cdn.bsky.app
+video.bsky.app
 cdn.rive.app
 e.linear.app
 public.linear.app
@@ -1107,6 +1111,7 @@ m3.gab.com
 certona.gap.com
 sm.ign.com
 ovp.itv.com
+ntp.msn.com
 assets.msn.com
 .cfcdn.mux.com
 image.mux.com
@@ -1606,6 +1611,7 @@ api.weather.com
 mparticle.weather.com
 screenshots.webflow.com
 .uploads-ssl.webflow.com
+time.windows.com
 static.workday.com
 i.xgroovy.com
 cdn.xgroovy.com
@@ -2268,6 +2274,7 @@ images.blackmagicdesign.com
 jslibs.blackmagicdesign.com
 js.braintreegateway.com
 assets.braintreegateway.com
+static.captcha-delivery.com
 pkg.cloudflareclient.com
 assets4.mist-train-girls.com
 oss-binaries.phusionpassenger.com
@@ -2819,6 +2826,7 @@ cdn.graph.office.net
 support.content.office.net
 avatars.mds.yandex.net
 .crash-reports.browser.yandex.net
+edgecdn-embza6g8cacagcbn.z01.azurefd.net
 interactive-examples.mdn.mozilla.net
 .blob.core.windows.net
 .file.core.windows.net

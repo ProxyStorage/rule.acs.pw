@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2024-12-20T12:41:15.208Z
-# Size: 703
+# Last Updated: 2024-12-20T15:21:41.671Z
+# Size: 708
 # 
 #########################################
 DOMAIN,wego.here.com
@@ -113,6 +113,7 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,g2.com
 DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,ui.com
 DOMAIN-SUFFIX,wp.com
@@ -365,6 +366,7 @@ DOMAIN-SUFFIX,leetcode.com
 DOMAIN-SUFFIX,linecorp.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,localazy.com
+DOMAIN-SUFFIX,medallia.com
 DOMAIN-SUFFIX,mikrotik.com
 DOMAIN-SUFFIX,mixcloud.com
 DOMAIN-SUFFIX,mypikpak.com
@@ -509,6 +511,7 @@ DOMAIN-SUFFIX,xpressunblock.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,line-apps-beta.com
 DOMAIN-SUFFIX,redtubepremium.com
+DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,businessinsider.com
@@ -644,6 +647,7 @@ DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,mayoclinic.org
+DOMAIN-SUFFIX,rfc-editor.org
 DOMAIN-SUFFIX,sleazyfork.org
 DOMAIN-SUFFIX,south-plus.org
 DOMAIN-SUFFIX,tensorflow.org
@@ -669,6 +673,7 @@ DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,certificate-transparency.org
 DOMAIN-SUFFIX,huobi.pro
 DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,activated.win
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,bikaa.xyz
 DOMAIN-SUFFIX,bikac.xyz

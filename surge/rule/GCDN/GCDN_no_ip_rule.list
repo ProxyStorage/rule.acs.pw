@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-12-20T12:41:15.228Z
-# Size: 46
+# Last Updated: 2024-12-20T15:21:41.692Z
+# Size: 47
 # 
 #########################################
 DOMAIN,cdn-msp.jmcomic.me
@@ -32,6 +32,7 @@ DOMAIN-WILDCARD,static-??-cdn.eporner.com
 DOMAIN-WILDCARD,file?.mikuclub.fun
 DOMAIN-WILDCARD,cdn?.mikuclub.fun
 DOMAIN-WILDCARD,cdns.*.gigya.com
+DOMAIN-WILDCARD,sdk.*.braze.eu
 DOMAIN-WILDCARD,video-thumbnail2.fc2.com
 DOMAIN-WILDCARD,video?-thumbnail?.fc2.com
 DOMAIN-WILDCARD,video-thumbnail2.liaoningmovie.net
