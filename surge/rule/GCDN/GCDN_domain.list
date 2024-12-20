@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-20T15:21:41.692Z
-# Size: 2855
+# Last Updated: 2024-12-20T18:28:38.164Z
+# Size: 2856
 # 
 #########################################
 rules.ac
@@ -2824,6 +2824,7 @@ res-geo.cdn.office.net
 cdn.forms.office.net
 cdn.graph.office.net
 support.content.office.net
+.nel.measure.office.net
 avatars.mds.yandex.net
 .crash-reports.browser.yandex.net
 edgecdn-embza6g8cacagcbn.z01.azurefd.net
