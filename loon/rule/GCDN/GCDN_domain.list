@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-22T09:19:39.665Z
-# Size: 2856
+# Last Updated: 2024-12-22T12:38:20.984Z
+# Size: 2857
 # 
 #########################################
 rules.ac
@@ -1115,6 +1115,7 @@ ntp.msn.com
 assets.msn.com
 .cfcdn.mux.com
 image.mux.com
+stream.mux.com
 sp.nba.com
 cdn.nba.com
 tags.nba.com
