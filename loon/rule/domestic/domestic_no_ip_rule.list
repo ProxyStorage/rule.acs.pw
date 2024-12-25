@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-12-25T09:21:26.915Z
-# Size: 761
+# Last Updated: 2024-12-25T12:40:34.844Z
+# Size: 762
 # 
 #########################################
 DOMAIN,url.cn
@@ -721,6 +721,7 @@ DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,kdslife.net
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,oschina.net
+DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,dizzylab.net
 DOMAIN-SUFFIX,staticdn.net

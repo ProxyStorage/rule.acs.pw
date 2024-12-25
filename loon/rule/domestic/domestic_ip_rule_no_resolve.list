@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's IP Rule
-# Last Updated: 2024-12-25T09:21:26.916Z
-# Size: 4212
+# Last Updated: 2024-12-25T12:40:34.844Z
+# Size: 4218
 # No Resolve
 #########################################
 IP-CIDR,140.205.1.0/24,no-resolve
@@ -1204,8 +1204,6 @@ IP-CIDR,103.107.0.0/22,no-resolve
 IP-CIDR,103.107.188.0/22,no-resolve
 IP-CIDR,103.107.216.0/21,no-resolve
 IP-CIDR,103.108.192.0/23,no-resolve
-IP-CIDR,103.108.225.0/24,no-resolve
-IP-CIDR,103.108.227.0/24,no-resolve
 IP-CIDR,103.108.244.0/24,no-resolve
 IP-CIDR,103.108.247.0/24,no-resolve
 IP-CIDR,103.109.106.0/23,no-resolve
@@ -1249,6 +1247,7 @@ IP-CIDR,103.123.4.0/23,no-resolve
 IP-CIDR,103.126.1.0/24,no-resolve
 IP-CIDR,103.126.124.0/22,no-resolve
 IP-CIDR,103.126.208.0/22,no-resolve
+IP-CIDR,103.127.219.0/24,no-resolve
 IP-CIDR,103.131.138.0/23,no-resolve
 IP-CIDR,103.131.152.0/22,no-resolve
 IP-CIDR,103.131.168.0/22,no-resolve
@@ -1556,6 +1555,7 @@ IP-CIDR,103.255.92.0/22,no-resolve
 IP-CIDR,103.255.140.0/22,no-resolve
 IP-CIDR,103.255.200.0/22,no-resolve
 IP-CIDR,104.70.181.0/24,no-resolve
+IP-CIDR,104.192.80.0/21,no-resolve
 IP-CIDR,104.193.8.0/22,no-resolve
 IP-CIDR,104.233.144.0/21,no-resolve
 IP-CIDR,104.233.157.0/24,no-resolve
@@ -2295,7 +2295,9 @@ IP-CIDR,119.44.52.0/24,no-resolve
 IP-CIDR,119.44.56.0/21,no-resolve
 IP-CIDR,119.44.192.0/24,no-resolve
 IP-CIDR,119.44.200.0/24,no-resolve
-IP-CIDR,119.44.205.0/24,no-resolve
+IP-CIDR,119.44.204.0/23,no-resolve
+IP-CIDR,119.44.202.0/23,no-resolve
+IP-CIDR,119.44.206.0/24,no-resolve
 IP-CIDR,119.44.208.0/22,no-resolve
 IP-CIDR,119.44.212.0/23,no-resolve
 IP-CIDR,119.44.224.0/20,no-resolve
@@ -2551,7 +2553,8 @@ IP-CIDR,123.8.0.0/13,no-resolve
 IP-CIDR,123.4.0.0/14,no-resolve
 IP-CIDR,123.49.192.0/23,no-resolve
 IP-CIDR,123.49.195.0/24,no-resolve
-IP-CIDR,123.49.240.0/22,no-resolve
+IP-CIDR,123.49.240.0/24,no-resolve
+IP-CIDR,123.49.242.0/23,no-resolve
 IP-CIDR,123.49.245.0/24,no-resolve
 IP-CIDR,123.52.0.0/14,no-resolve
 IP-CIDR,123.56.0.0/15,no-resolve
@@ -2895,11 +2898,13 @@ IP-CIDR,154.19.88.0/22,no-resolve
 IP-CIDR,154.19.100.0/22,no-resolve
 IP-CIDR,154.19.112.0/20,no-resolve
 IP-CIDR,154.23.188.0/22,no-resolve
+IP-CIDR,154.89.32.0/20,no-resolve
 IP-CIDR,154.195.64.0/19,no-resolve
 IP-CIDR,154.197.156.0/24,no-resolve
 IP-CIDR,154.197.163.0/24,no-resolve
 IP-CIDR,154.197.168.0/24,no-resolve
 IP-CIDR,154.197.172.0/24,no-resolve
+IP-CIDR,154.197.212.0/24,no-resolve
 IP-CIDR,154.197.224.0/24,no-resolve
 IP-CIDR,154.198.214.0/23,no-resolve
 IP-CIDR,154.198.224.0/22,no-resolve
@@ -2911,6 +2916,7 @@ IP-CIDR,154.205.88.0/21,no-resolve
 IP-CIDR,154.205.87.0/24,no-resolve
 IP-CIDR,154.205.112.0/21,no-resolve
 IP-CIDR,154.205.124.0/22,no-resolve
+IP-CIDR,154.223.96.0/19,no-resolve
 IP-CIDR,155.126.176.0/23,no-resolve
 IP-CIDR,156.0.92.0/22,no-resolve
 IP-CIDR,156.107.160.0/24,no-resolve
@@ -2919,6 +2925,7 @@ IP-CIDR,156.107.179.0/24,no-resolve
 IP-CIDR,156.107.181.0/24,no-resolve
 IP-CIDR,156.224.128.0/24,no-resolve
 IP-CIDR,156.224.168.0/24,no-resolve
+IP-CIDR,156.224.176.0/24,no-resolve
 IP-CIDR,156.224.200.0/24,no-resolve
 IP-CIDR,156.227.48.0/20,no-resolve
 IP-CIDR,156.227.40.0/21,no-resolve
@@ -2926,7 +2933,6 @@ IP-CIDR,156.232.10.0/23,no-resolve
 IP-CIDR,156.232.9.0/24,no-resolve
 IP-CIDR,156.239.0.0/20,no-resolve
 IP-CIDR,156.239.64.0/18,no-resolve
-IP-CIDR,156.239.224.0/19,no-resolve
 IP-CIDR,156.247.8.0/22,no-resolve
 IP-CIDR,156.247.12.0/23,no-resolve
 IP-CIDR,156.247.14.0/24,no-resolve
