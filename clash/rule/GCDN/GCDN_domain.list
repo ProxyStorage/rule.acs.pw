@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-27T12:40:38.787Z
+# Last Updated: 2024-12-27T15:21:06.280Z
 # Size: 2859
 # 
 #########################################
@@ -1826,7 +1826,7 @@ media-cdn.epicgames.com
 static-assets-prod.epicgames.com
 snippets.freshchat.com
 cdn.freshdesk.com
-static.frostming.com
+webp.frostming.com
 mosaic.fxtwitter.com
 mosaic-blender.fxtwitter.com
 i.geekflare.com
