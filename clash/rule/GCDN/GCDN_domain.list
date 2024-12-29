@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-29T03:29:02.309Z
-# Size: 2859
+# Last Updated: 2024-12-29T06:28:20.288Z
+# Size: 2861
 # 
 #########################################
 rules.ac
@@ -169,6 +169,7 @@ mui.com
 +.fsvod1.com
 +.glbimg.com
 +.hembed.com
++.hommec.com
 +.iggcdn.com
 +.imgbox.com
 +.imgtbl.com
@@ -954,6 +955,7 @@ mangaz-books.j-comi.jp
 mangaz-static.j-comi.jp
 livedoor.blogimg.jp
 resize.blogsys.jp
+cdn.wikiwiki.jp
 media.yukimochi.jp
 +.ipfs.lain.la
 pomf2.lain.la
