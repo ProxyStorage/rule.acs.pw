@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-30T12:41:31.323Z
-# Size: 2866
+# Last Updated: 2024-12-30T15:21:40.341Z
+# Size: 2868
 # 
 #########################################
 rules.ac
@@ -2308,6 +2308,8 @@ mastodon-static.miao.dev
 cdn.pika.dev
 p.sda1.dev
 npm.antfu.dev
+p.depot.dev
+k-cdn.depot.dev
 fonts.upset.dev
 plugins.dprint.dev
 fiddle.fastly.dev
