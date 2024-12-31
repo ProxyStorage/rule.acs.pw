@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-12-31T03:24:58.860Z
-# Size: 762
+# Last Updated: 2024-12-31T06:29:46.528Z
+# Size: 764
 # 
 #########################################
 DOMAIN,url.cn
@@ -598,6 +598,7 @@ DOMAIN-SUFFIX,soufunimg.com
 DOMAIN-SUFFIX,takungpao.com
 DOMAIN-SUFFIX,tantanapp.com
 DOMAIN-SUFFIX,taobaocdn.com
+DOMAIN-SUFFIX,volcvideo.com
 DOMAIN-SUFFIX,wandoujia.com
 DOMAIN-SUFFIX,weathercn.com
 DOMAIN-SUFFIX,wmsjsteam.com
@@ -613,6 +614,7 @@ DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,dbankcloud.com
 DOMAIN-SUFFIX,didiglobal.com
 DOMAIN-SUFFIX,didistatic.com
+DOMAIN-SUFFIX,edge-byted.com
 DOMAIN-SUFFIX,fqnovelpic.com
 DOMAIN-SUFFIX,guoguo-app.com
 DOMAIN-SUFFIX,heytapmobi.com

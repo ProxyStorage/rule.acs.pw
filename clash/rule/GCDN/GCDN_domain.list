@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-31T03:24:58.895Z
-# Size: 2868
+# Last Updated: 2024-12-31T06:29:46.559Z
+# Size: 2869
 # 
 #########################################
 rules.ac
@@ -2547,6 +2547,7 @@ web-static.archive.org
 pcz.javidol.org
 cdn.mathjax.org
 archive.mozilla.org
+s.slideme.org
 +.proxy.ustclug.org
 tools-static.wmflabs.org
 static.aizanmei.org
