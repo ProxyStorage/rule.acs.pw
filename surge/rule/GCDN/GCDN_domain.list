@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2024-12-31T06:29:46.558Z
-# Size: 2869
+# Last Updated: 2024-12-31T09:21:21.157Z
+# Size: 2873
 # 
 #########################################
 rules.ac
@@ -1858,6 +1858,7 @@ ajax.microsoft.com
 wcpstatic.microsoft.com
 .smartscreen.microsoft.com
 store-images.microsoft.com
+cdn-dynmedia-1.microsoft.com
 cdn.miohentai.com
 public.mocortech.com
 static.mocortech.com
@@ -2153,6 +2154,7 @@ img.atlasobscura.com
 assets.atlasobscura.com
 cdn.axieinfinity.com
 axiecdn.axieinfinity.com
+cdn.botframework.com
 cdnjs.buymeacoffee.com
 cdn.clever-cloud.com
 assets.clever-cloud.com
@@ -2256,6 +2258,8 @@ next-images.opencollective.com
 web-assets.otogi-frontier.com
 api.pwnedpasswords.com
 micro.rubiconproject.com
+image.telanganatoday.com
+media.telanganatoday.com
 img.washingtonpost.com
 talk.washingtonpost.com
 shopify.cleverecommerce.com
