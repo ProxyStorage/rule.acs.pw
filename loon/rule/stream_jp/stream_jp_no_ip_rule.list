@@ -1,9 +1,10 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-12-31T15:21:00.715Z
-# Size: 26
+# Last Updated: 2024-12-31T18:27:59.107Z
+# Size: 27
 # 
 #########################################
+DOMAIN,ds-linear-abematv.akamaized.net
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,hulu.jp
@@ -27,6 +28,6 @@ DOMAIN-SUFFIX,hayabusa.dev
 DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,dmm.co.jp
-DOMAIN-KEYWORD,abematv.akamaized.net
+DOMAIN-SUFFIX,location-plus.nhk.jp
 USER-AGENT,AbemaTV*
 USER-AGENT,Niconico*

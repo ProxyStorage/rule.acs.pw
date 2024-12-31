@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2024-12-31T15:21:00.709Z
-# Size: 308
+# Last Updated: 2024-12-31T18:27:59.102Z
+# Size: 309
 # 
 #########################################
 DOMAIN,ocvideo.apple.com
@@ -15,6 +15,7 @@ DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,dashasiafox.akamaized.net
 DOMAIN,staticasiafox.akamaized.net
+DOMAIN,ds-linear-abematv.akamaized.net
 DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN,players.brightcove.net
@@ -223,6 +224,7 @@ DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,spotify.design
 DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,location-plus.nhk.jp
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kkbox.com.tw
 DOMAIN-SUFFIX,bahamut.com.tw
@@ -247,7 +249,6 @@ DOMAIN-SUFFIX,ani.gamer.com.tw
 DOMAIN-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net
 DOMAIN-SUFFIX,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,psg.cdn.hgc.com.hk
-DOMAIN-KEYWORD,abematv.akamaized.net
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live

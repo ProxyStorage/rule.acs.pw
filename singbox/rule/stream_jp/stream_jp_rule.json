@@ -2,7 +2,9 @@
   "version": 2,
   "rules": [
     {
-      "domain": [],
+      "domain": [
+        "ds-linear-abematv.akamaized.net"
+      ],
       "domain_suffix": [
         "abema.io",
         "hayabusa.io",
@@ -26,11 +28,10 @@
         "hayabusa.dev",
         "dmc.nico",
         "hayabusa.media",
-        "dmm.co.jp"
+        "dmm.co.jp",
+        "location-plus.nhk.jp"
       ],
-      "domain_keyword": [
-        "abematv.akamaized.net"
-      ],
+      "domain_keyword": [],
       "process_name": [],
       "domain_regex": []
     }
