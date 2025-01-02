@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-02T12:41:29.605Z
-# Size: 2874
+# Last Updated: 2025-01-02T15:21:42.488Z
+# Size: 2883
 # 
 #########################################
 rules.ac
@@ -275,6 +275,7 @@ geoip-js.com
 .ibyteimg.com
 .imagebam.com
 .kirafile.com
+.lbpicpic.com
 .lowescdn.com
 momentjs.com
 .msftncsi.com
@@ -388,6 +389,8 @@ optimizely.com
 .firebaseapp.com
 .fontawesome.com
 .intercomcdn.com
+.jpgjingpinx.com
+.lbpictupian.com
 .localizecdn.com
 .ltwebstatic.com
 .parastorage.com
@@ -447,6 +450,7 @@ yummlystatic.com
 .dropboxstatic.com
 .envato-static.com
 .gadgets360cdn.com
+.gamesgamescdn.com
 .highwinds-cdn.com
 .mcusercontent.com
 .mvnrepository.com
@@ -670,6 +674,7 @@ phishing.army
 .nel.goog
 .usercontent.goog
 .assets-servd.host
+.ddpic.info
 .myvideos.info
 .deno.land
 .nest.land
@@ -1381,6 +1386,7 @@ cdn.missav.com
 .video.missav.com
 static.missav.com
 thumbnail.missav.com
+img.ml0987.com
 launchercontent.mojang.com
 static-main.moovit.com
 img.mresou.com
@@ -2572,6 +2578,7 @@ cdn.travis-ci.org
 upload.wikimedia.org
 creativajs.altervista.org
 cdn.autoketing.org
+cdn.gamemonkey.org
 cdn.libravatar.org
 seccdn.libravatar.org
 assets.mayoclinic.org
@@ -2615,6 +2622,8 @@ api.allorigins.win
 wimg.rule34.xxx
 i.xozilla.xxx
 img.hentaihaven.xxx
+img.ra7.xyz
+vod.jfly.xyz
 cdn-longterm.mee6.xyz
 img.timero.xyz
 img.catwvod.xyz
