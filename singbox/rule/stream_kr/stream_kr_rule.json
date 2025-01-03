@@ -3,10 +3,7 @@
   "rules": [
     {
       "domain": [],
-      "domain_suffix": [
-        "smartmediarep.com",
-        "tv.naver.com"
-      ],
+      "domain_suffix": [],
       "domain_keyword": [],
       "process_name": [],
       "domain_regex": []

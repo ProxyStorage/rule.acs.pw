@@ -2,13 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-        "gs-loc-cn.apple.com",
-        "api.smoot.apple.cn",
-        "res.cdn.office.net",
-        "res-1.cdn.office.net",
-        "statics.teams.cdn.office.net"
-      ],
+      "domain": [],
       "domain_suffix": [
         "a1.mzstatic.com",
         "a2.mzstatic.com",
@@ -181,30 +175,7 @@
         "www.apple.com.edgekey.net.globalredir.akadns.net",
         "www.apple.com.edgekey.net",
         "www.apple.com",
-        "xp.apple.com",
-        "apple.com.cn",
-        "icloud.com.cn",
-        "cn.apple.com",
-        "cn.ls.apple.com",
-        "cn-ssl.ls.apple.com",
-        "fs.microsoft.com",
-        "sdx.microsoft.com",
-        "docs.microsoft.com",
-        "build.microsoft.com",
-        "learn.microsoft.com",
-        "devblogs.microsoft.com",
-        "download.microsoft.com",
-        "developer.microsoft.com",
-        "officecdn.microsoft.com",
-        "cn.windowssearch.com",
-        "ctldl.windowsupdate.com",
-        "download.windowsupdate.com",
-        "wscont1.apps.microsoft.com",
-        "wscont2.apps.microsoft.com",
-        "download.prss.microsoft.com",
-        "download.visualstudio.microsoft.com",
-        "storeedgefd.dsx.mp.microsoft.com",
-        "dl.delivery.mp.microsoft.com"
+        "xp.apple.com"
       ],
       "domain_keyword": [],
       "process_name": [],

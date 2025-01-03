@@ -1,44 +1,9 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2025-01-03T12:41:14.358Z
-# Size: 44
+# Last Updated: 2025-01-03T15:22:00.800Z
+# Size: 9
 # 
 #########################################
-DOMAIN,bcbolt446c5271-a.akamaihd.net
-DOMAIN,dashasiafox.akamaized.net
-DOMAIN,staticasiafox.akamaized.net
-DOMAIN,cbsservice.aws.syncbak.com
-DOMAIN,cbsplaylistserver.aws.syncbak.com
-DOMAIN,edge.api.brightcove.com
-DOMAIN,cbsi.live.ott.irdeto.com
-DOMAIN-SUFFIX,discoveryplus.in
-DOMAIN-SUFFIX,hulu.jp
-DOMAIN-SUFFIX,happyon.jp
-DOMAIN-SUFFIX,hjholdings.jp
-DOMAIN-SUFFIX,hulu.tv
-DOMAIN-SUFFIX,pluto.tv
-DOMAIN-SUFFIX,hulu.us
-DOMAIN-SUFFIX,fox.com
-DOMAIN-SUFFIX,sho.com
-DOMAIN-SUFFIX,cbsi.com
-DOMAIN-SUFFIX,hulu.com
-DOMAIN-SUFFIX,vudu.com
-DOMAIN-SUFFIX,dnitv.com
-DOMAIN-SUFFIX,foxdcg.com
-DOMAIN-SUFFIX,huluim.com
-DOMAIN-SUFFIX,uplynk.com
-DOMAIN-SUFFIX,foxplus.com
-DOMAIN-SUFFIX,showtime.com
-DOMAIN-SUFFIX,cbsivideo.com
-DOMAIN-SUFFIX,disco-api.com
-DOMAIN-SUFFIX,encoretvb.com
-DOMAIN-SUFFIX,peacocktv.com
-DOMAIN-SUFFIX,cbsaavideo.com
-DOMAIN-SUFFIX,hulustream.com
-DOMAIN-SUFFIX,theplatform.com
-DOMAIN-SUFFIX,discoveryplus.com
-DOMAIN-SUFFIX,paramountplus.com
-DOMAIN-SUFFIX,discoveryplus.co.uk
 USER-AGENT,FOX NOW*
 USER-AGENT,FOXPlus*
 USER-AGENT,Hulu*
