@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-03T01:42:48.986Z
-# Size: 627
+# Last Updated: 2025-01-03T03:25:59.398Z
+# Size: 628
 # 
 #########################################
 ghp.ci
@@ -218,6 +218,7 @@ amupdatedl2.microsoft.com
 amupdatedl3.microsoft.com
 amupdatedl4.microsoft.com
 amupdatedl5.microsoft.com
+officecdnmac.microsoft.com
 .software-download.microsoft.com
 mirror.navercorp.com
 desktop.parallels.com

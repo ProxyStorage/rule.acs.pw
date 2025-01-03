@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-03T01:42:48.974Z
-# Size: 2887
+# Last Updated: 2025-01-03T03:25:59.382Z
+# Size: 2901
 # 
 #########################################
 rules.ac
@@ -503,6 +503,7 @@ navismithapis-cdn.com
 .yammerusercontent.com
 .firefoxusercontent.com
 .misskeyusercontent.com
+.patreonusercontent.com
 .w-corp-staticblitz.com
 .sciencedirectassets.com
 .1passwordusercontent.com
@@ -1580,6 +1581,18 @@ lc.nssurge.com
 static.olelive.com
 assets.ontrack.com
 cdn.parsely.com
+c1.patreon.com
+c4.patreon.com
+c5.patreon.com
+c6.patreon.com
+c7.patreon.com
+c8.patreon.com
+c10.patreon.com
+c11.patreon.com
+c13.patreon.com
+c14.patreon.com
+c16.patreon.com
+c17.patreon.com
 static.pingcap.com
 cdn.pixabay.com
 www.pngmart.com
@@ -2376,6 +2389,7 @@ s3.arkjp.net
 amp.azure.net
 dh-site.b-cdn.net
 divhunt.b-cdn.net
+jsdelivr.b-cdn.net
 linuxiac.b-cdn.net
 divhunt-site.b-cdn.net
 panel-production-libs.b-cdn.net
