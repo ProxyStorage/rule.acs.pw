@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2025-01-03T09:21:51.031Z
-# Size: 710
+# Last Updated: 2025-01-03T12:41:14.353Z
+# Size: 713
 # 
 #########################################
 DOMAIN,wego.here.com
@@ -201,6 +201,7 @@ DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,javhd.com
 DOMAIN-SUFFIX,jsbin.com
 DOMAIN-SUFFIX,kakao.com
+DOMAIN-SUFFIX,ko-fi.com
 DOMAIN-SUFFIX,lihkg.com
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,npmjs.com
@@ -370,6 +371,7 @@ DOMAIN-SUFFIX,localazy.com
 DOMAIN-SUFFIX,medallia.com
 DOMAIN-SUFFIX,mikrotik.com
 DOMAIN-SUFFIX,mixcloud.com
+DOMAIN-SUFFIX,modrinth.com
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,nicehash.com
@@ -436,6 +438,7 @@ DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,curseforge.com
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,duckduckgo.com
