@@ -1,10 +1,14 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2025-01-03T15:22:00.453Z
-# Size: 39
+# Last Updated: 2025-01-03T18:28:45.701Z
+# Size: 43
 # 
 #########################################
 DOMAIN,daisydiskapp.com
+DOMAIN-SUFFIX,null
+DOMAIN-SUFFIX,undefined
+DOMAIN-SUFFIX,geo2.adobe.com
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
 DOMAIN-SUFFIX,parallels.cn
 DOMAIN-SUFFIX,parallels.de
 DOMAIN-SUFFIX,parallels.es

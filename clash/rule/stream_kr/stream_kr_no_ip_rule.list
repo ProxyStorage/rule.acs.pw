@@ -1,6 +1,8 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2025-01-03T15:22:00.806Z
-# Size: 0
+# Last Updated: 2025-01-03T18:28:46.078Z
+# Size: 2
 # 
 #########################################
+DOMAIN-SUFFIX,smartmediarep.com
+DOMAIN-SUFFIX,tv.naver.com

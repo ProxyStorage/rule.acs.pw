@@ -6,6 +6,10 @@
         "daisydiskapp.com"
       ],
       "domain_suffix": [
+        "null",
+        "undefined",
+        "geo2.adobe.com",
+        "in.applicationinsights.azure.com",
         "parallels.cn",
         "parallels.de",
         "parallels.es",
