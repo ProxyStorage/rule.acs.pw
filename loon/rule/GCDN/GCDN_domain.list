@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-04T09:20:16.319Z
-# Size: 2907
+# Last Updated: 2025-01-04T12:39:27.099Z
+# Size: 2908
 # 
 #########################################
 rules.ac
@@ -2183,6 +2183,7 @@ assets.atlasobscura.com
 cdn.axieinfinity.com
 axiecdn.axieinfinity.com
 cdn.botframework.com
+cdn.buymeacoffee.com
 cdnjs.buymeacoffee.com
 cdn.clever-cloud.com
 assets.clever-cloud.com
