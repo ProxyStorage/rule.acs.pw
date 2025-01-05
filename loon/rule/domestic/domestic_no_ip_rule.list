@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2025-01-05T15:19:31.841Z
-# Size: 764
+# Last Updated: 2025-01-05T18:26:45.482Z
+# Size: 762
 # 
 #########################################
 DOMAIN,url.cn
@@ -529,7 +529,6 @@ DOMAIN-SUFFIX,miyoushe.com
 DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,myalicdn.com
 DOMAIN-SUFFIX,myqcloud.com
-DOMAIN-SUFFIX,oray-img.com
 DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,pingwest.com
 DOMAIN-SUFFIX,qhstatic.com
@@ -749,7 +748,6 @@ DOMAIN-SUFFIX,miot-spec.org
 DOMAIN-SUFFIX,icourse163.org
 DOMAIN-SUFFIX,landian.vip
 DOMAIN-SUFFIX,gorouter.info
-DOMAIN-SUFFIX,126.link
 DOMAIN-SUFFIX,yqkk.link
 DOMAIN-SUFFIX,haowu.link
 DOMAIN-SUFFIX,chunyu.mobi

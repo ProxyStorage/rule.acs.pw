@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2025-01-05T15:19:31.850Z
-# Size: 715
+# Last Updated: 2025-01-05T18:26:45.493Z
+# Size: 714
 # 
 #########################################
 DOMAIN,wego.here.com
@@ -263,7 +263,6 @@ DOMAIN-SUFFIX,meetup.com
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,nypost.com
-DOMAIN-SUFFIX,nytlog.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,odysee.com
 DOMAIN-SUFFIX,oracle.com

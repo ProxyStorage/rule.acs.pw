@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-05T15:19:31.874Z
-# Size: 2894
+# Last Updated: 2025-01-05T18:26:45.517Z
+# Size: 2893
 # 
 #########################################
 rules.ac
@@ -983,7 +983,6 @@ cdn.glitch.me
 cdn.picrew.me
 cf.javfree.me
 api.crashguard.me
-.ipfs.tayfundogdas.me
 s3.acg.mn
 cdn01.jotfor.ms
 cdn02.jotfor.ms
@@ -1321,7 +1320,6 @@ signal.cdnbye.com
 opensignal.cdnbye.com
 signalcloud.cdnbye.com
 sf-flow-web-cdn.ciciai.com
-.hey10.cjkypo.com
 image.cnbcfm.com
 static-redesign.cnbcfm.com
 static.crypto.com
@@ -1909,6 +1907,7 @@ static.spankbang.com
 .proxy.startpage.com
 .proxy1.startpage.com
 .proxy2.startpage.com
+.proxy3.startpage.com
 .eu-proxy.startpage.com
 .eu-browse.startpage.com
 .a.storyblok.com
