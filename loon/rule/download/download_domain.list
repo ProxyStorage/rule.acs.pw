@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-05T09:19:57.071Z
-# Size: 628
+# Last Updated: 2025-01-05T12:39:16.571Z
+# Size: 629
 # 
 #########################################
 ghp.ci
@@ -506,6 +506,7 @@ cdn.winget.microsoft.com
 download.visualstudio.microsoft.com
 .s3.us-west-002.backblazeb2.com
 update.code.visualstudio.com
+.public.blob.vercel-storage.com
 az764295.vo.msecnd.net
 download-installer.cdn.mozilla.net
 download-core.sys.truenas.net

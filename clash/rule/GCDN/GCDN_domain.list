@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-05T09:19:57.052Z
-# Size: 2908
+# Last Updated: 2025-01-05T12:39:16.551Z
+# Size: 2903
 # 
 #########################################
 rules.ac
@@ -187,7 +187,6 @@ kdata1.com
 +.phncdn.com
 +.pinimg.com
 +.pxgcdn.com
-+.pzvcdn.com
 +.rawgit.com
 +.rbxcdn.com
 +.rdtcdn.com
@@ -203,7 +202,6 @@ kdata1.com
 +.tiqcdn.com
 +.tkcdns.com
 +.tmsimg.com
-+.v82u1l.com
 +.vx-cdn.com
 +.winudf.com
 +.amaicdn.com
@@ -302,7 +300,6 @@ redircdn.com
 +.tpdfiles.com
 +.ucarecdn.com
 +.vimeocdn.com
-+.whweitao.com
 +.xnxx-cdn.com
 +.zdassets.com
 +.abcnewsfe.com
@@ -513,7 +510,6 @@ navismithapis-cdn.com
 +.app-analytics-services.com
 +.hackerone-user-content.com
 runkit-packages-static.com
-+.akamai-content-delivery.com
 +.agechecker-northern-apps.com
 +.w-credentialless-staticblitz.com
 runkit-packages-static-executables.com
@@ -1009,6 +1005,7 @@ images.weserv.nl
 static.nrk.no
 media.masto.nu
 +.ipfs.uploads.nu
+repo.hex.pm
 asset.booth.pm
 files.yande.re
 assets.yande.re
@@ -2040,7 +2037,6 @@ tags.nationwide.com
 media.nationwide.com
 cdn.nerdschalk.com
 learn.optimizely.com
-cms.payloadcms.com
 m-cdn.phonearena.com
 s-cdn.phonearena.com
 cdn.pickystory.com
@@ -2175,7 +2171,6 @@ app.viral-loops.com
 img2.xiangbinjun.com
 images.youracclaim.com
 widgets.zohosalesiq.com
-cdn.9to5terminal.com
 photos5.appleinsider.com
 +.ipfs.arching-kaos.com
 img.atlasobscura.com
