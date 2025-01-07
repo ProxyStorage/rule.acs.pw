@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-07T12:43:12.433Z
-# Size: 2908
+# Last Updated: 2025-01-07T16:02:05.897Z
+# Size: 2909
 # 
 #########################################
 rules.ac
@@ -1623,6 +1623,7 @@ static.tp-link.com
 static-community.tp-link.com
 fonts.twitter.com
 platform.twitter.com
+analytics.twitter.com
 use.typekit.com
 static-dm.ubisoft.com
 staticctf.ubisoft.com

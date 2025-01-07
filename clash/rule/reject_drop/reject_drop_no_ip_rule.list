@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2025-01-07T12:43:12.067Z
-# Size: 43
+# Last Updated: 2025-01-07T16:02:05.541Z
+# Size: 33
 # 
 #########################################
 DOMAIN,daisydiskapp.com
@@ -9,25 +9,15 @@ DOMAIN-SUFFIX,null
 DOMAIN-SUFFIX,undefined
 DOMAIN-SUFFIX,geo2.adobe.com
 DOMAIN-SUFFIX,in.applicationinsights.azure.com
-DOMAIN-SUFFIX,parallels.cn
-DOMAIN-SUFFIX,parallels.de
-DOMAIN-SUFFIX,parallels.es
-DOMAIN-SUFFIX,parallels.fr
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,adobestats.io
-DOMAIN-SUFFIX,parallels.nl
-DOMAIN-SUFFIX,parallels.pt
-DOMAIN-SUFFIX,parallels.ru
 DOMAIN-SUFFIX,uhabo.com
 DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,szbdyd.com
 DOMAIN-SUFFIX,saxysec.com
 DOMAIN-SUFFIX,kuiniuca.com
 DOMAIN-SUFFIX,pkoplink.com
-DOMAIN-SUFFIX,parallels.com
-DOMAIN-SUFFIX,myparallels.com
 DOMAIN-SUFFIX,onethingpcs.com
-DOMAIN-SUFFIX,parallelskorea.com
 DOMAIN-SUFFIX,p2plog.douyucdn.cn
 DOMAIN-SUFFIX,p2p-ali.douyucdn.cn
 DOMAIN-SUFFIX,dyp2p-hw.douyucdn.cn
