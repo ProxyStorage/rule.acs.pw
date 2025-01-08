@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2025-01-08T03:25:37.159Z
-# Size: 309
+# Last Updated: 2025-01-08T06:30:22.149Z
+# Size: 308
 # 
 #########################################
 DOMAIN,ocvideo.apple.com
@@ -123,7 +123,6 @@ DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,indazn.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,ocnttv.com
-DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,uplynk.com
 DOMAIN-SUFFIX,amebame.com

@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-08T03:25:37.179Z
-# Size: 2909
+# Last Updated: 2025-01-08T06:30:22.169Z
+# Size: 2913
 # 
 #########################################
 rules.ac
@@ -916,6 +916,7 @@ docker.cloudsmith.io
 .cdn.greenhouse.io
 boards.greenhouse.io
 cdn.growthbook.io
+tracking.inflection.io
 link.storjshare.io
 proxy.beyondwords.io
 stats.codesandbox.io
@@ -1287,6 +1288,7 @@ imgs.plurk.com
 assets.plurk.com
 images.plurk.com
 avatars.plurk.com
+js.puter.com
 s1.qwant.com
 s2.qwant.com
 files.slack.com
@@ -2700,6 +2702,7 @@ patterns.hiive.cloud
 .ipfs.tubby.cloud
 .gateway.pinata.cloud
 resources-live.sketch.cloud
+cdn.bullwhip.cloud
 media.cleanshot.cloud
 assets.buttondown.email
 jssdk.opin.media
@@ -2855,6 +2858,7 @@ s3.us-west-004.backblazeb2.com
 s3.eu-central-003.backblazeb2.com
 images.store.crowdstrike.com
 img1.ak.crunchyroll.com
+.tunnels.api.visualstudio.com
 sts.online.visualstudio.com
 telemetry.business.githubcopilot.com
 telemetry.individual.githubcopilot.com
