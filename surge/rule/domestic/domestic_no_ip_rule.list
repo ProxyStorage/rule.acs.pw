@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2025-01-09T02:10:14.928Z
-# Size: 762
+# Last Updated: 2025-01-09T03:39:12.693Z
+# Size: 763
 # 
 #########################################
 DOMAIN,url.cn
@@ -107,6 +107,7 @@ DOMAIN-SUFFIX,authing.cn
 DOMAIN-SUFFIX,bytecdn.cn
 DOMAIN-SUFFIX,cmfunds.cn
 DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,codehub.cn
 DOMAIN-SUFFIX,csdnimg.cn
 DOMAIN-SUFFIX,jiguang.cn
 DOMAIN-SUFFIX,oneplus.cn

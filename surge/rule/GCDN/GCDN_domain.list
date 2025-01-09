@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-09T02:10:14.965Z
+# Last Updated: 2025-01-09T03:39:12.732Z
 # Size: 2913
 # 
 #########################################
@@ -2029,6 +2029,7 @@ w2.influxdata.com
 .cloud1.influxdata.com
 .cloud2.influxdata.com
 .storage.infomaniak.com
+static.javatpoint.com
 ww2.justanswer.com
 components.justanswer.com
 ww2-secure.justanswer.com
@@ -2744,7 +2745,6 @@ registry.api.cnn.io
 static-mh.content.disney.io
 .ingest.us.sentry.io
 .cdn.manage.runcloud.io
-at.adtech.redventures.io
 pics.dmm.co.jp
 doujin-assets.dmm.co.jp
 error.rakuten.co.jp
