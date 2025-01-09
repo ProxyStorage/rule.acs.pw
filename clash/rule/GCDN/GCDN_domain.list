@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-09T06:29:34.541Z
-# Size: 2913
+# Last Updated: 2025-01-09T09:22:42.268Z
+# Size: 2919
 # 
 #########################################
 rules.ac
@@ -2023,6 +2023,12 @@ img.hellofresh.com
 code.highcharts.com
 cors-proxy.htmldriven.com
 cdn.hypershort.com
+cdn0.iconfinder.com
+cdn1.iconfinder.com
+cdn2.iconfinder.com
+cdn3.iconfinder.com
+cdn4.iconfinder.com
+cdn5.iconfinder.com
 imagizer.imageshack.com
 w2.influxdata.com
 +.cloud.influxdata.com
