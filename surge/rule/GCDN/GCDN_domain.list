@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-10T09:22:54.023Z
-# Size: 2919
+# Last Updated: 2025-01-10T12:42:32.387Z
+# Size: 2918
 # 
 #########################################
 rules.ac
@@ -160,6 +160,7 @@ mui.com
 .xhcdn.com
 .ytimg.com
 .9cache.com
+.aolcdn.com
 .avximg.com
 .cdnjhd.com
 .cwwcdn.com
@@ -1195,6 +1196,7 @@ static-clst.avgle.com
 images.axios.com
 static.axios.com
 privacy.axios.com
+.monitor.azure.com
 .applicationinsights.azure.com
 public-cdn.bblmw.com
 images.bfmtv.com
@@ -2502,7 +2504,6 @@ prod-streaming-video-msn-com.akamaized.net
 img-prod-cms-rt-microsoft-com.akamaized.net
 prod-video-cms-amp-microsoft-com.akamaized.net
 statics-marketingsites-eas-ms-com.akamaized.net
-spoppe-b.azureedge.net
 ni-assets.azureedge.net
 edgestatic.azureedge.net
 typescript.azureedge.net
@@ -2601,7 +2602,6 @@ fonts.codeberg.org
 assets.exercism.org
 image.lichess1.org
 demotiles.maplibre.org
-static.socratic.org
 useruploads.socratic.org
 static.tronscan.org
 cdn.cocoapods.org
@@ -2647,7 +2647,6 @@ cms-assets.webediamovies.pro
 ca.nfs.pub
 badbits.dwebops.pub
 content.any.run
-pic.libilibi.top
 dynamic-assets.mobilius.top
 static-cdn.bytegiftia.top
 media.orz.uno
