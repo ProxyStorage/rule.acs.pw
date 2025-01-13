@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-13T01:48:09.947Z
-# Size: 2917
+# Last Updated: 2025-01-13T03:29:50.518Z
+# Size: 2924
 # 
 #########################################
 rules.ac
@@ -541,6 +541,7 @@ pkg-size.dev
 .imgix.net
 .pixfs.net
 .pximg.net
+.uicdn.net
 .v-cdn.net
 .badgen.net
 .boxcdn.net
@@ -771,6 +772,7 @@ widgets.listenlive.co
 .cdn-uploads.huggingface.co
 .cdn-lfs-us-1.huggingface.co
 .ipfs.slang.cx
+cdn.ionos.de
 sp-spiegel-de.spiegel.de
 .tile.openstreetmap.de
 res.craft.do
@@ -1529,6 +1531,7 @@ images.g2crowd.com
 .app.gitbook.com
 integrations.gitbook.com
 ocsp.godaddy.com
+certificates.godaddy.com
 rsi.grafana.com
 t0.gstatic.com
 t1.gstatic.com
@@ -1903,6 +1906,7 @@ img.picacomic.com
 storage-b.picacomic.com
 .assets.pinterest.com
 cdnstatic.porno-cum.com
+vpncdn.protonweb.com
 js.qualified.com
 jfe-cdn.qualtrics.com
 .siteintercept.qualtrics.com
@@ -2160,6 +2164,7 @@ api.producthunt.com
 assets.raspberrypi.com
 c.s-microsoft.com
 store-images.s-microsoft.com
+assets.salesmartly.com
 img.shoplineapp.com
 assets.squarespace.com
 s3media.squarespace.com
@@ -2251,6 +2256,7 @@ s2.coinmarketcap.com
 s3.coinmarketcap.com
 academy-public.coinmarketcap.com
 s3.cointelegraph.com
+assets.cyberghostvpn.com
 images.design-editor.com
 images7.design-editor.com
 images8.design-editor.com
@@ -2472,6 +2478,7 @@ platform-assets.typekit.net
 social-cdn.vivaldi.net
 unlimited-cdn.waifu2x.net
 cdn.writeas.net
+img.adspower.net
 lumiere-a.akamaihd.net
 spoprod-a.akamaihd.net
 eaassets-a.akamaihd.net
