@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2025-01-14T06:28:29.362Z
+# Last Updated: 2025-01-14T09:21:30.278Z
 # Size: 759
 # 
 #########################################
@@ -453,6 +453,7 @@ DOMAIN-SUFFIX,jdcloud.com
 DOMAIN-SUFFIX,jianshu.com
 DOMAIN-SUFFIX,jiemian.com
 DOMAIN-SUFFIX,jomodns.com
+DOMAIN-SUFFIX,kdslife.com
 DOMAIN-SUFFIX,keepcdn.com
 DOMAIN-SUFFIX,ksosoft.com
 DOMAIN-SUFFIX,kwaicdn.com
@@ -720,7 +721,6 @@ DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaote.net
 DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,kdslife.net
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,oschina.net
 DOMAIN-SUFFIX,smtcdns.net
