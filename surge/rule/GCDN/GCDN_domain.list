@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-15T09:21:31.917Z
-# Size: 2934
+# Last Updated: 2025-01-15T12:40:52.802Z
+# Size: 2935
 # 
 #########################################
 rules.ac
@@ -1905,6 +1905,7 @@ cdn.miohentai.com
 public.mocortech.com
 static.mocortech.com
 images.moovitapp.com
+files.namecheap.com
 cms-assets.nodecraft.com
 .res.office365.com
 cdn.onesignal.com
