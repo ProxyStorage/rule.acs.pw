@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2025-01-16T01:39:53.519Z
-# Size: 722
+# Last Updated: 2025-01-16T03:22:41.446Z
+# Size: 723
 # 
 #########################################
 DOMAIN,wego.here.com
@@ -638,6 +638,7 @@ DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,astrill.org
 DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,solidot.org
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,e-hentai.org

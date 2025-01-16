@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-16T01:39:53.542Z
-# Size: 2935
+# Last Updated: 2025-01-16T03:22:41.469Z
+# Size: 2936
 # 
 #########################################
 rules.ac
@@ -1104,6 +1104,7 @@ media.fs.com
 img-en.fs.com
 resource.fs.com
 front-resource.fs.com
+resource-accel.fs.com
 consent-notice.ft.com
 consent-manager.ft.com
 static.ui.com

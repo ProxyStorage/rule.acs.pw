@@ -1,6 +1,6 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-16T01:39:53.555Z
+# Last Updated: 2025-01-16T03:22:41.483Z
 # Size: 629
 # 
 #########################################
@@ -275,7 +275,7 @@ gamedownloads-rockstargames-com.akamaized.net
 playwright.azureedge.net
 pf-cdn-content-prod.azureedge.net
 ppa.launchpad.net
-dl.discordapp.net
++.dl.discordapp.net
 os-cdn.virtfusion.net
 install.virtfusion.net
 packages.virtfusion.net
