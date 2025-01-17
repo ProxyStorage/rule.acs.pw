@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2025-01-17T12:40:09.548Z
-# Size: 725
+# Last Updated: 2025-01-17T15:21:16.883Z
+# Size: 726
 # 
 #########################################
 DOMAIN,wego.here.com
@@ -338,6 +338,7 @@ DOMAIN-SUFFIX,tinypng.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vivaldi.com
+DOMAIN-SUFFIX,voanews.com
 DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,wikidot.com
 DOMAIN-SUFFIX,workday.com
