@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-17T09:21:09.597Z
-# Size: 2937
+# Last Updated: 2025-01-17T12:40:09.569Z
+# Size: 2940
 # 
 #########################################
 rules.ac
@@ -133,6 +133,7 @@ cloudflare.tv
 .giscus.app
 .vercel.app
 .netlify.app
+.on-fleek.app
 .payloadcms.app
 .pixiv.cat
 .wp.com
@@ -817,6 +818,7 @@ npm.jsr.io
 adkit.9pub.io
 assets.bwbx.io
 badge.fury.io
+libraries.hund.io
 static.itch.io
 cdn.nolt.io
 dl.nwjs.io
@@ -2891,6 +2893,7 @@ static.na1.visioncritical.com
 static.global.visioncritical.com
 .assets.shortbread.aws.dev
 .widgets.marketplace.aws.dev
+cdn.builderprofile.aws.dev
 stats.setapp.macpaw.dev
 assets.science.nasa.gov
 latency-test.lab.skk.moe
