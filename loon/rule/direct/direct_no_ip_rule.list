@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2025-01-17T01:39:33.809Z
-# Size: 181
+# Last Updated: 2025-01-17T03:23:33.710Z
+# Size: 180
 # 
 #########################################
 DOMAIN,unifi
@@ -137,7 +137,6 @@ DOMAIN-SUFFIX,hdatmos.club
 DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,btschool.club
 DOMAIN-SUFFIX,dicmusic.club
-DOMAIN-SUFFIX,hdstreet.club
 DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,j99.info
 DOMAIN-SUFFIX,concertos.live
