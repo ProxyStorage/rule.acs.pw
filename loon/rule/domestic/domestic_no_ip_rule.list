@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2025-01-17T15:21:16.873Z
-# Size: 763
+# Last Updated: 2025-01-17T18:28:07.203Z
+# Size: 762
 # 
 #########################################
 DOMAIN,url.cn
@@ -92,7 +92,6 @@ DOMAIN-SUFFIX,gaokao.cn
 DOMAIN-SUFFIX,huawei.cn
 DOMAIN-SUFFIX,hwccpc.cn
 DOMAIN-SUFFIX,ipanda.cn
-DOMAIN-SUFFIX,juejin.cn
 DOMAIN-SUFFIX,mifile.cn
 DOMAIN-SUFFIX,mybank.cn
 DOMAIN-SUFFIX,neixin.cn

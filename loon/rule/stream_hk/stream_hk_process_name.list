@@ -1,10 +1,11 @@
 #########################################
 # DreamyTZK's Process Name Rule
-# Last Updated: 2025-01-17T15:21:16.895Z
-# Size: 4
+# Last Updated: 2025-01-17T18:28:07.226Z
+# Size: 5
 # Only available on macOS
 #########################################
 PROCESS-NAME,com.viu.pad
 PROCESS-NAME,com.viu.phone
 PROCESS-NAME,com.vuclip.viu
 PROCESS-NAME,com.hktve.viutv
+PROCESS-NAME,com.bstar.intl

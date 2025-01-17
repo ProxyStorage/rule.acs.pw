@@ -1,11 +1,14 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2025-01-17T15:21:16.895Z
-# Size: 23
+# Last Updated: 2025-01-17T18:28:07.226Z
+# Size: 28
 # 
 #########################################
 DOMAIN,hbounify-prod.evergent.com
 DOMAIN,hbolb.onwardsmg.com
+DOMAIN,apm-misaka.biliapi.net
+DOMAIN,upos-bstar-mirrorakam.akamaized.net
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN,players.brightcove.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
 DOMAIN,d1k2us671qcoau.cloudfront.net
@@ -14,10 +17,12 @@ DOMAIN,manifest.prod.boltdns.net
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN-SUFFIX,viu.tv
+DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,hboasia.com
+DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,viu.now.com
