@@ -18,6 +18,7 @@
         "web-assets.zendesk",
         "-res.cloudinary.com",
         "dsn.algolia.net",
+        "-cdn.eporner.com",
         "cdnstatic."
       ],
       "process_name": [],

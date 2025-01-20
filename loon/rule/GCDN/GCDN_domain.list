@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-20T03:23:55.090Z
-# Size: 2942
+# Last Updated: 2025-01-20T06:29:59.934Z
+# Size: 2945
 # 
 #########################################
 rules.ac
@@ -219,6 +219,7 @@ app-spm.com
 .cdnpure.com
 .cdntrex.com
 .cf-ipfs.com
+.cmail19.com
 .cmail20.com
 .denopkg.com
 .ebayimg.com
@@ -229,6 +230,7 @@ app-spm.com
 .fivetiu.com
 .flagcdn.com
 .flaglog.com
+.fourhoi.com
 .gentcdn.com
 .githack.com
 .hardbin.com
@@ -1807,6 +1809,7 @@ app.roboflow.com
 cdn.roboflow.com
 public.saasexch.com
 embed.savvycal.com
+assets.scaleway.com
 .cdn.signalfx.com
 cdn.skymavis.com
 .static.skymavis.com
