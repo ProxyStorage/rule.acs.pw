@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-21T03:22:35.848Z
-# Size: 3016
+# Last Updated: 2025-01-21T06:29:28.073Z
+# Size: 3017
 # 
 #########################################
 rules.ac
@@ -435,6 +435,7 @@ bundlephobia.com
 +.fakestoreapi.com
 +.framerstatic.com
 +.githubassets.com
++.hubspotlinks.com
 +.images-iherb.com
 +.img-dpreview.com
 +.jinyingimage.com
