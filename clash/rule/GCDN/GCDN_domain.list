@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-22T01:42:13.100Z
-# Size: 3019
+# Last Updated: 2025-01-22T03:24:27.558Z
+# Size: 3036
 # 
 #########################################
 rules.ac
@@ -1425,6 +1425,7 @@ cdn.jitbit.com
 code.jquery.com
 +.app.khoros.com
 cdn.kinsta.com
+js.klarna.com
 assets.kraken.com
 assets-cms.kraken.com
 ledger-wp-website-s3-prd.ledger.com
@@ -1526,6 +1527,8 @@ image.vuukle.com
 cdn.weglot.com
 fast.wistia.com
 embed-ssl.wistia.com
+cdn.workos.com
+frontend-apps.workos.com
 img.xhacgn.com
 rapid-cdn.yottaa.com
 static.zaobao.com
@@ -2144,6 +2147,8 @@ tiles.stadiamaps.com
 widget.trustpilot.com
 simplicity.trustpilot.com
 user-images.trustpilot.com
+ecommplugins-scripts.trustpilot.com
+ecommplugins-trustboxsettings.trustpilot.com
 static.typingclub.com
 cdn.userreport.com
 cdn.verifypass.com
@@ -2161,6 +2166,18 @@ cloudfront.barilliance.com
 apps.bazaarvoice.com
 t.betterstack.com
 cdnjs.betterstack.com
+cdn1.bigcommerce.com
+cdn2.bigcommerce.com
+cdn3.bigcommerce.com
+cdn4.bigcommerce.com
+cdn5.bigcommerce.com
+cdn6.bigcommerce.com
+cdn7.bigcommerce.com
+cdn8.bigcommerce.com
+cdn9.bigcommerce.com
+cdn10.bigcommerce.com
+cdn11.bigcommerce.com
+checkout-sdk.bigcommerce.com
 blade-public-static.blade-group.com
 cc.boyfriendtv.com
 cdn77.boyfriendtv.com
