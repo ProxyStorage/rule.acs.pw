@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-21T21:19:16.933Z
-# Size: 3017
+# Last Updated: 2025-01-22T01:42:13.099Z
+# Size: 3019
 # 
 #########################################
 rules.ac
@@ -2311,6 +2311,7 @@ cdn.privacy-mgmt.com
 ak.sail-horizon.com
 image.shutterstock.com
 .ipfs.soul-network.com
+cdn.staticdelivr.com
 media.steampowered.com
 cdn.sunofbeaches.com
 cdn.unrealengine.com
@@ -2419,6 +2420,7 @@ cdn.cms-twdigitalassets.com
 screenshots.downloadtorrentfile.com
 loader.mantis-intelligence.com
 cdn.minecraft-server-list.com
+cdn.quickemailverification.com
 useruploads.visualwebsiteoptimizer.com
 cdn-a.sonyentertainmentnetwork.com
 .ipfs.1-2.dev
