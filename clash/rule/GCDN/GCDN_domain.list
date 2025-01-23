@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-23T12:41:27.367Z
-# Size: 3056
+# Last Updated: 2025-01-23T15:22:33.983Z
+# Size: 3057
 # 
 #########################################
 rules.ac
@@ -2046,6 +2046,7 @@ cdnb.artstation.com
 cdn-www.bluestacks.com
 app.brightback.com
 cdn.britannica.com
+rtcg-access.bytevcloud.com
 public-pages.cbinsights.com
 +.static.chaosgroup.com
 js.chilipiper.com
