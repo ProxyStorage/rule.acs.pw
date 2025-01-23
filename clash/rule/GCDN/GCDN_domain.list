@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-23T03:22:57.115Z
-# Size: 3037
+# Last Updated: 2025-01-23T06:29:12.183Z
+# Size: 3056
 # 
 #########################################
 rules.ac
@@ -141,6 +141,7 @@ cloudflare.tv
 +.pixiv.cat
 +.wp.com
 mui.com
++.a1tb.com
 +.ax1x.com
 +.fsdn.com
 +.sirv.com
@@ -192,6 +193,7 @@ kdata1.com
 +.mmtcdn.com
 +.mngbcn.com
 +.nc-img.com
++.npmcdn.com
 +.odycdn.com
 +.phncdn.com
 +.pinimg.com
@@ -556,6 +558,7 @@ pkg-size.dev
 +.loli.net
 +.cdnbf.net
 +.cdnpk.net
++.cdnpm.net
 +.cdnst.net
 +.dmcdn.net
 +.dwcdn.net
@@ -575,6 +578,7 @@ pkg-size.dev
 +.hbfile.net
 +.imgair.net
 +.mercdn.net
++.mjedge.net
 +.poecdn.net
 +.rspcdn.net
 +.sftcdn.net
@@ -708,6 +712,7 @@ phishing.army
 +.usercontent.goog
 +.assets-servd.host
 +.ddpic.info
++.gdvid.info
 +.myvideos.info
 +.deno.land
 +.nest.land
@@ -1531,6 +1536,7 @@ embed-ssl.wistia.com
 cdn.workos.com
 frontend-apps.workos.com
 img.xhacgn.com
+cdn.xvidzz.com
 rapid-cdn.yottaa.com
 static.zaobao.com
 cdn.zapier.com
@@ -1669,6 +1675,7 @@ c17.patreon.com
 static.pingcap.com
 cdn.pixabay.com
 www.pngmart.com
+m.porn3dx.com
 cdn.quadpay.com
 static.rakuten.com
 cdn-rdstaticassets.readdle.com
@@ -1801,6 +1808,8 @@ cdn.getkoala.com
 cdn.ghostery.com
 cdn.gofundme.com
 snippet.growsumo.com
+fdn.gsmarena.com
+fdn2.gsmarena.com
 cdn.hashnode.com
 imgs3.hcaptcha.com
 newassets.hcaptcha.com
@@ -1911,6 +1920,7 @@ cdn.babylonjs.com
 secure.beer7live.com
 upos-sz-mirroralibstar1.bilivideo.com
 upos-sz-mirrorcosbstar1.bilivideo.com
+static.bravoporn.com
 media.breitbart.com
 badge.buildkite.com
 doppler-config.cbsivideo.com
@@ -1986,6 +1996,7 @@ cdn.royaleapi.com
 media-cldnry.s-nbcnews.com
 assets.scaleflex.com
 sigma9.scpwikicn.com
+images.scrolller.com
 forest-mt-s3.seekrtech.com
 media.shopimind.com
 uploads.sitepoint.com
@@ -2236,6 +2247,11 @@ static9.lottiefiles.com
 assets10.lottiefiles.com
 static10.lottiefiles.com
 +.ipfsgateway.makersplace.com
+static1.muchohentai.com
+static2.muchohentai.com
+static3.muchohentai.com
+static4.muchohentai.com
+static5.muchohentai.com
 i.mydramalist.com
 cdn.myportfolio.com
 pro2-ui-assets-s3-fy.myportfolio.com
@@ -2280,6 +2296,8 @@ asset-cdn.uscardforum.com
 +.js.usemessages.com
 static-cdn.usertesting.com
 app.viral-loops.com
+cdn.webclicks24.com
+static.webclicks24.com
 img2.xiangbinjun.com
 bookface-static.ycombinator.com
 images.youracclaim.com
@@ -2513,6 +2531,7 @@ linuxiac.b-cdn.net
 divhunt-site.b-cdn.net
 hentaiworldtv.b-cdn.net
 vz-2222604c-50b.b-cdn.net
+vz-c0fe498e-5ab.b-cdn.net
 panel-production-libs.b-cdn.net
 img.biguz.net
 fonts.bunny.net

@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2025-01-23T03:22:57.116Z
-# Size: 58
+# Last Updated: 2025-01-23T06:29:12.184Z
+# Size: 57
 # 
 #########################################
 DOMAIN,cdn-msp.jmcomic.me
@@ -17,7 +17,6 @@ DOMAIN-KEYWORD,-res.cloudinary.com
 DOMAIN-KEYWORD,dsn.algolia.net
 DOMAIN-KEYWORD,-cdn.eporner.com
 DOMAIN-KEYWORD,cdn.adultempire.com
-DOMAIN-KEYWORD,cdnstatic.
 DOMAIN-WILDCARD,appcenter-filemanagement-*.cloudapp.net
 DOMAIN-WILDCARD,proxy-*.dailymotion.com
 DOMAIN-WILDCARD,static*.tgstat.ru

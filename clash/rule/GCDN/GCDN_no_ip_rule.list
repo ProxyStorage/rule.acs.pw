@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP RuleSet
-# Last Updated: 2025-01-23T03:22:57.116Z
-# Size: 14
+# Last Updated: 2025-01-23T06:29:12.183Z
+# Size: 13
 # 
 #########################################
 DOMAIN,cdn-msp.jmcomic.me
@@ -17,4 +17,3 @@ DOMAIN-KEYWORD,-res.cloudinary.com
 DOMAIN-KEYWORD,dsn.algolia.net
 DOMAIN-KEYWORD,-cdn.eporner.com
 DOMAIN-KEYWORD,cdn.adultempire.com
-DOMAIN-KEYWORD,cdnstatic.

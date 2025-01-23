@@ -19,8 +19,7 @@
         "-res.cloudinary.com",
         "dsn.algolia.net",
         "-cdn.eporner.com",
-        "cdn.adultempire.com",
-        "cdnstatic."
+        "cdn.adultempire.com"
       ],
       "process_name": [],
       "domain_regex": [
