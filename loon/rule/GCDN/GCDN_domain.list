@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-24T12:40:36.038Z
-# Size: 3061
+# Last Updated: 2025-01-24T15:21:48.462Z
+# Size: 3062
 # 
 #########################################
 rules.ac
@@ -148,6 +148,7 @@ mui.com
 .via0.com
 .yimg.com
 .ahcdn.com
+.cldup.com
 .fbcdn.com
 .fbsbx.com
 .fonts.com
