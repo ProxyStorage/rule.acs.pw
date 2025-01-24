@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-24T06:29:12.534Z
-# Size: 3057
+# Last Updated: 2025-01-24T09:22:03.272Z
+# Size: 3061
 # 
 #########################################
 rules.ac
@@ -511,6 +511,7 @@ searchserverapi.com
 +.googleadservices.com
 +.steamusercontent.com
 +.chargebeestaticv2.com
++.claudeusercontent.com
 conversiongorilla.com
 +.envatousercontent.com
 +.framerusercontent.com
@@ -1032,6 +1033,7 @@ assets.context.ly
 i.vgy.me
 img.xjh.me
 media.e4le.me
+static.fbot.me
 pic.7mmtv.me
 emoji-css.afeld.me
 static.fboom.me
@@ -1465,6 +1467,7 @@ images.now-tv.com
 images.nvidia.com
 pbc.nypost.com
 static.oklink.com
+cdn.openai.com
 static.oracle.com
 +.ipfs.overpi.com
 media.owcnow.com
@@ -2890,6 +2893,7 @@ pics.dmm.co.jp
 doujin-assets.dmm.co.jp
 error.rakuten.co.jp
 web-assets.zendesk.co.jp
+nav.yumenosora.co.jp
 resource.video.nimg.jp
 parts.blog.livedoor.jp
 listing-thumbnail.live.nicovideo.jp
