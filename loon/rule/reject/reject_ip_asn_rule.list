@@ -1,6 +1,16 @@
 #########################################
 # DreamyTZK's IP Rule
-# Last Updated: 2025-01-26T03:22:45.156Z
-# Size: 0
+# Last Updated: 2025-01-26T06:26:55.427Z
+# Size: 10
 # Resolve
 #########################################
+IP-ASN,1012
+IP-ASN,945
+IP-ASN,401111
+IP-ASN,62853
+IP-ASN,27523
+IP-ASN,7719
+IP-ASN,54625
+IP-ASN,7257
+IP-ASN,18044
+IP-ASN,62489
