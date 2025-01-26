@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's No IP Rule
-# Last Updated: 2025-01-26T15:19:51.300Z
-# Size: 732
+# Last Updated: 2025-01-26T18:26:29.937Z
+# Size: 737
 # 
 #########################################
 DOMAIN,wego.here.com
@@ -244,6 +244,7 @@ DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,fandom.com
 DOMAIN-SUFFIX,feedly.com
+DOMAIN-SUFFIX,fixupx.com
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,forbes.com
 DOMAIN-SUFFIX,genius.com
@@ -338,6 +339,7 @@ DOMAIN-SUFFIX,thisvid.com
 DOMAIN-SUFFIX,tinypng.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twittpr.com
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,voanews.com
 DOMAIN-SUFFIX,weather.com
@@ -413,6 +415,7 @@ DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,flipboard.com
+DOMAIN-SUFFIX,fxtwitter.com
 DOMAIN-SUFFIX,gcld-line.com
 DOMAIN-SUFFIX,geekbench.com
 DOMAIN-SUFFIX,githubapp.com
@@ -440,6 +443,7 @@ DOMAIN-SUFFIX,synergyse.com
 DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN-SUFFIX,tmagazine.com
 DOMAIN-SUFFIX,travis-ci.com
+DOMAIN-SUFFIX,vxtwitter.com
 DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,wikipedia.com
 DOMAIN-SUFFIX,wireguard.com
@@ -576,6 +580,7 @@ DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,nitter.net
 DOMAIN-SUFFIX,sc-cdn.net
 DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,apkpure.net
