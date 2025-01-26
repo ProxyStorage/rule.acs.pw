@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-26T12:36:41.088Z
-# Size: 3063
+# Last Updated: 2025-01-26T15:19:51.323Z
+# Size: 3058
 # 
 #########################################
 rules.ac
@@ -324,7 +324,6 @@ redircdn.com
 .appmifile.com
 .aspnetcdn.com
 .assettype.com
-.avdocker3.com
 .awsstatic.com
 .bitgetimg.com
 .bnbstatic.com
@@ -350,6 +349,7 @@ redircdn.com
 .kinja-img.com
 .lowendbox.com
 .lr-ingest.com
+.nhentaimg.com
 .oaistatic.com
 .oculuscdn.com
 .runkitcdn.com
@@ -460,7 +460,6 @@ bundlephobia.com
 .trackerslist.com
 .wikiplus-app.com
 .wpcomstaging.com
-yummlystatic.com
 .adobeccstatic.com
 .assets-yammer.com
 .cbsnewsstatic.com
@@ -561,7 +560,6 @@ pkg-size.dev
 .loli.net
 .cdnbf.net
 .cdnpk.net
-.cdnpm.net
 .cdnst.net
 .dmcdn.net
 .dwcdn.net
@@ -661,7 +659,6 @@ pytorch.org
 .reactjs.org
 .typedoc.org
 .ziglang.org
-.cdnmania.org
 david-dm.org
 open-vsx.org
 .rollupjs.org
@@ -2737,7 +2734,6 @@ cdn.cocoapods.org
 .cdn.cookielaw.org
 cdn.fosstodon.org
 s1.maxstream.org
-s2.maxstream.org
 s4.maxstream.org
 s5.maxstream.org
 s6.maxstream.org
@@ -2746,7 +2742,6 @@ s8.maxstream.org
 s9.maxstream.org
 s10.maxstream.org
 s11.maxstream.org
-s12.maxstream.org
 s13.maxstream.org
 user-uploads.perchance.org
 static.rust-lang.org
