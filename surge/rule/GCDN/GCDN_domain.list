@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-27T06:30:04.337Z
-# Size: 3059
+# Last Updated: 2025-01-27T09:23:15.603Z
+# Size: 3063
 # 
 #########################################
 rules.ac
@@ -1998,6 +1998,7 @@ img.riskified.com
 cdn.royaleapi.com
 media-cldnry.s-nbcnews.com
 assets.scaleflex.com
+cdn.schemaapp.com
 sigma9.scpwikicn.com
 images.scrolller.com
 forest-mt-s3.seekrtech.com
@@ -2043,6 +2044,7 @@ packages.argotunnel.com
 agi.armorgames.com
 cache.armorgames.com
 files.armorgames.com
+wa.arounddeal.com
 cdn.artstation.com
 cdna.artstation.com
 cdnb.artstation.com
@@ -2281,6 +2283,7 @@ assets.squarespace.com
 s3media.squarespace.com
 static1.squarespace.com
 static3.squarespace.com
+static.staff-start.com
 avatar.stefanjudis.com
 cdn.tailwindcss.com
 static.theguardian.com
@@ -3053,6 +3056,7 @@ cdn.pkg.svc.ui.com
 net-fe-static-assets.network-controller.svc.ui.com
 firefox.settings.services.mozilla.com
 talon-website-prod.ecosec.on.epicgames.com
+filestore.community.support.microsoft.com
 rum-agent.na-01.cloud.solarwinds.com
 .cdn.chrome.marketplace.aws.dev
 storage.gra.cloud.ovh.net
