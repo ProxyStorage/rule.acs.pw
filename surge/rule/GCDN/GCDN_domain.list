@@ -1,7 +1,7 @@
 #########################################
 # DreamyTZK's Domain Rule
-# Last Updated: 2025-01-28T18:28:29.410Z
-# Size: 3063
+# Last Updated: 2025-01-28T21:19:03.164Z
+# Size: 3064
 # 
 #########################################
 rules.ac
@@ -280,6 +280,7 @@ p-smith.com
 .zohocdn.com
 .badoocdn.com
 .blogblog.com
+.bunnycdn.com
 .bytedapm.com
 .cdnfonts.com
 .chasecdn.com
