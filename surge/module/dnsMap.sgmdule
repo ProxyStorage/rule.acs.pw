@@ -1,5 +1,5 @@
 #!name=DNS映射
-#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2025-01-28T09:22:09.113Z
+#!desc=1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析 update:2025-01-28T12:40:38.123Z
 #!author=DreamyTZK
 #!category=DreamyTZK
 
